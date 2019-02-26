@@ -35,7 +35,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "events"
     label: "Events"
-    folder: "pages/programme"
+    folder: "pages/sections/programme"
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
