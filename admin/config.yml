@@ -33,7 +33,7 @@ collections:
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages"
+  - name: "events"
     label: "Events"
     folder: "pages/programme"
     create: true # Change to true to allow editors to create new pages
