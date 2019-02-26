@@ -4,6 +4,7 @@ import Page from "/admin/preview-templates/page.js";
 // Register the Post component as the preview for entries in the blog collection
 CMS.registerPreviewTemplate("blog", Post);
 CMS.registerPreviewTemplate("pages", Page);
+CMS.registerPreviewTemplate("events", Page);
 
 CMS.registerPreviewStyle("/_includes/assets/css/inline.css");
 // Register any CSS file on the home page as a preview style
