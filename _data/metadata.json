@@ -1,9 +1,11 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
+  "title": "Judit Polgar",
+  "subtitle": "Pianistin",
+  "currentYear": "2019",
   "url": "https://eleventy-netlify-boilerplate.netlify.com",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Nick Niles",
+    "email": "nick@pastiche.io",
+    "github": "https://github.com/lab27"
   }
 }

@@ -1,5 +1,5 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="de">
 
 	{% include "components/head.njk" %}
 
@@ -7,7 +7,8 @@
 
 		<header>
 			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				<a href="{{ '/' | url }}">{{ metadata.title }}</a><br/>
+        <span>{{ metadata.subtitle }}</span>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>

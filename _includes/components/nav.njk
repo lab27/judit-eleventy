@@ -3,6 +3,17 @@
   {%- for nav in collections.nav | sort(attribute="date") -%}
     <li>
       <a href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>{{ nav.data.navtitle }}</a>
+        <div>
+        {%- for subnav in collections.subnav | sort(attribute="date") -%}
+          {% if nav.data.section == subnav.data.section %}
+            <div>
+              <a href="{{ subnav.url | url }}"{% if subnav.url == page.url %} data-current="current item"{% endif %}>
+                {{ subnav.data.navtitle }}
+              </a>
+            </div>
+          {% endif %}
+        </div>
+      {%- endfor -%}
     </li>
   {%- endfor -%}
   </ul>
