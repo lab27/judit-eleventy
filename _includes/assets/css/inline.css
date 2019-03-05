@@ -193,10 +193,26 @@ button {
   }
 }
 
+.flyer {
+  width: 90%;
+  height: 90%;
+  top: 2rem;
+  left: 2rem;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: #e4e4e4;
+  position: fixed;
+  z-index: -1;
+}
+
 .transition-fade {
   transition: transform 1s cubic-bezier(.77,0,.175,1), opacity .4s linear;
   opacity: 1;
   transform: none;
+}
+
+.transition-fly {
+  transition: transform .75s cubic-bezier(.77,0,.175,1);
 }
 
 html.is-animating .transition-fade {
@@ -206,4 +222,13 @@ html.is-animating .transition-fade {
 
 html.is-animating.is-leaving .transition-fade {
   transform: translateY(-50%);
+}
+
+html.is-animating.is-leaving .transition-fly {
+  transform: translateY(-150%);
+}
+
+html.is-rendering .transition-fly {
+  transform: translateY(100%);
+  opacity: 0;
 }
