@@ -13,12 +13,15 @@
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
+		<main id="swup" class="transition-fade">
 			{{ layoutContent | safe }}
 		</main>
 
 		{% include "components/footer.njk" %}
-
+    <script src="{{ '/' | url }}static/js/swup.min.js"></script>
+    <script>
+    const swup = new Swup(); 
+    </script>
 	</body>
 
 </html>

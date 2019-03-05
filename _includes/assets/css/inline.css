@@ -192,3 +192,18 @@ button {
     grid-template-columns: 20rem 1fr;
   }
 }
+
+.transition-fade {
+  transition: transform 1s cubic-bezier(.77,0,.175,1), opacity .4s linear;
+  opacity: 1;
+  transform: none;
+}
+
+html.is-animating .transition-fade {
+  transform: translateY(50%);
+  opacity: 0;
+}
+
+html.is-animating.is-leaving .transition-fade {
+  transform: translateY(-50%);
+}
