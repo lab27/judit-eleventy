@@ -7,4 +7,3 @@ navtitle: Home
 tags:
   - nav
 ---
-![](/static/img/judit-polgar-1.jpg)

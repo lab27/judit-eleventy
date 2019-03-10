@@ -1,17 +1,12 @@
 <!doctype html>
-<html {% if section %} data-current="{{ section }}"{% endif %} lang="de">
+<html {% if section %} data-current="home"{% endif %} lang="de">
 
 	{% include "components/head.njk" %}
 
 	<body>
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a><br/>
-        <span>{{ metadata.subtitle }}</span>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
+		{% include "components/header.njk" %}
+
     <div class="flyer transition-fly"></div>
 		<main id="swup" class="transition-fade">
 			{{ layoutContent | safe }}
@@ -30,6 +25,8 @@
 			}
 		});
 		swup.on('clickLink', function (e) {
+			console.log('e.target', e.target.dataset.navtitle)
+			document.documentElement.setAttribute('data-current', e.target.dataset.navtitle)
 			$navItem = e.target;
 			globalPath = e.target.attributes.href.nodeValue;
 		});
