@@ -21,6 +21,18 @@
     <script src="{{ '/' | url }}static/js/swup.min.js"></script>
     <script>
     const swup = new Swup(); 
+		let globalPath = '/';
+		let $navItem;
+		swup.on('contentReplaced', function () {
+			console.log('contentReplaced!', window.location.pathname)
+			if (window.location.pathname === globalPath) {
+				$navItem.classList.toggle('active')
+			}
+		});
+		swup.on('clickLink', function (e) {
+			$navItem = e.target;
+			globalPath = e.target.attributes.href.nodeValue;
+		});
     </script>
 	</body>
 
