@@ -1,12 +1,12 @@
 :root {
-    --turkey: #f9f9f9;
+    --turkey: #f4f4f4;
     --white: white;
     --blue: dodgerblue;
     --l-padding: 1rem;
     --l-nav-height: 3rem;
-    --nav-color: white;
-    --c-title-color: var(--white);
-    --c-dark: #2A4678;
+    --nav-color: var(--c-dark);
+    --c-title-color: var(--c-dark);
+    --c-dark: #252525;
 }
 
 *,
@@ -53,8 +53,12 @@ footer {
     padding: var(--l-padding);
 }
 
+footer {
+  text-align: right;
+}
+
 main {
-    padding-bottom: 2em;
+  padding-bottom: 2em;
 }
 
 main :first-child,
@@ -93,7 +97,7 @@ header {
 }
 
 header .heroimage {
-    background: url('/static/img/judit-gradient-header.jpg');
+    background: url('/static/img/judit-light1.jpg');
     background-size: cover;
     position: absolute;
     top: 0;
@@ -104,7 +108,7 @@ header .heroimage {
 }
 
 html[data-current="biografie"] .heroimage {
-    background-image: url('/static/img/judit-gradient-header2.jpg');
+    background-image: url('/static/img/judit-grad.jpg');
 }
 
 header nav {
@@ -120,7 +124,7 @@ header nav {
 header nav ul {
     display: grid;
     width: 100%;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(6, 1fr);
 }
 
 header nav li {
@@ -176,7 +180,6 @@ main>section>article>* {
 
 main section {
     min-height: 20vw;
-    background-color: #fff;
     padding: var(--l-padding);
 }
 
@@ -257,17 +260,6 @@ button {
     }
 }
 
-.flyer {
-    width: 90%;
-    height: 90%;
-    top: 2rem;
-    left: 2rem;
-    bottom: 2rem;
-    right: 2rem;
-    background-color: #e4e4e4;
-    position: fixed;
-    z-index: -1;
-}
 
 .transition-fade {
     transition: transform 1s cubic-bezier(.77, 0, .175, 1), opacity .4s linear;

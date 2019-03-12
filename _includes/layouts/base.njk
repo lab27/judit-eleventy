@@ -7,12 +7,13 @@
 
 		{% include "components/header.njk" %}
 
-    <div class="flyer transition-fly"></div>
 		<main id="swup" class="transition-fade">
 			{{ layoutContent | safe }}
 		</main>
 
 		{% include "components/footer.njk" %}
+		{% include "components/player.njk" %}
+    <script src="{{ '/' | url }}static/js/player.js"></script>
     <script src="{{ '/' | url }}static/js/swup.min.js"></script>
     <script>
     const swup = new Swup(); 
