@@ -1,3 +1,4 @@
+//taken from: https://codepen.io/gregh/pen/NdVvbm
 var audioPlayer = document.querySelector('.green-audio-player');
 var playPause = audioPlayer.querySelector('#playPause');
 var playpauseBtn = audioPlayer.querySelector('.play-pause-btn');
