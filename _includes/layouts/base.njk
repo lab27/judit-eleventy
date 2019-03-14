@@ -16,7 +16,10 @@
     <script src="{{ '/' | url }}static/js/player.js"></script>
     <script src="{{ '/' | url }}static/js/swup.min.js"></script>
     <script>
-    const swup = new Swup(); 
+		const options = {
+    	elements: ['#swup', '.hero']
+		}
+    const swup = new Swup(options); 
 		let globalPath = '/';
 		let $navItem;
 		swup.on('contentReplaced', function () {

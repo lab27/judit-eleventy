@@ -1,9 +1,10 @@
 <header>
-<div class="heroimage transition-blurfade"></div>
+<div class="heroimage"></div>
 {% include "components/nav.njk" %}
-<div class="hero">
-<h1>Judit Polgár</h1>
-<h2>Pianistin</h2>
+
+<div class="hero transition-fade">
+    <h1>{{title}}</h1>
+    <h2>{% if title === 'Judit Polgár' %}Pianistin{% endif %}</h2>
 </div>
 
 </header>
