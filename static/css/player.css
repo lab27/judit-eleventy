@@ -35,11 +35,11 @@
     background-color: var(--c-gray);
     color: var(--c-dark);
     display: flex;
-    flex-flow: row;
+    flex-flow: column;
     justify-content: flex-start;
     align-items: center;
     padding: 1rem 24px;
-    height: 42px;
+    height: 64px;
     width: 98%;
     box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.07);
     border-top-left-radius: 4px;
@@ -51,8 +51,11 @@
     font-size: .75rem;
     line-height: 1;
     font-weight: 500;
-    width: 50%;
-    /* text-transform: uppercase; */
+    width: 100%;
+}
+
+.infobox .title, .infobox .composer, .infobox .singer {
+  font-weight: 700;
 }
 
 .audio.judit-audio-player .play-pause-btn {
@@ -189,5 +192,12 @@ img {
 }
 
 @media screen and (min-width:768px) {
+  .infobox {
+    flex-flow: row;
+    height: 42px;
+  }
 
+  .infobox p {
+    width: calc(100%/3);
+}
 }

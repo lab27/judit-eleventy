@@ -1,8 +1,10 @@
 //taken from: https://codepen.io/gregh/pen/NdVvbm
 const audioPlayer = document.querySelector('.judit-audio-player');
+const playerSource = audioPlayer.querySelector('source');
 const infoBox = document.querySelector('.infobox');
 const songTitleElement = infoBox.querySelector('.title');
 const songComposerElement = infoBox.querySelector('.composer');
+const songSingerElement = infoBox.querySelector('.singer');
 const playPause = audioPlayer.querySelector('#playPause');
 const playpauseBtn = audioPlayer.querySelector('.play-pause-btn');
 const loading = audioPlayer.querySelector('.loading');
@@ -23,10 +25,12 @@ var currentlyDragged = null;
 let currentlyPlaying = 0;
 let currentTitle = '';
 let currentComposer = '';
+let currentSinger = '';
+let wasPlaying;
 
 let playlist = [];
 playlistElements.forEach(function(element) {
-    let obj = {title: element.dataset.songtitle, composer: element.dataset.songcomposer, mp3: element.dataset.mpeg};
+    let obj = {title: element.dataset.songtitle, composer: element.dataset.songcomposer, singer: element.dataset.songsinger, mp3: element.dataset.mpeg};
     console.log('obj', obj)
     playlist.push(obj)
 })
@@ -58,6 +62,9 @@ player.addEventListener('canplay', makePlay);
 player.addEventListener('ended', function () {
   playPause.attributes.d.value = "M18 12L0 24V0";
   player.currentTime = 0;
+  player.pause()
+  wasPlaying = true
+  playNextSong()
 });
 
 volumeBtn.addEventListener('click', () => {
@@ -182,24 +189,34 @@ function togglePlay() {
 function getInitialSongInfo() {
     currentTitle = playlist[0].title
     currentComposer = playlist[0].composer
+    currentSinger = playlist[0].singer
 }
 
 function setSongInfo() {
     songTitleElement.textContent = currentTitle
     songComposerElement.textContent = currentComposer
+    songSingerElement.textContent = currentSinger
 }
 
 function playNextSong() {
     console.log('current', currentlyPlaying)
-    console.log('list lengvth', playlist.length)
-    player.pause()
+    console.log('list length', playlist.length)
+    if (!player.paused) {
+        wasPlaying = true
+        togglePlay()
+    }
+    console.log('getting here?')
     const nextSong = currentlyPlaying < playlist.length -1 ? currentlyPlaying + 1 : 0
     currentlyPlaying = nextSong
-    player.src = playlist[nextSong].mp3
+    playerSource.src = playlist[nextSong].mp3
     currentTitle = playlist[nextSong].title
     currentComposer = playlist[nextSong].composer
-    togglePlay()
+    currentSinger = playlist[nextSong].singer
     setSongInfo()
+    player.load()
+    if (wasPlaying) {
+        togglePlay() 
+    }
 }
 
 function makePlay() {

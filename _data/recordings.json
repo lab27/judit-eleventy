@@ -1,20 +1,23 @@
 [
     {
-        "title": "ass monkeys",
-        "composer": "back",
-        "mp3": "song1.mp3",
-        "ogg": "song1.ogg"
+        "title": "Cat's Pyjamas",
+        "composer": "noodles",
+        "singer": "Drifty MCDoodles",
+        "mp3": "/static/audio/cats.mp3",
+        "ogg": "/static/audio/song1.ogg"
     },
     {
-        "title": "butt darts",
-        "composer": "back",
-        "mp3": "song1.mp3",
-        "ogg": "song1.ogg"
+        "title": "Spires",
+        "composer": "Nonnoo",
+        "singer": "Happy MCDoodles",
+        "mp3": "/static/audio/spires.mp3",
+        "ogg": "/static/audio/song1.ogg"
     },
     {
-        "title": "ass monkeys",
-        "composer": "back",
-        "mp3": "song1.mp3",
-        "ogg": "song1.ogg"
+        "title": "Shangri La Popny Beach",
+        "composer": "boollman",
+        "singer": "Drifty Stankmuffin",
+        "mp3": "/static/audio/shangri.mp3",
+        "ogg": "/static/audio/song1.ogg"
     }
 ]

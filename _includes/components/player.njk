@@ -1,12 +1,12 @@
 <div class="holder">
   <div class="infobox">
-    <p class="title">title</p>
-    <p class="composer">composer</p>
-    <ul id="playlist">
-        {# TODO create this from data file! #}
-        <li data-mpeg="/static/audio/cats.mp3" data-songtitle="cats pyjama" data-songcomposer="nicky noo">Cats</li>
-        <li data-mpeg="/static/audio/spires.mp3" data-songtitle="spires" data-songcomposer="nicky noo">Spires</li>
-        <li data-mpeg="/static/audio/shangri.mp3" data-songtitle="shangri la" data-songcomposer="nicky noo">Shangri</li>
+    <p>Titel: <span class="title"></span></p>
+    <p>KomponistIn: <span class="composer"></span></p>
+    <p>SängerIn: <span class="singer"></span></p>
+    <ul id="playlist" style="display: none; opacity: 0; height: 0;">
+        {% for song in recordings %}
+            <li data-mpeg="{{song.mp3}}" data-songtitle="{{song.title}}" data-songcomposer="{{song.composer}}" data-songsinger="{{song.singer}}">{{song.title}}</li>
+        {% endfor %}
     </ul>
   </div>
   <div class="audio judit-audio-player">
@@ -47,7 +47,7 @@
       </div>
     </div>
 
-    <audio crossorigin>
+    <audio>
       <source src="/static/audio/cats.mp3" type="audio/mpeg">
     </audio>
     
