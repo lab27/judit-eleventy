@@ -1,5 +1,5 @@
 <!doctype html>
-<html {% if section %} data-current="home"{% endif %} lang="de">
+<html {% if section %} data-current="home"{% endif %} lang="de" class="home">
 
 	{% include "components/head.njk" %}
 
@@ -22,17 +22,37 @@
     const swup = new Swup(options); 
 		let globalPath = '/';
 		let $navItem;
+		let currentClass;
+		const navs = document.querySelectorAll('[data-navtitle]')
+		let navtitles = []
+		navs.forEach(function(nav) {
+			navtitles.push(nav.dataset.navtitle)
+		})
+
 		swup.on('contentReplaced', function () {
 			console.log('contentReplaced!', window.location.pathname)
 			if (window.location.pathname === globalPath) {
 				$navItem.classList.toggle('active')
 			}
 		});
+
 		swup.on('clickLink', function (e) {
+			console.log('navs', navtitles)
 			console.log('e.target', e.target.dataset.navtitle)
-			document.documentElement.setAttribute('data-current', e.target.dataset.navtitle)
+			document.documentElement.classList.add('click-happened')
+			currentClass = e.target.dataset.navtitle
+			document.documentElement.setAttribute('data-current', currentClass)
 			$navItem = e.target;
 			globalPath = e.target.attributes.href.nodeValue;
+		});
+
+		swup.on('animationInStart', function (e) {
+			console.log('animation in started!')
+			document.documentElement.classList.remove('click-happened')
+			navtitles.forEach(function(title) {
+				document.documentElement.classList.remove(title)
+			})
+			document.documentElement.classList.add(currentClass)
 		});
     </script>
 	</body>

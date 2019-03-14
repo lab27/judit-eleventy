@@ -96,8 +96,8 @@ header {
 }
 
 header .heroimage {
-    background: url('/static/img/judit-light1.jpg');
-    transition: opacity 1s ease, transform .2s cubic-bezier(.77, 0, .175, 1);
+    background: none;
+    transition: opacity .5s ease;
     background-size: cover;
     position: absolute;
     opacity: 0;
@@ -106,12 +106,50 @@ header .heroimage {
     right: 0;
     height: 50vw;
     z-index: 0;
-    transform-origin: 0 0;
 }
 
-html[data-current="home"] header .heroimage {
+html.click-happened header .heroimage {
+    opacity: 0;
+}
+
+html.home header .heroimage {
+    background: url('/static/img/judit-home-header.jpg');
+    background-size: cover;
     opacity: 1;
-    transform: none;
+}
+
+html.biografie header .heroimage {
+    background: url('/static/img/judit-bio-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
+html.konzerte header .heroimage {
+    background: url('/static/img/judit-konzerte-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
+html.kontakt header .heroimage {
+    background: url('/static/img/judit-kontakt-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
+html.korrepetition header .heroimage {
+    background: url('/static/img/judit-korrepetition-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
+html.diskografie header .heroimage {
+    background: url('/static/img/judit-diskog-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
+html.is-changing header .heroimage {
+    opacity: 0;
 }
 
 header nav {
@@ -170,6 +208,7 @@ header .hero h1 {
     margin: 0;
     color: var(--c-title-color);
     margin-bottom: .5rem;
+    margin-top: calc(var(--l-nav-height) * -1);
 }
 
 header .hero h2 {
