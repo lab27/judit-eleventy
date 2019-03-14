@@ -7,6 +7,7 @@
     --nav-color: var(--c-dark);
     --c-title-color: var(--c-dark);
     --c-dark: #252525;
+    --c-primary: #444;
 }
 
 *,
@@ -42,10 +43,6 @@ code {
 a[href],
 a[href]:visited {
     color: var(--nav-color);
-}
-
-a[href]:not(:hover) {
-    /* text-decoration: none; */
 }
 
 header,
@@ -107,10 +104,6 @@ header .heroimage {
     z-index: 0;
 }
 
-html[data-current="biografie"] .heroimage {
-    background-image: url('/static/img/judit-grad.jpg');
-}
-
 header nav {
     display: flex;
     width: 100%;
@@ -133,10 +126,18 @@ header nav li {
     display: inline-block;
 }
 
+header nav li a {
+  text-transform: uppercase;
+  font-size: .75rem;
+  font-weight: 500;
+}
+
 header nav li a[href]:not(:hover) {
     text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 500;
+}
+
+header nav li:first-child a {
+    font-weight: 700;
 }
 
 header nav li a[data-current="current item"] {
@@ -156,7 +157,16 @@ header .hero {
 
 header .hero h1 {
     margin: 0;
-    margin-bottom: var(--l-nav-height);
+    color: var(--c-title-color);
+    margin-bottom: .5rem;
+}
+
+header .hero h2 {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    margin: 0;
     color: var(--c-title-color);
 }
 
@@ -180,7 +190,7 @@ main>section>article>* {
 
 main section {
     min-height: 20vw;
-    padding: var(--l-padding);
+    padding: 5rem var(--l-padding);
 }
 
 main section h3 {
@@ -267,12 +277,6 @@ button {
     transform: none;
 }
 
-.transition-blurfade {
-    filter: none;
-    opacity: 1;
-    transition: filter 1s ease;
-}
-
 .transition-fly {
     transition: transform .75s cubic-bezier(.77, 0, .175, 1);
 }
@@ -282,9 +286,6 @@ html.is-animating .transition-fade {
     opacity: 0;
 }
 
-html.is-animating.is-leaving .transition-blurfade {
-    filter: blur(50px);
-}
 
 html.is-animating.is-leaving .transition-fade {
     transform: translateY(-50%);

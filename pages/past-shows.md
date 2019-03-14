@@ -2,7 +2,7 @@
 title: Vergangene Konzerte
 tags:
   - nav
-navtitle: Vergangene Konzerte
+navtitle: Konzerte
 section: konzerte
 date: 2019-02-02
 permalink: /konzerte/index.html
