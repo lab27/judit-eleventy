@@ -177,6 +177,10 @@
     top: -8px;
 }
 
+.next-btn svg {
+  height: 18px;
+  margin-left: 1rem;
+}
 svg,
 img {
     display: block;
