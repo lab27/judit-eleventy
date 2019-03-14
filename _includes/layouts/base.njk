@@ -30,24 +30,23 @@
 		})
 
 		swup.on('contentReplaced', function () {
-			console.log('contentReplaced!', window.location.pathname)
 			if (window.location.pathname === globalPath) {
 				$navItem.classList.toggle('active')
 			}
 		});
 
 		swup.on('clickLink', function (e) {
-			console.log('navs', navtitles)
-			console.log('e.target', e.target.dataset.navtitle)
 			document.documentElement.classList.add('click-happened')
 			currentClass = e.target.dataset.navtitle
 			document.documentElement.setAttribute('data-current', currentClass)
 			$navItem = e.target;
 			globalPath = e.target.attributes.href.nodeValue;
+			[].forEach.call(navs, function(el) {
+					el.classList.remove("active");
+			});
 		});
 
 		swup.on('animationInStart', function (e) {
-			console.log('animation in started!')
 			document.documentElement.classList.remove('click-happened')
 			navtitles.forEach(function(title) {
 				document.documentElement.classList.remove(title)

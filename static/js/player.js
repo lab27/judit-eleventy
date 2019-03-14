@@ -1,5 +1,5 @@
 //taken from: https://codepen.io/gregh/pen/NdVvbm
-var audioPlayer = document.querySelector('.green-audio-player');
+var audioPlayer = document.querySelector('.judit-audio-player');
 var playPause = audioPlayer.querySelector('#playPause');
 var playpauseBtn = audioPlayer.querySelector('.play-pause-btn');
 var loading = audioPlayer.querySelector('.loading');
