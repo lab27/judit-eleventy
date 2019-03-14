@@ -1,20 +1,36 @@
 //taken from: https://codepen.io/gregh/pen/NdVvbm
-var audioPlayer = document.querySelector('.judit-audio-player');
-var playPause = audioPlayer.querySelector('#playPause');
-var playpauseBtn = audioPlayer.querySelector('.play-pause-btn');
-var loading = audioPlayer.querySelector('.loading');
-var progress = audioPlayer.querySelector('.progress');
-var sliders = audioPlayer.querySelectorAll('.slider');
-var volumeBtn = audioPlayer.querySelector('.volume-btn');
-var volumeControls = audioPlayer.querySelector('.volume-controls');
-var volumeProgress = volumeControls.querySelector('.slider .progress');
-var player = audioPlayer.querySelector('audio');
-var currentTime = audioPlayer.querySelector('.current-time');
-var totalTime = audioPlayer.querySelector('.total-time');
-var speaker = audioPlayer.querySelector('#speaker');
+const audioPlayer = document.querySelector('.judit-audio-player');
+const infoBox = document.querySelector('.infobox');
+const songTitleElement = infoBox.querySelector('.title');
+const songComposerElement = infoBox.querySelector('.composer');
+const playPause = audioPlayer.querySelector('#playPause');
+const playpauseBtn = audioPlayer.querySelector('.play-pause-btn');
+const loading = audioPlayer.querySelector('.loading');
+const progress = audioPlayer.querySelector('.progress');
+const sliders = audioPlayer.querySelectorAll('.slider');
+const volumeBtn = audioPlayer.querySelector('.volume-btn');
+const volumeControls = audioPlayer.querySelector('.volume-controls');
+const volumeProgress = volumeControls.querySelector('.slider .progress');
+const player = audioPlayer.querySelector('audio');
+const currentTime = audioPlayer.querySelector('.current-time');
+const totalTime = audioPlayer.querySelector('.total-time');
+const speaker = audioPlayer.querySelector('#speaker');
+const playlistElements = document.querySelector('#playlist').querySelectorAll('li');
+const nextSongBtn = audioPlayer.querySelector('.next-btn');
 
 var draggableClasses = ['pin'];
 var currentlyDragged = null;
+let currentlyPlaying = 0;
+let currentTitle = '';
+let currentComposer = '';
+
+let playlist = [];
+playlistElements.forEach(function(element) {
+    let obj = {title: element.dataset.songtitle, composer: element.dataset.songcomposer, mp3: element.dataset.mpeg};
+    console.log('obj', obj)
+    playlist.push(obj)
+})
+
 
 window.addEventListener('mousedown', function (event) {
 
@@ -32,6 +48,7 @@ window.addEventListener('mousedown', function (event) {
 });
 
 playpauseBtn.addEventListener('click', togglePlay);
+nextSongBtn.addEventListener('click', playNextSong);
 player.addEventListener('timeupdate', updateProgress);
 player.addEventListener('volumechange', updateVolume);
 player.addEventListener('loadedmetadata', () => {
@@ -162,6 +179,29 @@ function togglePlay() {
   }
 }
 
+function getInitialSongInfo() {
+    currentTitle = playlist[0].title
+    currentComposer = playlist[0].composer
+}
+
+function setSongInfo() {
+    songTitleElement.textContent = currentTitle
+    songComposerElement.textContent = currentComposer
+}
+
+function playNextSong() {
+    console.log('current', currentlyPlaying)
+    console.log('list lengvth', playlist.length)
+    player.pause()
+    const nextSong = currentlyPlaying < playlist.length -1 ? currentlyPlaying + 1 : 0
+    currentlyPlaying = nextSong
+    player.src = playlist[nextSong].mp3
+    currentTitle = playlist[nextSong].title
+    currentComposer = playlist[nextSong].composer
+    togglePlay()
+    setSongInfo()
+}
+
 function makePlay() {
   playpauseBtn.style.display = 'block';
   loading.style.display = 'none';
@@ -179,3 +219,6 @@ function directionAware() {
     volumeControls.style.left = '-3px';
   }
 }
+
+getInitialSongInfo()
+setSongInfo()

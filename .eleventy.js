@@ -55,6 +55,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("static/js");
   eleventyConfig.addPassthroughCopy("static/css");
+  eleventyConfig.addPassthroughCopy("static/audio");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 

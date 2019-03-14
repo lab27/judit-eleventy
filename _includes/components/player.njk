@@ -1,7 +1,13 @@
 <div class="holder">
   <div class="infobox">
     <p class="title">title</p>
-    <p class="title">composer</p>
+    <p class="composer">composer</p>
+    <ul id="playlist">
+        {# TODO create this from data file! #}
+        <li data-mpeg="/static/audio/cats.mp3" data-songtitle="cats pyjama" data-songcomposer="nicky noo">Cats</li>
+        <li data-mpeg="/static/audio/spires.mp3" data-songtitle="spires" data-songcomposer="nicky noo">Spires</li>
+        <li data-mpeg="/static/audio/shangri.mp3" data-songtitle="shangri la" data-songcomposer="nicky noo">Shangri</li>
+    </ul>
   </div>
   <div class="audio judit-audio-player">
     <div class="loading">
@@ -11,6 +17,9 @@
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="24" viewBox="0 0 18 24">
         <path fill="var(--playerDark, black)" fill-rule="evenodd" d="M18 12L0 24V0" class="play-pause-icon" id="playPause"/>
       </svg>
+    </div>
+    <div class="next-btn">
+        <button>>|</button>
     </div>
 
     <div class="controls">
@@ -39,12 +48,9 @@
     </div>
 
     <audio crossorigin>
-      <source src="https://drumdrops.com/uploads/tracks/DD_PREVIEW_2017-04-03-22-42-56-DDMT_180_SOUL_SM_27_90_SEC_PREVIEW.mp3" type="audio/mpeg">
+      <source src="/static/audio/cats.mp3" type="audio/mpeg">
     </audio>
     
-    <audio crossorigin>
-      <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3" type="audio/mpeg">
-    </audio>
   </div>
 
 </div>
