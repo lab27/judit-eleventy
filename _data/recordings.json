@@ -1,23 +1,86 @@
 [
     {
-        "title": "Cat's Pyjamas",
-        "composer": "noodles",
-        "singer": "Drifty MCDoodles",
-        "mp3": "/static/audio/cats.mp3",
-        "ogg": "/static/audio/song1.ogg"
+        "title": "Aeneas 2",
+        "composer": "---",
+        "singer": "Äneas Humm",
+        "mp3": "/static/audio/mp3/aeneas02.mp3",
+        "ogg": "/static/audio/ogg/aeneas02.ogg"
     },
     {
-        "title": "Spires",
-        "composer": "Nonnoo",
-        "singer": "Happy MCDoodles",
-        "mp3": "/static/audio/spires.mp3",
-        "ogg": "/static/audio/song1.ogg"
+        "title": "Aeneas 3",
+        "composer": "---",
+        "singer": "Äneas Humm",
+        "mp3": "/static/audio/mp3/aeneas03.mp3",
+        "ogg": "/static/audio/ogg/aeneas03.ogg"
     },
     {
-        "title": "Shangri La Popny Beach",
-        "composer": "boollman",
-        "singer": "Drifty Stankmuffin",
-        "mp3": "/static/audio/shangri.mp3",
-        "ogg": "/static/audio/song1.ogg"
+        "title": "Aeneas 4",
+        "composer": "---",
+        "singer": "Äneas Humm",
+        "mp3": "/static/audio/mp3/aeneas04.mp3",
+        "ogg": "/static/audio/ogg/aeneas04.ogg"
+    },
+    {
+        "title": "Aeneas 17",
+        "composer": "---",
+        "singer": "Äneas Humm",
+        "mp3": "/static/audio/mp3/aeneas17.mp3",
+        "ogg": "/static/audio/ogg/aeneas17.ogg"
+    },
+    {
+        "title": "Barbara 6",
+        "composer": "---",
+        "singer": "Barbara",
+        "mp3": "/static/audio/mp3/barbara06.mp3",
+        "ogg": "/static/audio/ogg/barbara06.ogg"
+    },
+    {
+        "title": "Barbara 14",
+        "composer": "---",
+        "singer": "Barbara",
+        "mp3": "/static/audio/mp3/barbara14.mp3",
+        "ogg": "/static/audio/ogg/barbara14.ogg"
+    },
+    {
+        "title": "Barbara 16",
+        "composer": "---",
+        "singer": "Barbara",
+        "mp3": "/static/audio/mp3/barbara16.mp3",
+        "ogg": "/static/audio/ogg/barbara16.ogg"
+    },
+    {
+        "title": "Barbara 23",
+        "composer": "---",
+        "singer": "Barbara",
+        "mp3": "/static/audio/mp3/barbara23.mp3",
+        "ogg": "/static/audio/ogg/barbara23.ogg"
+    },
+    {
+        "title": "Leila 2",
+        "composer": "---",
+        "singer": "Leila",
+        "mp3": "/static/audio/mp3/leila02.mp3",
+        "ogg": "/static/audio/ogg/leila02.ogg"
+    },
+    {
+        "title": "Leila 4",
+        "composer": "---",
+        "singer": "Leila",
+        "mp3": "/static/audio/mp3/leila04.mp3",
+        "ogg": "/static/audio/ogg/leila04.ogg"
+    },
+    {
+        "title": "Leila 21",
+        "composer": "---",
+        "singer": "Leila",
+        "mp3": "/static/audio/mp3/leila21.mp3",
+        "ogg": "/static/audio/ogg/leila21.ogg"
+    },
+    {
+        "title": "Leila 24",
+        "composer": "---",
+        "singer": "Leila",
+        "mp3": "/static/audio/mp3/leila24.mp3",
+        "ogg": "/static/audio/ogg/leila24.ogg"
     }
 ]
