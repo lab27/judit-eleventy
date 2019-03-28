@@ -8,4 +8,4 @@ section: kontakt
 date: 2019-07-01
 permalink: /kontakt/index.html
 ---
-*Leave me a message...*
+*etwas...*

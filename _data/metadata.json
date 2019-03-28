@@ -7,5 +7,14 @@
     "name": "Nick Niles",
     "email": "nick@pastiche.io",
     "github": "https://github.com/lab27"
-  }
+  },
+  "shortBio": "Judit is a Hungarian pianist living in Zürich...",
+  "quotes": [
+    {"text": "this is quote 1",
+    "author": "Jack B. Nimble, nzZ"},
+    {"text": "this is quote 2",
+    "author": "Jack B. Quick, nzZ"},
+    {"text": "this is quote 3",
+    "author": "Jack B. Candlestick, nzZ"}
+  ]
 }

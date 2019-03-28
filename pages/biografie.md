@@ -1,5 +1,6 @@
 ---
 title: Biografie
+layout: layouts/page.njk
 tags:
   - nav
 navtitle: Biografie

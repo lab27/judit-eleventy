@@ -231,10 +231,8 @@ header .hero h2 {
 /* Posts List */
 
 article {
-    margin-bottom: 1em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid #eee;
-    border-bottom: 1px solid var(--white);
+    max-width: 720px;
+    margin: 0 auto;
 }
 
 main>section>article>* {
@@ -309,7 +307,8 @@ form {
 }
 
 form label {
-    display: none;
+    font-weight: 500;
+    margin-bottom: .5rem;
 }
 
 input,

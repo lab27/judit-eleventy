@@ -1,3 +1,12 @@
-<section class="quotes">
-<h3>quotes...</h3>
-</section>
+<article class="quotes">
+
+ {% for quote in metadata.quotes %}
+    <div class="quote">
+    <blockquote>
+    {{quote.text}}
+    </blockquote>
+    <p class="quote-author">{{quote.author}}</p>
+    </div>
+
+    {% endfor %}
+</article>
