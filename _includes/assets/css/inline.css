@@ -33,10 +33,11 @@ body {
 
 main {
     min-height: 90vh;
-    max-width: 630px;
+    /* max-width: 630px; */
     margin: 0 auto;
     padding: var(--l-padding);
     padding-top: 5rem;
+    padding-bottom: 2rem;
 }
 
 p,
@@ -57,10 +58,6 @@ footer {
 
 footer {
     text-align: right;
-}
-
-main {
-    padding-bottom: 2em;
 }
 
 main :first-child,
@@ -220,7 +217,7 @@ header .hero h1 {
 
 header .hero h2 {
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 1rem;
     letter-spacing: .1rem;
     margin: 0;
@@ -252,6 +249,26 @@ main section {
 
 main section h3 {
     text-align: center;
+}
+
+main section.discog {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
+
+main section.discog .album-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.teaser-album {
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, .2);
 }
 
 /* Post Tags */

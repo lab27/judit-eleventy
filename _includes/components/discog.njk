@@ -1,3 +1,10 @@
 <section class="discog">
-<h3>discography...</h3>
+    <h3>erscheint auf...</h3>
+<div class="album-wrapper">
+    {% for album in discog %}
+    <img class="teaser-album" src="{{album.image}}" alt="{{album.title}}">
+    {% endfor %}
+</div>
+
+<a href="/diskografie" class="button--link">siehe Diskografie</a>
 </section>
