@@ -1,6 +1,7 @@
 //taken from: https://codepen.io/gregh/pen/NdVvbm
 const audioPlayer = document.querySelector('.judit-audio-player');
-const playerSource = audioPlayer.querySelector('source');
+const mp3Source = audioPlayer.querySelectorAll('source')[0];
+const oggSource = audioPlayer.querySelectorAll('source')[1];
 const infoBox = document.querySelector('.infobox');
 const songTitleElement = infoBox.querySelector('.title');
 const songComposerElement = infoBox.querySelector('.composer');
@@ -30,8 +31,7 @@ let wasPlaying;
 
 let playlist = [];
 playlistElements.forEach(function(element) {
-    let obj = {title: element.dataset.songtitle, composer: element.dataset.songcomposer, singer: element.dataset.songsinger, mp3: element.dataset.mpeg};
-    console.log('obj', obj)
+    let obj = {title: element.dataset.songtitle, composer: element.dataset.songcomposer, singer: element.dataset.songsinger, mp3: element.dataset.mpeg, ogg: element.dataset.ogg};
     playlist.push(obj)
 })
 
@@ -198,17 +198,33 @@ function setSongInfo() {
     songSingerElement.textContent = currentSinger
 }
 
+function playFirstSong() {
+    console.log('oggsource', oggSource);
+  console.log('playlist?', playlist[0]);
+  console.log('ogg?', playlist[0].ogg);
+    
+    currentlyPlaying = 0
+    mp3Source.src = playlist[0].mp3
+    oggSource.src = playlist[0].ogg
+    currentTitle = playlist[0].title
+    currentComposer = playlist[0].composer
+    currentSinger = playlist[0].singer
+    setSongInfo()
+    player.load()
+    if (wasPlaying) {
+        togglePlay() 
+    }
+}
+
 function playNextSong() {
-    console.log('current', currentlyPlaying)
-    console.log('list length', playlist.length)
     if (!player.paused) {
         wasPlaying = true
         togglePlay()
     }
-    console.log('getting here?')
     const nextSong = currentlyPlaying < playlist.length -1 ? currentlyPlaying + 1 : 0
     currentlyPlaying = nextSong
-    playerSource.src = playlist[nextSong].mp3
+    mp3Source.src = playlist[nextSong].mp3
+    oggSource.src = playlist[nextSong].ogg
     currentTitle = playlist[nextSong].title
     currentComposer = playlist[nextSong].composer
     currentSinger = playlist[nextSong].singer
@@ -225,17 +241,19 @@ function makePlay() {
 }
 
 function directionAware() {
-  if (window.innerHeight < 250) {
-    volumeControls.style.bottom = '-54px';
-    volumeControls.style.left = '54px';
-  } else if (audioPlayer.offsetTop < 154) {
-    volumeControls.style.bottom = '-164px';
-    volumeControls.style.left = '-3px';
-  } else {
+  // if (window.innerHeight < 250) {
+  //   volumeControls.style.bottom = '-54px';
+  //   volumeControls.style.left = '54px';
+  // } else if (audioPlayer.offsetTop < 154) {
+  //   volumeControls.style.bottom = '-164px';
+  //   volumeControls.style.left = '-3px';
+  // } else {
     volumeControls.style.bottom = '52px';
     volumeControls.style.left = '-3px';
-  }
+  // }
 }
 
 getInitialSongInfo()
 setSongInfo()
+playFirstSong()
+// playNextSong()

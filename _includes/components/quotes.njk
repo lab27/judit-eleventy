@@ -1,12 +1,23 @@
-<article class="quotes">
+<section class="quotes">
 
- {% for quote in metadata.quotes %}
-    <div class="quote">
-    <blockquote>
-    {{quote.text}}
-    </blockquote>
-    <p class="quote-author">{{quote.author}}</p>
-    </div>
-
-    {% endfor %}
+<article>
+    <h3 class="u-centered">Lob</h3>
+     {% for quote in metadata.quotes %}
+        <div class="quote">
+        <blockquote>
+        <span class="big-quote">"</span>
+        {{quote.text}}
+        <span class="big-quote">"</span>
+        </blockquote>
+        <div class="quote-author">
+        {% if quote.link%}<a href="{{quote.link}}" target="_blank">{%endif%}
+        <p>- {{quote.author}}</p>
+        {% if quote.link%}</a>{%endif%}
+        </div>
+        </div>
+    
+        {% endfor %}
+    
+        
 </article>
+</section>

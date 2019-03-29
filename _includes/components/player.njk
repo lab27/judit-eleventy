@@ -5,7 +5,7 @@
     <p>SängerIn: <span class="singer"></span></p>
     <ul id="playlist" style="display: none; opacity: 0; height: 0;">
         {% for song in recordings %}
-            <li data-mpeg="{{song.mp3}}" data-songtitle="{{song.title}}" data-songcomposer="{{song.composer}}" data-songsinger="{{song.singer}}">{{song.title}}</li>
+            <li data-mpeg="{{song.mp3}}" data-ogg="{{song.ogg}}" data-songtitle="{{song.title}}" data-songcomposer="{{song.composer}}" data-songsinger="{{song.singer}}">{{song.title}}</li>
         {% endfor %}
     </ul>
   </div>
@@ -48,7 +48,8 @@
     </div>
 
     <audio>
-      <source src="/static/audio/cats.mp3" type="audio/mpeg">
+      <source src="" type="audio/ogg">
+      <source src="" type="audio/mpeg">
     </audio>
     
   </div>

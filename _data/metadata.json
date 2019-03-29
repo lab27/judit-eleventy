@@ -10,11 +10,23 @@
   },
   "shortBio": "Judit is a Hungarian pianist living in Zürich...",
   "quotes": [
-    {"text": "this is quote 1",
-    "author": "Jack B. Nimble, nzZ"},
-    {"text": "this is quote 2",
-    "author": "Jack B. Quick, nzZ"},
-    {"text": "this is quote 3",
-    "author": "Jack B. Candlestick, nzZ"}
+    {
+      "text": "In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert.",
+      "author": "Gabriele Spiller, NZZ",
+      "link": "https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712"
+    },
+    {
+      "text": "Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.",
+      "author": "operavilag.net (ungarisch)",
+      "link": "http://operavilag.net/kiemelt/magasugras/"
+    },
+    {
+      "text": "...man hört es schon dem Klaviersatz an, den Judit Polgar – die ideale Begleiterin - mit unendlicher Weichheit nimmt.",
+      "author": "Der Opern Freund"
+    },
+    {
+      "text": "Judit Polgar bewältigt die anspruchsvollen, nicht leicht schön zu spielenden Begleitpartien und Nachspiele bei Mahler und Stauss mit Bravour, oft ist sie die treibende Kraft.",
+      "author": "Tagesanzeiger"
+    }
   ]
 }

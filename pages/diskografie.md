@@ -1,5 +1,6 @@
 ---
 title: Diskografie
+layout: layouts/diskografie.njk
 tags:
   - nav
 navtitle: Diskografie
@@ -7,7 +8,7 @@ section: diskografie
 date: 2019-02-02
 permalink: /diskografie/index.html
 ---
-### Awakening
+<!-- ### Awakening
 
 
 
@@ -89,4 +90,4 @@ Maki Wiederkehr, Klavier
 Record-Release: Juli 2009 bei ZHdK Records
 Tonregie: Andreas Werner
 Radiostudio DRS 2 Zürich
-Bestellung: im Fachhandel oder unter http://zhdkrecords.zhdk.ch 
+Bestellung: im Fachhandel oder unter http://zhdkrecords.zhdk.ch  -->

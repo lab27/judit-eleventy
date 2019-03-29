@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+section: blog
+permalink: /blog/index.html
+---
+
+    {% for album in discog %}
+    <article class="album">
+    <img class="teaser-album" src="{{album.image}}" alt="{{album.title}}">
+    <h3 class="album-title">{{album.title}}</h3>
+    <ul class="album-info">
+        {% for performer in album.performers %}
+            <li class="album-performer">{{performer}}</li>
+        {% endfor%}
+        <li class="">Release: {{album.release}}</li>
+        <li class="">Label: {{album.label}}</li>
+        <li class="">Regie: {{album.direction}}</li>
+        <li class=""><a href="{{album.bestellung}}">Bestellung</a></li>
+    </ul>
+    </article>
+    {% endfor %}

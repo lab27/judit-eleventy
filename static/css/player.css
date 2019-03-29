@@ -18,7 +18,7 @@
     width: 100%;
     min-width: 300px;
     height: 56px;
-    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.07);
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.15);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,9 +39,9 @@
     justify-content: flex-start;
     align-items: center;
     padding: 1rem 24px;
-    height: 64px;
+    height: 80px;
     width: 98%;
-    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.07);
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.15);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
 }
@@ -49,7 +49,7 @@
 .infobox p {
     margin: 0;
     font-size: .75rem;
-    line-height: 1.4;
+    line-height: 1.6;
     font-weight: 500;
     width: 100%;
 }
@@ -108,7 +108,7 @@
     justify-content: space-between;
     align-items: center;
     margin-left: 24px;
-    margin-right: 24px;
+    margin-right: 0;
 }
 
 .audio.judit-audio-player .controls .slider {
@@ -134,6 +134,7 @@
 
 .audio.judit-audio-player .volume {
     position: relative;
+    display: none;
 }
 
 .audio.judit-audio-player .volume .volume-btn {
@@ -179,6 +180,10 @@
     top: -8px;
 }
 
+.next-btn {
+    cursor: pointer;
+}
+
 .next-btn svg {
     height: 18px;
     margin-left: 1rem;
@@ -193,32 +198,54 @@ img {
     from {
         transform: rotateZ(0);
     }
+
     to {
         transform: rotateZ(1turn);
     }
 }
 
-.holder.pinned {
+.holder {
     padding: 0;
 }
 
-.holder.pinned .infobox {
+.holder .infobox {
     background-color: #f9f9f9;
     width: 100%;
     padding: 12px;
 }
 
 @media screen and (min-width:768px) {
-    .infobox {
-        flex-flow: row;
-        height: 42px;
-    }
+
     .infobox p {
-        width: calc(100%/3);
+        width: auto;
         line-height: 1;
+        margin-right: 2rem;
     }
-    .holder.pinned .infobox {
+
+    .infobox p:last-child {
+        margin-right: 0;
+    }
+
+    .holder {
+        padding: 2rem;
+        max-width: 900px;
+    }
+
+    .holder .infobox {
         height: 32px;
-        padding: 0 24px;
+        flex-flow: row;
+        /* height: 42px; */
+        justify-content: space-between;
+        padding: 0 18px;
+        width: 98%;
+    }
+
+    .audio.judit-audio-player .volume {
+        position: relative;
+        display: block;
+    }
+
+    .audio.judit-audio-player .controls {
+        margin-right: 24px;
     }
 }
