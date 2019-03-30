@@ -7,3 +7,4 @@ console.log(currentYear);
 swup.on('pageView', function (event) {
     console.log('page View', event)
 });
+

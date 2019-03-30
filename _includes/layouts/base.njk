@@ -53,6 +53,15 @@
 			})
 			document.documentElement.classList.add(currentClass)
 		});
+
+		const menuBtn = document.querySelector('.menu-btn');
+		const closeBtn = document.querySelector('nav .close-btn');
+		menuBtn.addEventListener('click', (e) => {
+			document.body.classList.add('menu-open')
+		})
+		closeBtn.addEventListener('click', (e) => {
+			document.body.classList.remove('menu-open')
+		})
     </script>
 	</body>
 

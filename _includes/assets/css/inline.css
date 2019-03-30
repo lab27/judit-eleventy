@@ -21,7 +21,7 @@ html,
 body {
     padding: 0;
     margin: 0;
-    font-family: "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: "Avenir Next", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -88,8 +88,9 @@ ul {
 }
 
 header {
-    display: grid;
-    grid-template-rows: var(--l-nav-height) 1fr;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     height: 50vw;
 }
@@ -147,31 +148,76 @@ html.diskografie header .heroimage {
     opacity: 1;
 }
 
+html.presse header .heroimage {
+    background: url('/static/img/judit-diskog-header.jpg');
+    background-size: cover;
+    opacity: 1;
+}
+
 html.is-changing header .heroimage {
     opacity: 0;
 }
 
 header nav {
-    display: flex;
     width: 100%;
     justify-content: center;
     align-items: center;
     color: var(--nav-color);
-    position: relative;
+    position: fixed;
     z-index: 1;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color: #ccc;
+    display: flex;
+    transform: translateX(100%);
+    opacity: 0;
+    transition: transform .3s cubic-bezier(.77, 0, .175, 1), opacity .4s linear;
+}
+
+.menu-open header nav {
+    transform: none;
+    opacity: 1;
+}
+
+header .menu-btn {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+header .close-btn {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+    font-size: 2rem;
+    text-decoration: none;
+    line-height: 1;
+}
+
+.close-btn {
+    display: none;
+}
+
+.menu-open .close-btn {
+    display: block;
 }
 
 header nav ul {
-    display: grid;
+    display: flex;
+    flex-flow: column;
     width: 100%;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-columns: repeat(2, 1fr);
+    margin: 0;
+    padding: 2rem;
 }
 
 header nav li {
     /* display: inline-block; */
     margin: 0 .5em;
     display: inline-block;
+    padding: .5rem 0;
 }
 
 header nav li a {
@@ -266,10 +312,18 @@ main section.discog {
 
 main section.discog .album-wrapper {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     width: 100%;
     justify-content: space-around;
     align-items: stretch;
+}
+
+blockquote {
+    font-weight: 600;
+}
+
+blockquote em {
+    font-weight: 300;
 }
 
 .quote {
@@ -300,6 +354,7 @@ main section.discog .album-wrapper {
 
 .gallery img.gallery-image {
     max-height: 300px;
+    max-width: 100%;
 }
 
 .teaser-album {
@@ -357,7 +412,6 @@ button {
     padding: 1em;
     margin-bottom: 1em;
     font-size: 1rem;
-    font-family: "Avenir", "Avenir Next", sans-serif;
 }
 
 input,
@@ -389,9 +443,24 @@ button {
         padding-bottom: 3rem;
     }
 
-    header nav ul {
-        grid-template-columns: repeat(6, 1fr);
+    header nav {
+        background-color: transparent;
+        justify-content: flex-end;
+        margin: 0;
+        padding: 0;
     }
+
+    header nav ul {
+        width: 20rem;
+        background-color: var(--c-light, #ccc);
+        color: white;
+        padding: 2rem 0;
+    }
+
+    main section.discog .album-wrapper {
+        flex-flow: row nowrap;
+    }
+
 }
 
 .transition-fade {
