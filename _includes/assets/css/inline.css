@@ -149,7 +149,7 @@ html.diskografie header .heroimage {
 }
 
 html.presse header .heroimage {
-    background: url('/static/img/judit-diskog-header.jpg');
+    background: url('/static/img/judit-presse-header.jpg');
     background-size: cover;
     opacity: 1;
 }

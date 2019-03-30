@@ -10,12 +10,12 @@ permalink: /presse/index.html
 ---
 ### KRITIKEN (AUSWAHL)
 > In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert.
-*[NZZ](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
+*[Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
 
  
 
-> Ebben természetesen szerepe volt a nagyszerű zongorakísérőnek is, mivel Polgár Judit egyenrangú partnerként vett részt a dalok interpretálásában. [Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.]
-*[Opera Vilag](http://operavilag.net/kiemelt/magasugras), Oktober 2016*
+> Ebben természetesen szerepe volt a nagyszerű zongorakísérőnek is, mivel Polgar Judit egyenrangú partnerként vett részt a dalok interpretálásában. [Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.]
+*[Opera-Világ](http://operavilag.net/kiemelt/magasugras), Oktober 2016*
 
  
 
@@ -33,7 +33,7 @@ permalink: /presse/index.html
 *Tagesanzeiger, 26. Jan 2010*
 
 
-> Polgár Judit perfekt módon, tökéletes anyag- és műismerettel zongorázott. Mindvégig remekül alkalmazkodott és a szóló szakaszok adta lehetőségekkel is kitűnően élt. [Judit Polgar spielte perfekt, ihr Spiel zeugte von volltrefflichen Fach- und Materialkenntnissen. Sie passte sich durchwegs dem Gesang an, nutzte aber auch die Möglichkeiten, die sich in den Solostellen ergeben hatten]. 
+> Polgar Judit perfekt módon, tökéletes anyag- és műismerettel zongorázott. Mindvégig remekül alkalmazkodott és a szóló szakaszok adta lehetőségekkel is kitűnően élt. [Judit Polgar spielte perfekt, ihr Spiel zeugte von volltrefflichen Fach- und Materialkenntnissen. Sie passte sich durchwegs dem Gesang an, nutzte aber auch die Möglichkeiten, die sich in den Solostellen ergeben hatten]. 
 *[debRecenzio](http://debrecenzio.wordpress.com), November 2009*
 
 
@@ -41,7 +41,7 @@ permalink: /presse/index.html
 *Neue Zürcher Zeitung, 24. November 2009*
 
 
-> Az is bizonyos, hogy partnere, Polgár Juditis tudatos, bámulatosan koncentrált és differenciált, finom eszközökkel élő művész. [Seine Partnerin, Judit Polgar ist eine wohl überlegte, konzentrierte Künstlerin, die über differenzierte, feine Mittel verfügt.] 
+> Az is bizonyos, hogy partnere, Polgar Juditis tudatos, bámulatosan koncentrált és differenciált, finom eszközökkel élő művész. [Seine Partnerin, Judit Polgar ist eine wohl überlegte, konzentrierte Künstlerin, die über differenzierte, feine Mittel verfügt.] 
 *Internationales Opernfestival Miskolc, Juni 2009*
 
 > Es war eine spannende, überraschende Begegnung, hervorragend und sensibel begleitet durch die begabte Pianistin.
