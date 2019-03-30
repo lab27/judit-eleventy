@@ -199,13 +199,13 @@ function setSongInfo() {
 }
 
 function playFirstSong() {
-    console.log('oggsource', oggSource);
-  console.log('playlist?', playlist[0]);
-  console.log('ogg?', playlist[0].ogg);
+  //   console.log('oggsource', oggSource);
+  // console.log('playlist?', playlist[0]);
+  // console.log('ogg?', playlist[0].ogg);
     
     currentlyPlaying = 0
     mp3Source.src = playlist[0].mp3
-    oggSource.src = playlist[0].ogg
+    // oggSource.src = playlist[0].ogg
     currentTitle = playlist[0].title
     currentComposer = playlist[0].composer
     currentSinger = playlist[0].singer
@@ -224,7 +224,7 @@ function playNextSong() {
     const nextSong = currentlyPlaying < playlist.length -1 ? currentlyPlaying + 1 : 0
     currentlyPlaying = nextSong
     mp3Source.src = playlist[nextSong].mp3
-    oggSource.src = playlist[nextSong].ogg
+    // oggSource.src = playlist[nextSong].ogg
     currentTitle = playlist[nextSong].title
     currentComposer = playlist[nextSong].composer
     currentSinger = playlist[nextSong].singer
