@@ -30,56 +30,56 @@
     {
         "title": "Wendla im Garten",
         "composer": "Viktor Ullmann",
-        "singer": "Barbara",
+        "singer": "Barbara Fuchs",
         "mp3": "/static/audio/mp3/barbara06.mp3",
         "ogg": "/static/audio/ogg/barbara06.ogg"
     },
     {
         "title": "Ablösung im Sommer",
         "composer": "Gustav Mahler",
-        "singer": "Barbara",
+        "singer": "Barbara Fuchs",
         "mp3": "/static/audio/mp3/barbara14.mp3",
         "ogg": "/static/audio/ogg/barbara14.ogg"
     },
     {
         "title": "Schilflied",
         "composer": "Alban Berg",
-        "singer": "Barbara",
+        "singer": "Barbara Fuchs",
         "mp3": "/static/audio/mp3/barbara16.mp3",
         "ogg": "/static/audio/ogg/barbara16.ogg"
     },
     {
         "title": "Die Nacht",
         "composer": "Richard Strauss",
-        "singer": "Barbara",
+        "singer": "Barbara Fuchs",
         "mp3": "/static/audio/mp3/barbara23.mp3",
         "ogg": "/static/audio/ogg/barbara23.ogg"
     },
     {
         "title": "Hain in deisen Paradiesen",
         "composer": "Arnold Schoenberg",
-        "singer": "Leila",
+        "singer": "Leila Pfister",
         "mp3": "/static/audio/mp3/leila02.mp3",
         "ogg": "/static/audio/ogg/leila02.ogg"
     },
     {
         "title": "Da meine Lippen reglos sind und brennen",
         "composer": "Arnold Schoenberg",
-        "singer": "Leila",
+        "singer": "Leila Pfister",
         "mp3": "/static/audio/mp3/leila04.mp3",
         "ogg": "/static/audio/ogg/leila04.ogg"
     },
     {
         "title": "Derrière Murcie en fleurs",
         "composer": "Arthur Honegger",
-        "singer": "Leila",
+        "singer": "Leila Pfister",
         "mp3": "/static/audio/mp3/leila21.mp3",
         "ogg": "/static/audio/ogg/leila21.ogg"
     },
     {
         "title": "La flûte de Pan",
         "composer": "Claude Debussy",
-        "singer": "Leila",
+        "singer": "Leila Pfister",
         "mp3": "/static/audio/mp3/leila24.mp3",
         "ogg": "/static/audio/ogg/leila24.ogg"
     }
