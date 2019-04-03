@@ -1,9 +1,7 @@
 ---
 title: Danke.
-layout: layouts/page.njk
-navtitle: Danke!
-section: success
-date: 2019-02-01
+date: 2019-02-01T00:00:00.000Z
 permalink: /success/index.html
+navtitle: Danke!
 ---
-Danke für ihren Nachricht. 
+Danke für Ihre Nachricht. 
