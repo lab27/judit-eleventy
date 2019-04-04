@@ -33,6 +33,15 @@ collections:
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "songs"
+  #   label: "Song"
+  #   folder: "music"
+  #   create: true # Change to true to allow editors to create new pages
+  #   slug: "{{slug}}"
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "SingerIn", name: "singer", widget: "string" }
+  #     - { label: "Composer", name: "composer", widget: "string" }
   # - name: "events"
   #   label: "Programme Entries"
   #   folder: "pages/sections/programme"
