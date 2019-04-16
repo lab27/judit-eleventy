@@ -204,7 +204,9 @@ tags:
 * Timothy Löw, Tenor
 * Baduin Schneeberger, Bariton
 * Andrew Dunscombe, Regie
-  ##### 12. Februar 2017
+  
+##### 12. Februar 2017
+
 * Ensemble Element, Schloss Rapperswil, 17 Uhr
 * Kompositionen von Julia Gloor, E. Grieg, B. Bartók, M. de Falla
 * Antonella Lalli, Sopran
