@@ -312,12 +312,16 @@ tags:
 * "Jugendstil und Jenseits"
 * Lieder von A. Zemlinsky, A. Schönberg, O. Schoeck, M. Reger, A. Mahler, G. Mahler, R. Strauss
 * Alexandra Hebart, Mezzosopran
-  ##### 22. März 2015
+  
+##### 22. März 2015
+
 * Volkshaus Zürich, weisser Saal, 17 Uhr
 * Phonixang Zürich
 * Nathalie Musardo Siegrist, Leitung
 * Werke von E. Grieg, J. Sibelius
-  ##### 6./29. März 2015
+  
+##### 6./29. März 2015
+
 * Liceo Artistico, Zürich
 * Produktion "Café Così", Junges Musiktheater Zürich
 * W. A. Mozart: Bastien und Bastienne
