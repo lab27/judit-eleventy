@@ -326,7 +326,6 @@ tags:
 * Produktion "Café Così", Junges Musiktheater Zürich
 * W. A. Mozart: Bastien und Bastienne
 * Barbara Fuchs, künstlerische Leitung
-* Rückblick 2014 (Auswahl)
 
 - - -
 
@@ -458,7 +457,6 @@ tags:
 * Gedenkmatinée, Opernhaus Zürich, 11 Uhr
 * Lieder von B. Bartók, Z. Kodály, Gy. Ligeti, R. Schumann R. Strauss
 * Andrea Rost, Sopran
-* Rückblick 2012 (Auswahl)
 
 - - -
 
@@ -529,7 +527,6 @@ tags:
 * Internationale Gesellschaft für Neue Musik, Instituto Cervantes, Frankfurt
 * Alexandra Hebart, Mezzosopran
 * Lieder von Patrick Frank
-* Rückblick 2011 (Auswahl)
 
 - - -
 
@@ -559,7 +556,7 @@ tags:
 * Musik im Blumenstein, Solothurn
 * Barbara Fuchs, Sopran
 * John Janssen, Bariton
-* Liebesduette und Arien von W. A. Mozart, G. Verdi, F. Lehàr, J. Strauss
+* Liebesduette und Arien von W. A. Mozart, G. Verdi, F. Lehár, J. Strauss
 
 ##### 6. April 2011
 
@@ -572,13 +569,13 @@ tags:
 * Les Trois Rois, Basel
 * Silvia Renuka Staubli, Sopran
 * Felix Messmer, Horn
-* Arienabend mit Werken von J. Offenbach, G. Verdi, G. Puccini, F. Léhàr, J. Strauss
+* Arienabend mit Werken von J. Offenbach, G. Verdi, G. Puccini, F. Léhár, J. Strauss
 
 ##### 7. Mai 2011
 
 * Message Salon Perla Mode, Zürich
 * Kopf Kino Kantaten
-* CD-Release-Konzert Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* CD-Release-Konzert Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 15. Mai 2011
 
@@ -588,7 +585,7 @@ tags:
   ##### 18. Mai 2011
 * .HBC, Berlin
 * Kopf Kino Kantaten
-* CD-Release-KonzertWerke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* CD-Release-KonzertWerke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 29. Mai 2011
 
@@ -607,7 +604,7 @@ tags:
 
 * Imprimerie Basel, 20.30 Uhr
 * Kopf Kino Kantaten
-* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 13. September 2011
 
@@ -619,24 +616,24 @@ tags:
 
 * Ono Bern, 20.30 Uhr
 * Kopf Kino Kantaten
-* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 18. September 2011
 
 * Zunfthaus zur Waag, Zürich, 17 Uhr
 * Kopf Kino Kantaten
-* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 21. September 2011
 
 * Stanzerei Baden, 20.30 Uhr
-* Kopf Kino KantatenWerke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* Kopf Kino KantatenWerke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 22. September 2011
 
 * Postremise Chur
 * Kopf Kino Kantaten
-* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartòk, G. Ligeti
+* Werke für Klavier von Tobias von Glenck, R. Schumann, A. Skrijabin, E. Satie, C. Debussy, B. Bartók, G. Ligeti
 
 ##### 30. Oktober 2011
 
