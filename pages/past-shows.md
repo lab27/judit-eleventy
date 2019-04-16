@@ -155,7 +155,7 @@ tags:
 
 - - -
 
-### 2017 (Auswahl):
+### 2017 (Auswahl)
 
 ##### 2. April 2017
 
@@ -204,7 +204,7 @@ tags:
 * Timothy Löw, Tenor
 * Baduin Schneeberger, Bariton
 * Andrew Dunscombe, Regie
-  
+
 ##### 12. Februar 2017
 
 * Ensemble Element, Schloss Rapperswil, 17 Uhr
@@ -219,7 +219,7 @@ tags:
 
 - - -
 
-### 2016 (Auswahl):
+### 2016 (Auswahl)
 
 ##### 17. September 2016
 
@@ -269,13 +269,13 @@ tags:
 
 - - -
 
-### 2015
+### 2015 (Auswahl)
 
 ##### 18. Dezember 2015
 
 * Café Felix Zürich, 20 Uhr
 * Opernauszüge, Junges Musiktheater Zürich
-  
+
 ##### 29. November 2015
 
 * Erlöserkirche Zürich-Riesbach, 19 Uhr
@@ -312,14 +312,14 @@ tags:
 * "Jugendstil und Jenseits"
 * Lieder von A. Zemlinsky, A. Schönberg, O. Schoeck, M. Reger, A. Mahler, G. Mahler, R. Strauss
 * Alexandra Hebart, Mezzosopran
-  
+
 ##### 22. März 2015
 
 * Volkshaus Zürich, weisser Saal, 17 Uhr
 * Phonixang Zürich
 * Nathalie Musardo Siegrist, Leitung
 * Werke von E. Grieg, J. Sibelius
-  
+
 ##### 6./29. März 2015
 
 * Liceo Artistico, Zürich
@@ -330,7 +330,7 @@ tags:
 
 - - -
 
-### 2014 (Auswahl):
+### 2014 (Auswahl)
 
 ##### 20./21./22. März 2014
 
@@ -392,11 +392,10 @@ tags:
 
 * Gesangsworkshop Liedduo und Oper mit Barbara Fuchs, Sopran
 * Jecklin Forum Zürich
-* Rückblick 2013 (Auswahl)
 
 - - -
 
-### 2013 (Auswahl):
+### 2013 (Auswahl)
 
 ##### 11. Januar 2013
 
@@ -463,7 +462,7 @@ tags:
 
 - - -
 
-### 2012 (Auswahl):
+### 2012 (Auswahl)
 
 ##### 1. Februar 2012
 
@@ -534,7 +533,7 @@ tags:
 
 - - -
 
-### 2011 (Auswahl):
+### 2011 (Auswahl)
 
 ##### 13. Januar 2011
 
