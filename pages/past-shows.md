@@ -8,6 +8,11 @@ tags:
 ---
 ### 2019 (Auswahl)
 
+##### 22. Juni 2019
+
+* Abschlusskonzert des Meisterkurses für Sänger mit Roberto Scandiuzzi
+* Neuackerstarsse 18, Zollikerberg, 19 Uhr
+
 ##### 8. Juni 2019
 
 * Fischerhuder Hofkonzerte, 20 Uhr
