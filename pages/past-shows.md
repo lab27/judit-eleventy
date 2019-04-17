@@ -8,7 +8,7 @@ tags:
 ---
 ### 2019 (Auswahl)
 
-##### 8. Juni 219
+##### 8. Juni 2019
 
 * Fischerhuder Hofkonzerte, 20 Uhr
 * Liederabend mit Liedern von G. Fauré, C. Debussy, R. Schumann und F. Mendelssohn
