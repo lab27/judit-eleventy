@@ -6,7 +6,7 @@ navtitle: Biografie
 tags:
   - nav
 ---
-Judit Polgar, geboren in Budapest, studierte Klavier an der Musikhochschule Zürich bei Hadassa Schwimmer und Homero Francesch (Konzertdiplom),  an den Musikhochschulen Zürich und Karlsruhe bei Irwin Gage und Hartmut Höll (Master mit Auszeichnung in Liedbegleitung). Weiterführende Studien absolvierte sie in der Klasse von Florian Ziemen an der Hochschule der Künste Bern (DAS Orchesterdirigieren) sowie an der Universität Luzern (Master in Kulturwissenschaften).
+Judit Polgar, geboren in Budapest, studierte Klavier an der Musikhochschule Zürich bei Hadassa Schwimmer und Homero Francesch (Konzertdiplom) sowie Liedbegleitung an den Musikhochschulen Zürich und Karlsruhe bei Irwin Gage und Hartmut Höll (Master mit Auszeichnung in Liedbegleitung). Weiterführende Studien absolvierte sie bei Florian Ziemen an der Hochschule der Künste Bern (DAS Orchesterdirigieren) sowie an der Universität Luzern (Master in Kulturwissenschaften).
 
 Judit Polgar ist eine vielgefragte Liedbegleiterin, sie war an verschiedenen internationalen Festivals und Opernhäusern zu hören. Seit 2014 ist sie Dozentin für Korrepetition mit Schwerpunkt Gesang an der Kalaidos Musikhochschule Zürich.
 
