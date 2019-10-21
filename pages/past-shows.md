@@ -20,7 +20,7 @@ tags:
 * www.kulturvermittlung-zh.ch
 * Musik aus M.-A. Turnage: Coraline
 
-**29. September 2019**
+##### 29. September 2019
 
 * Helferei Zürich, 11 Uhr
 * Verstohlen geht der Mond auf - Romantische Chormusik mit dem Vocalensemble Bacchanto
@@ -28,7 +28,7 @@ tags:
 * Romy Day, Klarinette 
 * Raphael Jud, Leitung
 
-**27. September 2019**
+##### 27. September 2019
 
 * Sebastian Kapelle Baden, 19.30 Uhr
 * Verstohlen geht der Mond auf - Romantische Chormusik mit dem Bacchanto Chor
