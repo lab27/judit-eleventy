@@ -8,10 +8,47 @@ tags:
 ---
 ### 2019 (Auswahl)
 
-##### 22. Juni 2019
+**19./22. November 2019**
 
-* Abschlusskonzert des Meisterkurses für Sänger mit Roberto Scandiuzzi
-* Neuackerstarsse 18, Zollikerberg, 19 Uhr
+* ImprO-Opera
+* www.kulturvermittlung-zh.ch
+* Probebühne Kreuzstrasse 5
+
+**18. Oktober 2019**
+
+* Heimatschutzzentrum, Villa Patumbah, 16.30 Uhr
+* www.kulturvermittlung-zh.ch
+* Musik aus M.-A. Turnage: Coraline
+
+**29. September 2019**
+
+* Helferei Zürich, 11 Uhr
+* Verstohlen geht der Mond auf - Romantische Chormusik mit dem Vocalensemble Bacchanto
+* Seraina Perrenoud, Sopran
+* Romy Day, Klarinette 
+* Raphael Jud, Leitung
+
+**27. September 2019**
+
+* Sebastian Kapelle Baden, 19.30 Uhr
+* Verstohlen geht der Mond auf - Romantische Chormusik mit dem Bacchanto Chor
+* Seraina Perrenoud, Sopran
+* Romy Day, Klarinette 
+* Raphael Jud, Leitung
+
+**30. Juni 2019**
+
+* Salon Humm, Etzel Saal Wädenswil, 17 Uhr
+* Liederabend mit Liedern von F. Schubert, C. Schuman, G. Fauré, C. Debussy, O. Schoeck
+* Äneas Humm, Bariton
+* Franziska Heinzen, Sopran
+
+##### 29. Juni 2019
+
+* Guerilla Classics, Miró Manufactura de Café, 20.30 Uhr 
+* Opernarien auf der Psychoanalytiker-Couch
+* Bastian Thomas Kohl, Bass
+* Ulrich Bahrke, Psychoanalytiker
 
 ##### 8. Juni 2019
 
