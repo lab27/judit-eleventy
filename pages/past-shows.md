@@ -8,13 +8,13 @@ tags:
 ---
 ### 2019 (Auswahl)
 
-**19./22. November 2019**
+##### 19./22. November 2019
 
 * ImprO-Opera
 * www.kulturvermittlung-zh.ch
 * Probebühne Kreuzstrasse 5
 
-**18. Oktober 2019**
+##### 18. Oktober 2019
 
 * Heimatschutzzentrum, Villa Patumbah, 16.30 Uhr
 * www.kulturvermittlung-zh.ch
@@ -36,7 +36,7 @@ tags:
 * Romy Day, Klarinette 
 * Raphael Jud, Leitung
 
-**30. Juni 2019**
+##### 30. Juni 2019
 
 * Salon Humm, Etzel Saal Wädenswil, 17 Uhr
 * Liederabend mit Liedern von F. Schubert, C. Schuman, G. Fauré, C. Debussy, O. Schoeck
