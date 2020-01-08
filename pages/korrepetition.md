@@ -10,6 +10,10 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
+#### 2020
+
+* S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
+
 #### 2019
 
 * C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
