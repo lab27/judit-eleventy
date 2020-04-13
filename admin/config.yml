@@ -33,6 +33,19 @@ collections:
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Globals"
+    name: "globals"
+    files:
+      - label: "Recordings"
+        name: "recordings"
+        delete: false
+        file: "_data/recordings.json"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Komponist", name: "composer", widget: "string"}
+          - {label: "¨Sänger/In", name: "singer", widget: "string"}
+          - {label: "mp3", name: "mp3", widget: "string"}
+         
   # - name: "events"
   #   label: "Programme Entries"
   #   folder: "pages/sections/programme"
