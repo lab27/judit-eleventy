@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+section: songs
+permalink: /songs/index.html
+---
+
+    {% for song in collections.song %}
+    <article class="album">
+        <p>title: {{song.data.title}}</p>
+        <p>singer: {{song.data.singer}}</p>
+        <p>composer: {{song.data.composer}}</p>
+    </article>
+    {% endfor %}

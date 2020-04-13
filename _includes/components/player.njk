@@ -4,8 +4,8 @@
     <p>KomponistIn: <span class="composer"></span></p>
     <p>SängerIn: <span class="singer"></span></p>
     <ul id="playlist" style="display: none; opacity: 0; height: 0;">
-        {% for song in recordings %}
-            <li data-mpeg="{{song.mp3}}" data-ogg="{{song.ogg}}" data-songtitle="{{song.title}}" data-songcomposer="{{song.composer}}" data-songsinger="{{song.singer}}">{{song.title}}</li>
+        {% for song in collections.song %}
+            <li data-mpeg="{{song.data.mp3}}" data-ogg="{{song.data.ogg}}" data-songtitle="{{song.data.title}}" data-songcomposer="{{song.data.composer}}" data-songsinger="{{song.data.singer}}">{{song.data.title}}</li>
         {% endfor %}
     </ul>
   </div>

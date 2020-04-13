@@ -1,8 +1,8 @@
 <section class="discog">
     <h3>Aufnahmen</h3>
 <div class="album-wrapper">
-    {% for album in discog %}
-    <img class="teaser-album" src="{{album.image}}" alt="{{album.title}}">
+    {% for album in collections.album %}
+    <img class="teaser-album" src="/static/img/albums/{{album.data.image}}" alt="{{album.data.title}}">
     {% endfor %}
 </div>
 
