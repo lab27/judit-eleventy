@@ -38,10 +38,8 @@ collections:
     name: "collections"
     files: 
       - label: "Recordings"
-        name: "recordings"
+        name: "nav"
         delete: false
-        slug: "{{slug}}"
-        create: true
         file: "_data/recordings.json"
         fields:
           - label: "Items"
