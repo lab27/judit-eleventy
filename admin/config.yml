@@ -5,7 +5,8 @@ backend:
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
 
-media_folder: "static/*" # Media files will be stored in the repo under images/uploads
+media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+public_folder: "/static/img"
 
 collections:
   # Our blog posts
@@ -43,8 +44,12 @@ collections:
         create: true
         file: "_data/recordings.json"
         fields:
-          - {label: "Titel", name: "title", widget: "string"}
-          - {label: "Komponist", name: "composer", widget: "string"}
-          - {label: "Sänger/In", name: "singer", widget: "string"}
-          - {label: "mp3", name: "mp3", widget: "string"}
-          - {label: "ogg", name: "ogg", widget: "string"}
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "Titel", name: "title", widget: "string"}
+              - {label: "Komponist", name: "composer", widget: "string"}
+              - {label: "Sänger/In", name: "singer", widget: "string"}
+              - {label: "mp3", name: "mp3", widget: "string"}
+              - {label: "ogg", name: "ogg", widget: "string"}
