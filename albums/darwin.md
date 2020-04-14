@@ -14,5 +14,6 @@ release: Juli 2009
 label: ZHdK Records
 direction: Andreas Werner, Radiostudio DRS 2 Zürich
 bestellung: http://zhdkrecords.zhdk.ch/
-date: 2009-01-01
+homeOrder: 5
+date: 2007-01-01
 ---

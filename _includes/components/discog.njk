@@ -1,10 +1,10 @@
 <section class="discog">
-    <h3>Aufnahmen</h3>
+    {# <h3>Aufnahmen</h3> #}
 <div class="album-wrapper">
-    {% for album in collections.album %}
+    {% for album in collections.album|sort(false, false) %}
     <img class="teaser-album" src="/static/img/albums/{{album.data.image}}" alt="{{album.data.title}}">
     {% endfor %}
 </div>
 
-<a href="/diskografie" data-navtitle="diskografie" class="button--link">Diskografie</a>
+{# <a href="/diskografie" data-navtitle="diskografie" class="button--link">Diskografie</a> #}
 </section>

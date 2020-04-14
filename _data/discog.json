@@ -67,5 +67,18 @@
 		"label": "ZHdK Records",
 		"direction": "Andreas Werner, Radiostudio DRS 2 Zürich",
 		"bestellung": "http://zhdkrecords.zhdk.ch/"
+	},
+	{
+		"title": "Martha von Castelberg: Lieder & Motetten",
+		"image": "/static/img/albums/castelberg.jpg",
+		"performers": [
+			"Estelle Poscio //Susannah Haberfeld/Remy Burnens/Äneas Humm, Gesang",
+			"Judit Polgar, Klavier",
+			"Iarynx Vokalensemble, Jakob Pilgram"
+		],
+		"release": "Februar 2020",
+		"label": "Solo Musica",
+		"direction": "Andreas Werner",
+		"bestellung": "https://www.jpc.de/jpcng/classic/detail/-/art/castelberg-lieder/hnum/9659507"
 	}
 ]

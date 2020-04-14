@@ -10,5 +10,6 @@ release: September 2017
 label: Rondeau Produktion
 direction: Stefan Antonin
 bestellung: /kontakt
+homeOrder: 0
 date: 2017-01-01
 ---

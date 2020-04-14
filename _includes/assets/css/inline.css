@@ -359,7 +359,7 @@ blockquote em {
 }
 
 .gallery img.gallery-image {
-    max-height: 300px;
+    max-height: 500px;
     max-width: 100%;
 }
 
