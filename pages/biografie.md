@@ -1,8 +1,8 @@
 ---
-title: Biografie
-date: 2019-02-01T00:00:00.000Z
-permalink: /biografie/index.html
-navtitle: Biografie
+title: Vita
+date: 2019-11-01T00:00:00.000Z
+permalink: /vita/index.html
+navtitle: Vita
 tags:
   - nav
 ---

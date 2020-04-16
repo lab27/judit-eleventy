@@ -1,6 +1,6 @@
 <nav>
   <ul>
-  {%- for nav in collections.nav | sort(attribute="date") -%}
+  {%- for nav in collections.nav |reverse -%}
     <li>
       <a href="{{ nav.url | url }}" data-navtitle="{{nav.data.section}}">{{ nav.data.navtitle }}</a>
         <div>

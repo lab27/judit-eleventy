@@ -5,7 +5,7 @@ tags:
   - nav
 navtitle: Presse
 section: presse
-date: 2019-02-01
+date: 2019-08-01
 permalink: /presse/index.html
 ---
 ### KRITIKEN (AUSWAHL)

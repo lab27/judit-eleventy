@@ -5,6 +5,6 @@ tags:
   - nav
 navtitle: Kontakt
 section: kontakt
-date: 2019-07-01
+date: 2019-05-01
 permalink: /kontakt/index.html
 ---
