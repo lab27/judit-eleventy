@@ -37,6 +37,15 @@ collections:
   - label: "Collections"
     name: "collections"
     files: 
+      - label: "Sections"
+        name: "sections"
+        widget: "list"
+        fields:
+          - {label: Header, name: header, widget: string, default: "Lorem ipsum"}
+          - {label: Image, name: image, widget: image, default: "img/bob.jpg"}
+          - label: Text
+            name: text
+            widget: markdown
       - label: "Recordings"
         name: "recordings"
         delete: true
