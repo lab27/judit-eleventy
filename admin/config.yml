@@ -34,29 +34,17 @@ collections:
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - label: "Collections"
-    name: "collections"
-    files: 
-      - label: "Sections"
-        name: "sections"
+  - label: "Recordings"
+    name: "recordings"
+    delete: true
+    file: "_data/recordings.json"
+    fields:
+      - label: "Items"
+        name: "items"
         widget: "list"
         fields:
-          - {label: Header, name: header, widget: string, default: "Lorem ipsum"}
-          - {label: Image, name: image, widget: image, default: "img/bob.jpg"}
-          - label: Text
-            name: text
-            widget: markdown
-      - label: "Recordings"
-        name: "recordings"
-        delete: true
-        file: "_data/recordings.json"
-        fields:
-          - label: "Items"
-            name: "items"
-            widget: "list"
-            fields:
-              - {label: "Titel", name: "title", widget: "string"}
-              - {label: "Komponist", name: "composer", widget: "string"}
-              - {label: "Sänger/In", name: "singer", widget: "string"}
-              - {label: "mp3", name: "mp3", widget: "string"}
-              - {label: "ogg", name: "ogg", widget: "string"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Komponist", name: "composer", widget: "string"}
+          - {label: "Sänger/In", name: "singer", widget: "string"}
+          - {label: "mp3", name: "mp3", widget: "string"}
+          - {label: "ogg", name: "ogg", widget: "string"}
