@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-
+local_backend: true
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
 
@@ -9,45 +9,63 @@ media_folder: "static/img" # Media files will be stored in the repo under images
 public_folder: "/static/img"
 
 collections:
-  # Our blog posts
-  # - name: "blog" # Used in routes, e.g., /admin/collections/blog
-  #   label: "Post" # Used in the UI
-  #   folder: "posts" # The path to the folder where the documents are stored
+  # Our recordings
+  # - name: "records" # Used in routes, e.g., /admin/collections/blog
+  #   label: "Records" # Used in the UI
+  #   folder: "records" # The path to the folder where the documents are stored
   #   create: true # Allow users to create new documents in this collection
   #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   #   fields: # The fields for each document, usually in front matter
   #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Publish Date", name: "date", widget: "datetime" }
-  #     - { label: "Summary", name: "summary", widget: "text" }
-  #     - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-  #     - { label: "Body", name: "body", widget: "markdown" }
+  #     - { label: "KomponistIn", name: "composer", widget: "string" }
+  #     - { label: "SaengerIn", name: "singer", widget: "string" }
+  #     - { label: "mp3", name: "mp3", widget: "string", default: "/static/audio/mp3/aeneas02.mp3" }
+  #     - { label: "ogg", name: "ogg", widget: "string", default: "/static/audio/mp3/aeneas02.mp3" }
   # Our pages e.g. About
   - name: "pages"
-    label: "Page"
+    label: "Seiten"
     folder: "pages"
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Untertitel", name: "subtitle", widget: "string", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Navigation Title", name: "navtitle", widget: "string" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - label: "Collects"
-    name: "collects"
-    delete: true
-    files: 
-      - label: "Recordings"
-        name: "recordings"
-        file: "_data/recordings.json"
-        fields:
-          - label: "Items"
-            name: "items"
-            widget: "list"
-            fields:
-              - {label: "Titel", name: "title", widget: "string"}
-              - {label: "Komponist", name: "composer", widget: "string"}
-              - {label: "Sänger/In", name: "singer", widget: "string"}
-              - {label: "mp3", name: "mp3", widget: "string"}
-              - {label: "ogg", name: "ogg", widget: "string"}
+      - { label: "Body", name: "body", widget: "markdown", required: false}
+  # Testimonials
+  - name: 'testimonials'
+    label: 'Referenzen'
+    label_singular: 'Referenz'
+    folder: 'testimonials'
+    create: true
+    slug: '{{fields.title}}'
+    sortable_fields: ['order']
+    fields: 
+      - { label: 'Zitat', name: 'title', widget: 'string'}
+      - { label: 'Quelle', name: 'source', widget: 'string'}
+      - { label: 'Quelle Link', name: 'link', widget: 'string', required: false}
+      - { label: 'Reienfolge', name: 'order', widget: number}
+  # Diskografie
+  # - name: 'diskografie'
+  #   label: 'Diskografie'
+  #   label_singular: 'Album'
+  #   folder: 'diskografie'
+  #   format: 'yml'
+  #   create: true
+  #   slug: '{{fields.title}}'
+  #   sortable_fields: ['order']
+  #   fields: 
+  #     - {label: "Titel", name: "title", widget: "string", default: "Lied Titel"}
+  #     - {label: "Bild", name: "image", widget: "file"}
+  #     - {label: "Performers", name: "performers", widget: "list", field: {label: Performer, name: performer, widget: string}}
+  #     - {label: "Release", name: "release", widget: "string"}
+  #     - {label: "Label", name: "label", widget: "string"}
+  #     - {label: "Regie", name: "regie", widget: "string"}
+  #     - {label: "Bestellung", name: "bestellung", widget: "string", required: false}
+  #     - {label: "Komponist", name: "composer", widget: "string", default: "Mahler"}
+  #     - {label: "Sänger/In", name: "singer", widget: "string", default: "fritz"}
+  #     - {label: "mp3", name: "mp3", widget: "file", default: "/audio/mp3/song.mp3"}
+  #     - {label: "ogg", name: "ogg", widget: "file", default: "/audio/ogg/song.ogg"}

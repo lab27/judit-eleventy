@@ -1,37 +1,11 @@
 {
   "title": "Judit Polgar",
-  "subtitle": "Pianistin",
-  "currentYear": "2019",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "subtitle": "PIANISTIN, LIEDBEGLEITERIN, KORREPETITORIN",
+  "currentYear": "2021",
+  "url": "https://juditpolgar.ch",
   "author": {
     "name": "Nick Niles",
     "email": "nick@pastiche.io",
     "github": "https://github.com/lab27"
-  },
-  "shortBio": "Herzlich willkommen auf der Webseite von Judit Polgar. Sie ist eine Pianistin, spezialisiert auf Liedbegleitung und Korrepetition.  ",
-  "quotes": [
-    {
-      "text": "Kompetent, kollegial unterstützend und pianistisch perfekt begleitet Judit Polgár.",
-      "author": "Online Merker",
-      "link": "https://onlinemerker.com"
-    },
-    {
-      "text": "In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert.",
-      "author": "Neue Zürcher Zeitung",
-      "link": "https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712"
-    },
-    {
-      "text": "Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.",
-      "author": "Opera-Világ",
-      "link": "http://operavilag.net/kiemelt/magasugras/"
-    },
-    {
-      "text": "...man hört es schon dem Klaviersatz an, den Judit Polgar – die ideale Begleiterin - mit unendlicher Weichheit nimmt.",
-      "author": "Der Opernfreund"
-    },
-    {
-      "text": "Judit Polgar bewältigt die anspruchsvollen, nicht leicht schön zu spielenden Begleitpartien und Nachspiele bei Mahler und Stauss mit Bravour, oft ist sie die treibende Kraft.",
-      "author": "Tagesanzeiger"
-    }
-  ]
+  }
 }

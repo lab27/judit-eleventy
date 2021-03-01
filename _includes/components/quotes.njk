@@ -1,21 +1,20 @@
 <section class="quotes">
 
-<article>
+  <article>
     {# <h3 class="u-centered">Stimmen aus der Presse</h3> #}
-     {% for quote in metadata.quotes %}
-        <div class="quote">
+    {% for quote in collections.quote %}
+      <div class="quote">
         <blockquote>
-        <span class="big-quote">"</span>
-        {{quote.text}}
-        <span class="big-quote">"</span>
+          <span class="big-quote">"</span>
+          <span>{{quote.data.title}}</span>
+          <span class="big-quote">"</span>
         </blockquote>
         <div class="quote-author">
-        <p>- {{quote.author}}</p>
+          <p>- {{quote.data.source}}</p>
         </div>
-        </div>
-    
-        {% endfor %}
-    
-        
-</article>
+      </div>
+
+    {% endfor %}
+
+  </article>
 </section>
