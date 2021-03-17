@@ -46,6 +46,14 @@ code {
     line-height: 1.8;
 }
 
+a, a:link, a:visited, a:active {
+    color: var(--c-dark);
+}
+
+.presse h3 {
+    font-size: 2rem;
+}
+
 a[href],
 a[href]:visited {
     /* color: var(--nav-color); */
@@ -92,7 +100,7 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center; */
-    height: 50vw;
+    height: 65vw;
 }
 
 header .heroimage {
@@ -104,7 +112,7 @@ header .heroimage {
     top: 0;
     left: 0;
     right: 0;
-    height: 50vw;
+    height: 65vw;
     z-index: 0;
 }
 
@@ -311,10 +319,19 @@ main section.discog .album-wrapper {
 
 blockquote {
     font-weight: 600;
+    margin-left: 0;
 }
+
+
 
 blockquote em {
     font-weight: 300;
+}
+
+.presse blockquote {
+    margin-bottom: 4rem;
+    border-left: 1px solid rgba(0,0,0,.1);
+    padding-left: 1rem;
 }
 
 .quote {
@@ -343,7 +360,7 @@ blockquote em {
     justify-content: stretch;
 }
 
-.gallery img.gallery-image {
+.gallery-images img.gallery-image {
     max-height: 500px;
     max-width: 100%;
 }
