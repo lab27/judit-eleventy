@@ -414,12 +414,17 @@ blockquote em {
 .gallery-images {
     display: flex;
     flex-flow: row wrap;
-    justify-content: stretch;
+    align-items: flex-start;
+    /* display: flex;
+    flex-flow: row wrap; */
+    /* justify-content: stretch; */
 }
 
 .gallery-images img.gallery-image {
-    max-height: 500px;
-    max-width: 100%;
+    width: 100%;
+    max-width: 600px;
+    /* max-height: 500px; */
+    /* max-width: 100%; */
 }
 
 .teaser-album {
