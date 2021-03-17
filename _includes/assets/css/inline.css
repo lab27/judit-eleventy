@@ -23,6 +23,7 @@ body {
     margin: 0;
     font-family: "Avenir Next", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
+    position: relative;
 }
 
 body {
@@ -35,9 +36,16 @@ main {
     min-height: 90vh;
     /* max-width: 630px; */
     margin: 0 auto;
+    margin-top: -4rem;
     padding: var(--l-padding);
-    padding-top: 5rem;
+    padding-top: 0;
     padding-bottom: 7rem;
+    position: relative;
+    z-index: 100;
+}
+
+body.home main {
+    margin-top: -20vh;
 }
 
 p,
@@ -65,8 +73,24 @@ footer {
 }
 
 footer {
-    text-align: right;
+    text-align: center;
+    padding-bottom: 10rem;
 }
+
+.footer-nav li {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.footer-nav a {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
+
 
 main :first-child,
 main>article :first-child {
@@ -96,32 +120,31 @@ ul {
 }
 
 header {
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; */
     height: 65vw;
+    position: relative;
+    z-index: 1;
 }
 
 header .heroimage {
-    background: none;
     transition: opacity .5s ease;
-    background-size: cover;
     position: absolute;
-    opacity: 0;
+    opacity: 1;
     top: 0;
     left: 0;
     right: 0;
     height: 65vw;
     z-index: 0;
+    background: url(/static/img/judit_polgar.jpg) no-repeat;
+    background-size: cover;
+
 }
 
+/* 
 html.click-happened header .heroimage {
     opacity: 0;
 }
 
 html header .heroimage {
-    background: url('/static/img/judit_polgar.jpg');
     background-size: cover;
     opacity: 1;
 }
@@ -170,6 +193,10 @@ html.presse header .heroimage {
 
 html.is-changing header .heroimage {
     opacity: 0;
+} */
+
+header nav.horizontal-menu {
+    display: none;
 }
 
 header nav.horizontal-menu ul li  {
@@ -195,7 +222,8 @@ header nav.horizontal-menu ul li a:hover {
     box-shadow: 0 2px white;
 }
 
-/* header nav {
+nav.mobile-nav {
+    display: none;
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -210,22 +238,43 @@ header nav.horizontal-menu ul li a:hover {
     transform: translateX(100%);
     opacity: 0;
     transition: transform .3s cubic-bezier(.77, 0, .175, 1), opacity .4s linear;
+    z-index: 9999;
 }
 
-.menu-open header nav {
+nav.mobile-nav li {
+    margin-bottom: 1rem;
+}
+
+nav.mobile-nav a {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+nav.mobile-nav a.active {
+    opacity: .3;
+}
+
+.menu-open nav.mobile-nav {
     transform: none;
     opacity: 1;
-} */
+} 
 
-header .menu-btn {
+.menu-btn {
     position: fixed;
     top: 2rem;
     right: 2rem;
     width: 2rem;
     height: 2rem;
+    display: block;
+    z-index: 9999;
 }
 
-header .close-btn {
+.menu-open .menu-btn {
+    display: none;
+}
+
+ .close-btn {
     position: fixed;
     top: 2rem;
     right: 2rem;
@@ -250,23 +299,25 @@ header .hero {
     position: relative;
 }
 
-header .hero h1 {
+header .hero h2 {
     margin: 0;
     margin-bottom: .5rem;
+    font-size: 2.5rem;
     color: white;
 }
-header .hero h1 a {
+header .hero h2 a {
 color: white;
 text-decoration: none;
 }
 
-header .hero h2 {
-    text-transform: uppercase;
-    font-weight: 500;
-    font-size: 1rem;
-    letter-spacing: .1rem;
-    margin: 0;
-    color: var(--c-title-color);
+header .fader {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: linear-gradient(transparent, var(--turkey));
+
 }
 
 .subnav {
@@ -315,6 +366,12 @@ main section.discog .album-wrapper {
     width: 100%;
     justify-content: space-around;
     align-items: stretch;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 4rem;
 }
 
 blockquote {
@@ -449,21 +506,47 @@ button {
 
     main {
         padding-bottom: 3rem;
+        margin-top: -20rem;
     }
 
-    /* header nav {
+    main h1 {
+        color: white;
+        font-size: 3rem;
+        margin-bottom: 8rem;
+    }
+
+    header nav.horizontal-menu {
+        display: block;
+    }
+
+    .menu-btn {
+        display: none;
+    }
+
+    footer {
+        text-align: right;
+        padding-bottom: 5rem;
+    }
+
+    .footer-nav {
+        display: none;
+    }
+
+    nav.mobile-nav {
+        display: block;
         background-color: transparent;
         justify-content: flex-end;
         margin: 0;
         padding: 0;
     }
 
-    header nav ul {
+    nav.mobile-nav ul {
         width: 20rem;
         background-color: var(--c-light, #ccc);
         color: white;
         padding: 2rem 0;
-    } */
+    }
+
 
     main section.discog .album-wrapper {
         flex-flow: row nowrap;
@@ -472,7 +555,7 @@ button {
 }
 
 .transition-fade {
-    transition: transform 1s cubic-bezier(.77, 0, .175, 1), opacity .4s linear;
+    transition: transform 1s cubic-bezier(.77, 0, .175, 1), opacity .4s linear, filter .5s;
     opacity: 1;
     transform: none;
 }
@@ -484,16 +567,17 @@ button {
 }
 
 html.is-animating .transition-fade {
-    transform: translateY(50%);
+    /* transform: translateY(-50px); */
     opacity: 0;
+    filter: blur(20px);
 }
 
 html.is-animating.is-leaving .transition-fade {
-    transform: translateY(-50%);
+    /* transform: translateY(-50px); */
 }
 
 html.is-animating.is-leaving .transition-fly {
-    transform: translateY(-150%);
+    /* transform: translateY(-150px); */
 }
 
 /* html.is-rendering .transition-fly {

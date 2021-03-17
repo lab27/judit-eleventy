@@ -3,6 +3,7 @@ title: Vita
 date: 2019-11-01T00:00:00.000Z
 permalink: /vita/index.html
 navtitle: Vita
+bodyClass: vita
 tags:
   - nav
 ---

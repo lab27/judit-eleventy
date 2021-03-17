@@ -7,6 +7,7 @@ navtitle: Presse
 section: presse
 date: 2019-05-04
 permalink: /presse/index.html
+bodyClass: presse
 ---
 ### KRITIK
 > In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert.

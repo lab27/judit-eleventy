@@ -7,5 +7,6 @@ navtitle: Diskografie
 tags:
   - nav
 section: diskografie
+bodyClass: diskografie
 ---
 (Inhalt automatisch ausgefüllt von admin > Diskografie)
