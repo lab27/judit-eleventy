@@ -45,7 +45,7 @@ main {
 }
 
 body.home main {
-    margin-top: -20vh;
+    margin-top: -10vh;
 }
 
 p,
@@ -262,7 +262,7 @@ nav.mobile-nav a.active {
 
 .menu-btn {
     position: fixed;
-    top: 2rem;
+    top: 1.65rem;
     right: 2rem;
     width: 2rem;
     height: 2rem;
