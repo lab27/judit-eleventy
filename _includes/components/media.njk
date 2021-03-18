@@ -15,11 +15,14 @@
 <section class="videos">
 
 <h3>Videos</h3>
-{# <div class="gallery-images">
-    {% for num in range(1, 6) %}
-    
-    <img class="gallery-image" src="/static/img/gallery/judit_polgar-0{{num}}.jpg" alt="" />
+<div class="video-gallery">
+    {% set videolist = collections.videos %}
+    {% for vid in videolist %}
+    <div class="videoWrapper">
+        <!-- Copy & Pasted from YouTube -->
+        <iframe width="560" height="349" src="http://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+      </div>
     {%endfor%}
-</div> #}
+</div> 
 
 </section>
