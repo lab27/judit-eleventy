@@ -432,11 +432,11 @@ blockquote em {
     flex-flow: row wrap;
 }
 
-.videoWrapper {
+.fitVids-wrapper {
     margin: 1rem;
 }
 
-.videoWrapper:first-child {
+.fitVids-wrapper:first-child {
     margin-top: 1rem;
 }
 

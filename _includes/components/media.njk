@@ -18,10 +18,10 @@
 <div class="video-gallery">
     {% set videolist = collections.videos %}
     {% for vid in videolist %}
-    <div class="videoWrapper">
+    <!-- <div class="vidteast"> -->
         <!-- Copy & Pasted from YouTube -->
-        <iframe width="560" height="349" src="https://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-      </div>
+        <iframe src="https://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+      <!-- </div> -->
     {%endfor%}
 </div> 
 
