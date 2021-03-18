@@ -59,6 +59,7 @@ collections:
     sortable_fields: ['order']
     fields: 
       - { label: 'ID', name: 'id', widget: 'string'}
+      - { label: 'Order', name: 'order', widget: 'number'}
 
   # Diskografie
   # - name: 'diskografie'

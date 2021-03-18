@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+---
+<h1 id="media">{{title}}</h1>
+
+<div class="media-subnav">
+    <a href="/fotos/#media" data-navtitle="media">Fotos</a> / Videos
+</div>
+
+<section class="videos">
+    <div class="video-gallery">
+        {% set videolist = collections.videos %}
+        {% for vid in videolist %}
+        <!-- <div class="vidteast"> -->
+            <!-- Copy & Pasted from YouTube -->
+            <iframe src="https://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+          <!-- </div> -->
+        {%endfor%}
+    </div> 
+    
+    </section>

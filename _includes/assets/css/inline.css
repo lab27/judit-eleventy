@@ -324,6 +324,22 @@ header .fader {
     display: none;
 }
 
+.media-subnav {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.media-subnav a {
+    color: rgba(0,0,0,.5);
+    text-decoration: none;
+}
+
+.media-subnav a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
 /* Posts List */
 
 article {
