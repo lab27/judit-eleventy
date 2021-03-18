@@ -48,6 +48,19 @@ collections:
       - { label: 'Quelle', name: 'source', widget: 'string'}
       - { label: 'Quelle Link', name: 'link', widget: 'string', required: false}
       - { label: 'Reienfolge', name: 'order', widget: number}
+
+  # Videos
+  - name: videos
+    label: Videos
+    label_singular: Video
+    folder: videos
+    create: true
+    slug: '{{fields.id}}'
+    sortable_fields: ['order']
+    fields: 
+      - { label: 'ID', name: 'id', widget: 'string'}
+      - { label: 'Order', name: 'order', widget: 'number'}
+
   # Diskografie
   # - name: 'diskografie'
   #   label: 'Diskografie'

@@ -12,6 +12,7 @@
     left: 0;
     right: 0;
     padding: var(--l-padding);
+    z-index: 999;
 }
 
 .audio.judit-audio-player {

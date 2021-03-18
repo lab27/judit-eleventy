@@ -3,6 +3,7 @@ layout: layouts/base.njk
 section: blog
 permalink: /blog/index.html
 ---
+<h1>{{title}}</h1>
 {% for album in collections.album | reverse %}
 <article class="album">
 <img class="teaser-album" src="/static/img/albums/{{album.data.image}}" alt="{{album.data.title}}">

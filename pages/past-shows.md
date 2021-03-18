@@ -3,6 +3,7 @@ title: Agenda
 date: 2019-10-02T00:00:00.000Z
 permalink: /agenda/index.html
 navtitle: Agenda
+bodyClass: agenda
 tags:
   - nav
 ---

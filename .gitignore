@@ -3,3 +3,8 @@ node_modules/
 package-lock.json
 .DS_Store
 static/.DS_Store
+<<<<<<< HEAD
+=======
+# Local Netlify folder
+.netlify
+>>>>>>> newheader
