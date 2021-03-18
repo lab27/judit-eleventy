@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 <section class="videos">
     <div class="video-gallery">
-        {% set videolist = collections.videos %}
+        {% set videolist = collections.videos | reverse %}
         {% for vid in videolist %}
         <!-- <div class="vidteast"> -->
             <!-- Copy & Pasted from YouTube -->
