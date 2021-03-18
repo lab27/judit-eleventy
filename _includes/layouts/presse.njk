@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+section: page
+---
+
+<h1 id="presse">{{title}}</h1>
+
+<div class="tabs-subnav">
+ {% set whichtab = section %}
+    <a href="/kritik/#presse" data-navtitle="presse" {% if whichtab == 'kritik' %} class="active"{% endif %}>Kritik</a> / <a href="/interview/#presse" {% if whichtab == 'interview' %} class="active"{% endif %}data-navtitle="presse">Interview</a>
+</div>
+
+<article class="{{section}}">
+    {{ layoutContent | safe }}
+</article>

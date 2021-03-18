@@ -324,22 +324,35 @@ header .fader {
     display: none;
 }
 
-.media-subnav {
+.tabs-subnav {
     font-size: 2rem;
     font-weight: 700;
     text-align: center;
 }
 
-.media-subnav a {
+.tabs-subnav a {
     color: rgba(0,0,0,.5);
     text-decoration: none;
 }
 
-.media-subnav a:hover {
+.tabs-subnav a:hover {
     color: black;
     text-decoration: underline;
 }
 
+.tabs-subnav a.active {
+    color: black;
+    pointer-events: none;
+}
+
+.presse .tabs-subnav {
+    margin-bottom: 3rem;
+}
+
+.presse iframe {
+    width: 100%;
+    margin-top: 1rem;
+}
 /* Posts List */
 
 article {
