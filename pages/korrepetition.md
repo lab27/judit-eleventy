@@ -21,9 +21,9 @@ tags:
 
 * ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
-  G. Donizetti: L'elisir d'amore,  Workshopreihe, www.kulturvermittlung-zh.ch
+  G. Donizetti: 'L'elisir d'amore',  Workshopreihe, www.kulturvermittlung-zh.ch
 
-  M. A. Turnage: Coraline, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+  M. A. Turnage: 'Coraline', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
   C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
 
