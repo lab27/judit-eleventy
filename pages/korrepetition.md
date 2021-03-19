@@ -17,20 +17,17 @@ tags:
 
   C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
 
-
-
 #### 2019
 
-* C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
+* ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
-  ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
-
-  G. Donizetti: L'elisir d'amore,  www.kulturvermittlung-zh.ch
+  G. Donizetti: L'elisir d'amore,  Workshopreihe, www.kulturvermittlung-zh.ch
 
   M. A. Turnage: Coraline, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
-#### 2017
+  C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
 
+  #### 2017
 * S. Storace: 'Gli Equivoci', Produktion Free Opera Company
 * R. Benatzky. 'Im weissen Rössl', Produktion Theatergesellschaft Beinwil am See
 * J. Haydn: 'Lo Speziale', Musikhochschule Luzern
