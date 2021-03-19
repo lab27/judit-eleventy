@@ -11,7 +11,7 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
-#### 2020
+#### 2021
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
 
@@ -23,7 +23,7 @@ tags:
 
 * S. Storace: 'Gli Equivoci', Produktion Free Opera Company
 * R. Benatzky. 'Im weissen Rössl', Produktion Theatergesellschaft Beinwil am See
-* J. Haydn: 'Lo Speziale', Bachelorprojekt an der Musikhochschule Luzern
+* J. Haydn: 'Lo Speziale', Musikhochschule Luzern
 
 #### 2016
 
@@ -56,4 +56,4 @@ tags:
 
 ### Korrepetition von Chören:
 
-* Paulus-Chor Zürich, Messias-Chor Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
+* Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
