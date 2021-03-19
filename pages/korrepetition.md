@@ -15,9 +15,19 @@ tags:
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
 
+  C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
+
+
+
 #### 2019
 
 * C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
+
+  ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+
+  G. Donizetti: L'elisir d'amore,  www.kulturvermittlung-zh.ch
+
+  M. A. Turnage: Coraline, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
 #### 2017
 
@@ -56,4 +66,4 @@ tags:
 
 ### Korrepetition von Chören:
 
-* Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
+* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
