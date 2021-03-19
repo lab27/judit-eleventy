@@ -47,17 +47,11 @@ tags:
 
 * F. von Flotow: 'Martha', Produktion Volksoper Zürich
 
-#### 2010
+#### 2006-2010
 
 * J. Offenbach: 'Die Banditen', Produktion Theater Neumarkt Zürich
-
-#### 2007
-
 * Opernprojekt „Halle 109“, Produktion Operton
 * 2007 G. Rossini: 'Cenerentola', Produktion der Akademie für Musik und Theater
-
-#### 2006
-
 * R. Benatzky: 'Im weissen Rössl', Produktion Volkstheater im Amt
 * W. A. Mozart: 'Die Zauberflöte', Produktion der Akademie für Musik und Theater
 
