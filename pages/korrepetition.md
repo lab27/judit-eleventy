@@ -14,38 +14,31 @@ tags:
 #### 2021
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
-
-  C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
+* C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
 
 #### 2019
 
 * ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+* G. Donizetti: 'L'elisir d'amore',  Workshopreihe, www.kulturvermittlung-zh.ch
+* M. A. Turnage: 'Coraline', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+* C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
 
-  G. Donizetti: 'L'elisir d'amore',  Workshopreihe, www.kulturvermittlung-zh.ch
+#### 2017
 
-  M. A. Turnage: 'Coraline', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
-
-  C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
-
-  #### 2017
 * S. Storace: 'Gli Equivoci', Produktion Free Opera Company
+* R. Benatzky. 'Im weissen Rössl', Produktion Theatergesellschaft Beinwil am See
+* J. Haydn: 'Lo Speziale', Musikhochschule Luzern
 
-  R. Benatzky. 'Im weissen Rössl', Produktion Theatergesellschaft Beinwil am See
+#### 2016
 
-  J. Haydn: 'Lo Speziale', Musikhochschule Luzern
-
-  #### 2016
 * E. T. A. Hoffmann: 'Liebe und Eifersucht', Produktion Free Opera Company
-
-  W. A. Mozart: 'Così fan tutte', Produktion Junges Musiktheater Zürich
+* W. A. Mozart: 'Così fan tutte', Produktion Junges Musiktheater Zürich
 
 #### 2015
 
 * J. Strauss: 'Eine Nacht in Venedig', Produktion Theatergesellschaft Beinwil am See
-
-  E. Humperdinck: 'Hänsel und Gretel', Produktion Junges Musiktheater Zürich
-
-  W. A. Mozart: 'Bastien und Bastienne', Produktion Café Così
+* E. Humperdinck: 'Hänsel und Gretel', Produktion Junges Musiktheater Zürich
+* W. A. Mozart: 'Bastien und Bastienne', Produktion Café Così
 
 #### 2014
 
