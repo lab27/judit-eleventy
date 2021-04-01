@@ -11,19 +11,23 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
-#### 2020
+#### 2021
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
+* C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
 
 #### 2019
 
+* ImprO-Opera, Die Welt der Rossini Opern, Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+* G. Donizetti: 'L'elisir d'amore',  Workshopreihe, www.kulturvermittlung-zh.ch
+* M. A. Turnage: 'Coraline', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * C. Millöcker: 'Gasparone', Produktion Theatergesellschaft Beinwil am See
 
 #### 2017
 
 * S. Storace: 'Gli Equivoci', Produktion Free Opera Company
 * R. Benatzky. 'Im weissen Rössl', Produktion Theatergesellschaft Beinwil am See
-* J. Haydn: 'Lo Speziale', Bachelorprojekt an der Musikhochschule Luzern
+* J. Haydn: 'Lo Speziale', Musikhochschule Luzern
 
 #### 2016
 
@@ -40,20 +44,14 @@ tags:
 
 * F. von Flotow: 'Martha', Produktion Volksoper Zürich
 
-#### 2010
+#### 2006-2010
 
 * J. Offenbach: 'Die Banditen', Produktion Theater Neumarkt Zürich
-
-#### 2007
-
 * Opernprojekt „Halle 109“, Produktion Operton
 * 2007 G. Rossini: 'Cenerentola', Produktion der Akademie für Musik und Theater
-
-#### 2006
-
 * R. Benatzky: 'Im weissen Rössl', Produktion Volkstheater im Amt
 * W. A. Mozart: 'Die Zauberflöte', Produktion der Akademie für Musik und Theater
 
 ### Korrepetition von Chören:
 
-* Paulus-Chor Zürich, Messias-Chor Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
+* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
