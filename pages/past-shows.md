@@ -7,6 +7,58 @@ bodyClass: agenda
 tags:
   - nav
 ---
+### 2021 (Auswahl)
+
+##### 1. Oktober 2021
+
+Rezital, Augustinerkirche Zürich, 18 Uhr
+
+Lieder von Martha von Castelberg und Franz Schubert
+
+Maya Boog, Sopran
+
+Susannah Haberfeld, Mezzo
+
+Remy Burnens, Tenor
+
+Äneas Humm, Bariton
+
+##### 11. September 2021
+
+Enescu Festival Bukarest, Sala Auditorum, 11 Uhr 
+
+Äneas Humm, Bariton
+
+Trio Clara Haskil
+
+Lieder von Bartok, EnecscuB. B      
+
+##### 28. August 2021
+
+Liederabend, Raff Archiv Lachen
+
+Äneas Humm, Bariton
+
+##### 26. August 2021
+
+Liederabend, Kirche Rougemont, 19.30
+
+Äneas Humm, Bariton
+
+##### 23. Mai 2021
+
+Liederabend im Grandhotel Giessbach
+
+Bastian Kohl, Bass
+
+* ##### 8. Mai 2021
+
+Michaela Unsinn, Sopran
+
+Alexander Maria Schmidt, Sprecher
+
+Live aus dem Wohnzimmer von R. Irniger
+
 ### 2019 (Auswahl)
 
 ##### 19./22. November 2019
@@ -625,6 +677,7 @@ tags:
 * Hauskonzert
 * Alexandra Hebart, Mezzosopran
 * Lieder von R. Schumann, A. Zemlinsky, A. Berg, R. Strauss
+
   ##### 18. Mai 2011
 * .HBC, Berlin
 * Kopf Kino Kantaten
