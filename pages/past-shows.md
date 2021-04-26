@@ -11,65 +11,50 @@ tags:
 
 ##### 28. Dezember 2021
 
-Zauberwald Lenzerheide 
-
-Nora Bertogg, Sopran
-
-Mkhanyseli Mlombi, Bariton 
+* Zauberwald Lenzerheide 
+* Nora Bertogg, Sopran
+* Mkhanyseli Mlombi, Bariton 
 
 ##### 1. Oktober 2021
 
-Rezital, Augustinerkirche Zürich, 18 Uhr
-
-Lieder von Martha von Castelberg und Franz Schubert
-
-Maya Boog, Sopran
-
-Susannah Haberfeld, Mezzo
-
-Remy Burnens, Tenor
-
-Äneas Humm, Bariton
+* Rezital, Augustinerkirche Zürich, 18 Uhr
+* Lieder von Martha von Castelberg und Franz Schubert
+* Maya Boog, Sopran
+* Susannah Haberfeld, Mezzo
+* Remy Burnens, Tenor
+* Äneas Humm, Bariton
 
 ##### 11. September 2021
 
-Enescu Festival Bukarest, Sala Auditorum, 11 Uhr 
+* Enescu Festival Bukarest, Sala Auditorum, 11 Uhr 
+* https://www.festivalenescu.ro/events/trio-clara-haskil/
+* Äneas Humm, Bariton
+* Trio Clara Haskil
+* Lieder von B. Bartok, G. Enecscu      
 
-https://www.festivalenescu.ro/events/trio-clara-haskil/
+  ##### 28. August 2021
+* Liederabend, Raff Archiv Lachen
+* Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
 
-Äneas Humm, Bariton
-
-Trio Clara Haskil
-
-Lieder von B. Bartok, G. Enecscu      
-
-##### 28. August 2021
-
-Liederabend, Raff Archiv Lachen
-
-Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
-
-Äneas Humm, Bariton
+  * Äneas Humm, Bariton
 
 ##### 26. August 2021
 
-Liederabend, Kirche Rougemont, 19.30
+* Liederabend, Kirche Rougemont, 19.30
+* Äneas Humm, Bariton
 
-Äneas Humm, Bariton
+  ##### 23. Mai 2021
+* Liederabend im Grandhotel Giessbach
 
-##### 23. Mai 2021
+  Bastian Thomas Kohl, Bass 
 
-Liederabend im Grandhotel Giessbach
+##### 8. Mai 2021
 
-Bastian Kohl, Bass
+* Michaela Unsinn, Sopran
+* Alexander Maria Schmidt, Sprecher
+* Live aus dem Wohnzimmer von R. Irniger
 
-* ##### 8. Mai 2021
 
-Michaela Unsinn, Sopran
-
-Alexander Maria Schmidt, Sprecher
-
-Live aus dem Wohnzimmer von R. Irniger
 
 ### 2019 (Auswahl)
 
