@@ -30,13 +30,13 @@ tags:
 * https://www.festivalenescu.ro/events/trio-clara-haskil/
 * Äneas Humm, Bariton
 * Trio Clara Haskil
-* Lieder von B. Bartok, G. Enecscu      
+* Lieder von B. Bartók, G. Enecscu      
 
   ##### 28. August 2021
 * Liederabend, Raff Archiv Lachen
 * Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
 
-  * Äneas Humm, Bariton
+  Äneas Humm, Bariton
 
 ##### 26. August 2021
 
@@ -53,8 +53,6 @@ tags:
 * Michaela Unsinn, Sopran
 * Alexander Maria Schmidt, Sprecher
 * Live aus dem Wohnzimmer von R. Irniger
-
-
 
 ### 2019 (Auswahl)
 
