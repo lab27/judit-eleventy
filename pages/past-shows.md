@@ -32,7 +32,8 @@ tags:
 * Trio Clara Haskil
 * Lieder von B. Bartók, G. Enecscu      
 
-  ##### 28. August 2021
+##### 28. August 2021
+
 * Liederabend, Raff Archiv Lachen
 * Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
 * Äneas Humm, Bariton
