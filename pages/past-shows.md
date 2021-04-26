@@ -35,18 +35,17 @@ tags:
   ##### 28. August 2021
 * Liederabend, Raff Archiv Lachen
 * Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
-
-  Äneas Humm, Bariton
+* Äneas Humm, Bariton
 
 ##### 26. August 2021
 
 * Liederabend, Kirche Rougemont, 19.30
 * Äneas Humm, Bariton
 
-  ##### 23. Mai 2021
-* Liederabend im Grandhotel Giessbach
+##### 23. Mai 2021
 
-  Bastian Thomas Kohl, Bass 
+* Liederabend im Grandhotel Giessbach
+* Bastian Thomas Kohl, Bass 
 
 ##### 8. Mai 2021
 
