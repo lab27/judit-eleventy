@@ -9,6 +9,14 @@ tags:
 ---
 ### 2021 (Auswahl)
 
+##### 28. Dezember 2021
+
+Zauberwald Lenzerheide 
+
+Nora Bertogg, Sopran
+
+Mkhanyseli Mlombi, Bariton 
+
 ##### 1. Oktober 2021
 
 Rezital, Augustinerkirche Zürich, 18 Uhr
@@ -27,15 +35,19 @@ Remy Burnens, Tenor
 
 Enescu Festival Bukarest, Sala Auditorum, 11 Uhr 
 
+https://www.festivalenescu.ro/events/trio-clara-haskil/
+
 Äneas Humm, Bariton
 
 Trio Clara Haskil
 
-Lieder von Bartok, EnecscuB. B      
+Lieder von B. Bartok, G. Enecscu      
 
 ##### 28. August 2021
 
 Liederabend, Raff Archiv Lachen
+
+Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
 
 Äneas Humm, Bariton
 
