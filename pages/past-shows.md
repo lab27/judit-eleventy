@@ -15,7 +15,7 @@ tags:
 * Nora Bertogg, Sopran
 * Mkhanyseli Mlombi, Bariton 
 
-  ##### 30./31. Dezember 2021
+  ##### 30./31. Oktober 2021
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
 * Mélanie Adami, Sopran
