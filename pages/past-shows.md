@@ -15,6 +15,11 @@ tags:
 * Nora Bertogg, Sopran
 * Mkhanyseli Mlombi, Bariton 
 
+  ##### 30./31. Dezember 2021
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
+* Mélanie Adami, Sopran
+
 ##### 1. Oktober 2021
 
 * Rezital, Augustinerkirche Zürich, 18 Uhr
@@ -23,6 +28,11 @@ tags:
 * Susannah Haberfeld, Mezzo
 * Remy Burnens, Tenor
 * Äneas Humm, Bariton
+
+  ##### 25/26. September 2021
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15. 30 Uhr
+* <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
+* Mélanie Adami, Sopran
 
 ##### 11. September 2021
 
