@@ -29,9 +29,9 @@ tags:
 * Remy Burnens, Tenor
 * Äneas Humm, Bariton
 
-  ##### 25/26. September 2021
+  ##### 25./26. September 2021
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15. 30 Uhr
-* <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
+* [https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763](https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/)
 * Mélanie Adami, Sopran
 
 ##### 11. September 2021
