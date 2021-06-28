@@ -22,12 +22,13 @@ tags:
 
 ##### 1. Oktober 2021
 
-* Rezital, Augustinerkirche Zürich, 18 Uhr
-* Lieder von Martha von Castelberg und Franz Schubert
+* Martha von Castelberg Festival, Augustinerkirche Zürich, 18 Uhr
+* Lieder von M.v. Castelberg und F. Schubert
 * Maya Boog, Sopran
 * Susannah Haberfeld, Mezzo
 * Remy Burnens, Tenor
 * Äneas Humm, Bariton
+* Graziella Rossi, Rezitation
 
   ##### 25./26. September 2021
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15. 30 Uhr
@@ -51,6 +52,7 @@ tags:
 ##### 26. August 2021
 
 * Liederabend, Kirche Rougemont, 19.30
+* Lieder von R. Schumann, F. Liszt, M. Ravel
 * Äneas Humm, Bariton
 
 ##### 23. Mai 2021
@@ -60,9 +62,12 @@ tags:
 
 ##### 8. Mai 2021
 
-* Michaela Unsinn, Sopran
+* "Zaubergärten" - Französische Melodien zwischen 1870-1914
+* Lieder von Bizet, Franck, Sévérac, Chausson, Ravel, Duparc, D'Indy, Debussy, Roussel, Fauré
+* Michaela Unsinn, Mezzosopran
 * Alexander Maria Schmidt, Sprecher
-* Live aus dem Wohnzimmer von R. Irniger
+* Severin Kolb, Text/Dramaturgie
+* Livestream aus dem Wohnzimmer von R. Irniger
 
 ### 2019 (Auswahl)
 
