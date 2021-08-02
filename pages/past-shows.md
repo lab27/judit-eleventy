@@ -52,14 +52,14 @@ tags:
 
 ##### 28. August 2021
 
-* Liederabend, Raff Archiv Lachen
-* Lieder von J. Raff, R. Schumann, C. Schumann, F. Liszt und R. Franz
+* Liederabend, Raff Archiv Lachen, 19.30
+* Lieder von J. Raff, R. Schumann, F. Liszt und R. Franz
 * Äneas Humm, Bariton
 
 ##### 26. August 2021
 
 * Liederabend, Kirche Rougemont, 19.30
-* Lieder von R. Schumann, F. Liszt, M. Ravel
+* Lieder von R. Schumann, F. Liszt, E. Grieg
 * Äneas Humm, Bariton
 
 ##### 23. Mai 2021
