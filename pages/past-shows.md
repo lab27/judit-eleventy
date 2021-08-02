@@ -13,9 +13,16 @@ tags:
 
 * Zauberwald Lenzerheide 
 * Nora Bertogg, Sopran
-* Mkhanyseli Mlombi, Bariton 
+* Mkhanyseli Mlombi, Bariton
+*
+* ##### 5. November 2021
+* Liederabend, reformierte Kirche Wädenswil, 19 Uhr
+* https://www.kirche-waedenswil.ch/veranstaltung/29640
+* Äneas Humm, Bariton
 
-  ##### 30./31. Oktober 2021
+
+
+* ##### 30/31. Oktober 2021
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
 * Mélanie Adami, Sopran
