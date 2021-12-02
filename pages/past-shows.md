@@ -14,22 +14,28 @@ tags:
 * Zauberwald Lenzerheide 
 * Nora Bertogg, Sopran
 * Mkhanyseli Mlombi, Bariton
-*
-* ##### 5. November 2021
+
+##### 27. November 2021
+
+* „Lieder gemalt in Farbe“, Musik- und Kulturraum Zwicky Süd, 19 Uhr
+* Sela Bieri, Sopran
+* Alex Jellici, Cello
+
+##### 20. November 2021
+
 * Liederabend, reformierte Kirche Wädenswil, 19 Uhr
 * https://www.kirche-waedenswil.ch/veranstaltung/29640
 * Äneas Humm, Bariton
 
-
-
-* ##### 30/31. Oktober 2021
+  ##### 30/31. Oktober 2021
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
 * Mélanie Adami, Sopran
 
 ##### 1. Oktober 2021
 
-* Martha von Castelberg Festival, Augustinerkirche Zürich, 18 Uhr
+##### Martha von Castelberg Festival, Augustinerkirche Zürich, 18 Uhr
+
 * Lieder von M.v. Castelberg und F. Schubert
 * Maya Boog, Sopran
 * Susannah Haberfeld, Mezzo
