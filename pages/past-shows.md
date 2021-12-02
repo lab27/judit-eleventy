@@ -7,6 +7,22 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 9./10. April 2022
+
+* Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
+* Anna Gschwend, Sopran
+* Sonja Leutwyler, Mezzosopran 
+
+##### 11. März 2022
+
+* Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
+* Oratorienchor Zürich
+* Leitung, Stephan Fuchs
+* www.oratorienchor-zuerich.ch/konzert
+
+
+
 ##### 15./16./22./23. Januar 2022
 
 * Märchen auf dem Klangteppich „Tomte Tummetott“
@@ -28,8 +44,8 @@ tags:
 
 ##### 20. November 2021
 
-* Liederabend, reformierte Kirche Wädenswil, 19 Uhr
-* https://www.kirche-waedenswil.ch/veranstaltung/29640
+* Liederabend, reformierte Kirche Wädenswil, 19 Uhr 
+* www.kirche-waedenswil.ch/veranstaltung/29640
 * Äneas Humm, Bariton
 
   ##### 30/31. Oktober 2021
@@ -39,8 +55,7 @@ tags:
 
 ##### 1. Oktober 2021
 
-##### Martha von Castelberg Festival, Augustinerkirche Zürich, 18 Uhr
-
+* Martha von Castelberg Ferstival, Augustinerkirche Zürich, 18 Uhr
 * Lieder von M.v. Castelberg und F. Schubert
 * Maya Boog, Sopran
 * Susannah Haberfeld, Mezzo
