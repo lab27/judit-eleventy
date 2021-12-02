@@ -13,6 +13,6 @@ Judit Polgar ist eine vielgefragte Liedbegleiterin, sie war an verschiedenen int
 
 Als Liedbegleiterin bestritt Judit Polgar wichtige internationale Wettbewerbe: ARD München, Hugo Wolf Stuttgart, Schubert und die Moderne Graz (Finale). 2009 erhielt sie den für Liedbegleiter ausgeschriebenen Nico Kaufmann-Preis des Kantons Zürich. 2010 wurde sie am Joseph Suder Liedwettbewerb Nürnberg mit dem Begleiterpreis ausgezeichnet.
 
-Als Korrepetitorin wirkte sie bei diversen Produktionen mit (u.a. "Free Opera Company", "Oper im Knopfloch", "Junges Musiktheater Zürich", "Volksoper Zürich", "Theatergesellschaft Beinwil", "Operettenbühne Hombrechtikon", "Operton", "Akademie für Musik und Theater").
+Als Korrepetitorin wirkte sie bei diversen Produktionen mit (u.a. „Opernhaus Zürich“, "Free Opera Company", "Oper im Knopfloch", "Junges Musiktheater Zürich", "Volksoper Zürich", "Theatergesellschaft Beinwil", "Operettenbühne Hombrechtikon", "Operton", "Akademie für Musik und Theater").
 
 Ihre CD-Einspielungen erschienen bei OehmsClassics (*Songs of a New Era*, Lieder von Arnold Schönberg, Alban Berg, Arthur Honegger, Claude Debussy), VDE-Gallo Records (*Ablösung*, Lieder von Viktor Ullmann, Gustav Mahler, Alban Berg, Richard Strauss), meta records (*Kopf Kino Kantaten* von Tobias von Glenck), Rondeau Production (*Awakening*, Lieder von Hugo Wolf, Alban Berg, Richard Strauss und Viktor Ullmann) und bei Solo Musica (Lieder von Martha Castelberg).
