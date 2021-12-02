@@ -7,7 +7,7 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 9./10. April 2022
+##### 9./10. April 2022 
 
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
@@ -20,8 +20,6 @@ tags:
 * Oratorienchor Zürich
 * Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
-
-
 
 ##### 15./16./22./23. Januar 2022
 
