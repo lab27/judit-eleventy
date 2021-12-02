@@ -7,6 +7,11 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 15./16./22./23. Januar 2022
+
+* Märchen auf dem Klangteppich „Tomte Tummetott“
+* www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
+
 ### 2021 (Auswahl)
 
 ##### 28. Dezember 2021
