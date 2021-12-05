@@ -7,7 +7,7 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 9./10. April 2022 
+##### 9./10. April 2022
 
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
@@ -28,9 +28,9 @@ tags:
 
 ### 2021 (Auswahl)
 
-##### 28. Dezember 2021
+##### 28./29./30. Dezember 2021
 
-* Zauberwald Lenzerheide 
+* Zauberwald Lenzerheide, Classic Corner 
 * Nora Bertogg, Sopran
 * Mkhanyseli Mlombi, Bariton
 
