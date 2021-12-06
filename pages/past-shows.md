@@ -12,7 +12,7 @@ tags:
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr 
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
 * Anna Gschwend, Sopran
-* Sonja Leutwyler, Mezzosopran 
+* Sonja Leutwyler, Mezzosopran   
 
 ##### 11. März 2022
 
