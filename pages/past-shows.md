@@ -7,7 +7,7 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 9./10. April 2022 
+##### 9./10. April 2022
 
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr 
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
@@ -25,6 +25,15 @@ tags:
 
 * Märchen auf dem Klangteppich „Tomte Tummetott“
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
+
+##### 1. Januar 2022
+
+* Liederabend im Sonnengarten, 15 Uhr
+* Melanie Forgeron, Mezzosopran
+* Roger Widmer, Tenor
+* Lieder von F. Schubert, R. Strauss, E. Grieg, M. v. Castelberg
+
+
 
 ### 2021 (Auswahl)
 
