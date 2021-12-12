@@ -14,6 +14,13 @@ tags:
 * Anna Gschwend, Sopran
 * Sonja Leutwyler, Mezzosopran  
 
+##### 13. März 2022
+
+* Frühlingskonzert, Kirche St. Peter Zürich, 17.00 Uhr
+* Oratorienchor Zürich
+* Leitung, Stephan Fuchs
+* www.oratorienchor-zuerich.ch/konzert
+
 ##### 11. März 2022
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
@@ -32,8 +39,6 @@ tags:
 * Melanie Forgeron, Mezzosopran
 * Roger Widmer, Tenor
 * Lieder von F. Schubert, R. Strauss, E. Grieg, M. v. Castelberg
-
-
 
 ### 2021 (Auswahl)
 
