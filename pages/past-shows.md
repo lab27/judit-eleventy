@@ -28,6 +28,12 @@ tags:
 * Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
 
+  ##### 5./6. Februar 2022
+
+  * ImprO-Opera, Die Welt der Rossini-Opern
+  * Opernhaus Zürich, Studiobühne, 15.30 Uhr 
+  * https://www.opernhaus.ch/spielplan/kalendarium/impro-opera/season_50348/
+
 ##### 15./16./22./23. Januar 2022
 
 * Märchen auf dem Klangteppich „Tomte Tummetott“
