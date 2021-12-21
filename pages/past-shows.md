@@ -38,6 +38,7 @@ tags:
 
 * Märchen auf dem Klangteppich „Tomte Tummetott“
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
+* Ulla Westvik, Sopran
 
 ##### 1. Januar 2022
 
@@ -52,7 +53,7 @@ tags:
 
 * Zauberwald Lenzerheide, Classic Corner 
 * Nora Bertogg, Sopran
-* Mkhanyseli Mlombi, Bariton
+* Maja Bader, Sopran
 
 ##### 27. November 2021
 
