@@ -11,7 +11,7 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
-#### 2021
+#### 2022
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
 * C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
