@@ -15,6 +15,7 @@ tags:
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
 * C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
+* 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch 
 
   #### 2021
 * Musikgeschichten 'Die (Opern-)tode meiner Mutter', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
