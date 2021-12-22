@@ -14,7 +14,8 @@ tags:
 #### 2022
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
-* C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See
+* C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See 
+* 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch 
 
   #### 2021
