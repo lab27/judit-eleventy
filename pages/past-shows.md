@@ -71,6 +71,7 @@ tags:
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
 * Mélanie Adami, Sopran
+* Andrea Adamina, Schauspiel
 
 ##### 1. Oktober 2021
 
