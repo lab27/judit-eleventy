@@ -7,6 +7,12 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 26. Juni 2022
+
+* Liederabend im Kulturzentrum La Prairie Bellmund, Concert Excellence, 17 Uhr 
+* Marysol Schalit, Sopran
+* Äneas Humm, Bariton
+
 ##### 9./10. April 2022
 
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr 
@@ -21,18 +27,18 @@ tags:
 * Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
 
-##### 11. März 2022
+##### **11. März 2022**
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
 * Oratorienchor Zürich
-* Leitung, Stephan Fuchs
+* Leitung, Stefan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
 
-  ##### 5./6. Februar 2022
+##### **5./6. März 2022**
 
-  * ImprO-Opera, Die Welt der Rossini-Opern
-  * Opernhaus Zürich, Studiobühne, 15.30 Uhr 
-  * https://www.opernhaus.ch/spielplan/kalendarium/impro-opera/season_50348/
+* ImprO-Opera, Die Welt der Rossini-Opern
+* Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* https://www.opernhaus.ch/spielplan/kalendarium/impro-opera/season_50348/
 
 ##### 15./16./22./23. Januar 2022
 
@@ -67,7 +73,8 @@ tags:
 * www.kirche-waedenswil.ch/veranstaltung/29640
 * Äneas Humm, Bariton
 
-  ##### 30/31. Oktober 2021
+##### 30./31. Oktober 2022
+
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * <https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/>
 * Mélanie Adami, Sopran
@@ -81,10 +88,11 @@ tags:
 * Susannah Haberfeld, Mezzo
 * Remy Burnens, Tenor
 * Äneas Humm, Bariton
-* Graziella Rossi, Rezitation
+* Graziella Rossi, Rezitation 
 
-  ##### 25./26. September 2021
-* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15. 30 Uhr
+##### 25./26. September 2021 
+
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * [https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763](https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/)
 * Mélanie Adami, Sopran
 
