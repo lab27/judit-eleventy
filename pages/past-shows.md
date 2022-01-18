@@ -13,8 +13,13 @@ tags:
 * Marysol Schalit, Sopran
 * Äneas Humm, Bariton
 
-##### 9./10. April 2022
+  ##### 12. Juni 2022
+* Liederabend, SonntagsKonzert, Alter Stadthaussaal Winterthur, 17 Uhr
+* Mélanie Adami, Sopran
+* Lieder von Willy Heinz Müller und Franz Ries
+* www.sonntagskonzert.ch
 
+  **9./10. April 2022**
 * Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr 
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
 * Anna Gschwend, Sopran
@@ -39,6 +44,8 @@ tags:
 * ImprO-Opera, Die Welt der Rossini-Opern
 * Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * https://www.opernhaus.ch/spielplan/kalendarium/impro-opera/season_50348/
+* Christa Fleischmann, Sopran
+* Adrian Brunner, Bariton
 
 ##### 15./16./22./23. Januar 2022
 
@@ -90,7 +97,7 @@ tags:
 * Äneas Humm, Bariton
 * Graziella Rossi, Rezitation 
 
-##### 25./26. September 2021 
+##### 25./26. September 2021
 
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * [https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763](https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/)
