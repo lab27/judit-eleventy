@@ -7,6 +7,16 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 10./11./17./18. Dezember 2022 
+
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* Mélanie Adami, Sopran
+
+##### 30. Oktober 2022 
+
+* Liederabend, Museum Rosenegg Kreuzlingen, 19 Uhr
+* Alexa Vogel, Sopran
+
 ##### 17. September 2022 
 
 * Liederabend im Sonnengarten, 19 Uhr
@@ -32,7 +42,7 @@ tags:
 * Lieder von Willy Heinz Müller und Franz Ries
 * www.sonntagskonzert.ch
 
-##### 7. Mai
+##### 7. Mai 2022
 
 * Egoblues, Trottentheater Neuhausen, 20 Uhr
 * Politisches Kabarett von Bettina Dieterle
