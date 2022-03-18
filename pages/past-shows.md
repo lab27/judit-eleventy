@@ -7,32 +7,51 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 17. September 2022 
+
+* Liederabend im Sonnengarten, 19 Uhr
+* Melanie Forgeron, Mezzosopran
+* Lieder von F. Schubert, R. Strauss, E. Grieg, M. v. Castelberg
+
+##### 16. September 2022 
+
+* Liederabend, Musik- und Kulturraum Zwicky Süd, 19 Uhr
+* Sela Bieri, Sopran
+* Lieder von A. Berg, A. Schönberg
+
 ##### 26. Juni 2022
 
 * Liederabend im Kulturzentrum La Prairie Bellmund, Concert Excellence, 17 Uhr 
 * Marysol Schalit, Sopran
 * Äneas Humm, Bariton
 
-  ##### 12. Juni 2022
+##### 11./12. Juni 2022
+
 * Liederabend, SonntagsKonzert, Alter Stadthaussaal Winterthur, 17 Uhr
 * Mélanie Adami, Sopran
 * Lieder von Willy Heinz Müller und Franz Ries
 * www.sonntagskonzert.ch
 
-  **9./10. April 2022**
-* Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr 
+##### 7. Mai
+
+* Egoblues, Trottentheater Neuhausen, 20 Uhr
+* Politisches Kabarett von Bettina Dieterle
+
+##### 1. Mai 2022
+
+* Frühlingskonzert, Kirche Neumünster, 17 Uhr
+* Tonart Zürich
+* Joachim Schwander, Leitung
+* Sela Bieri, Sopran 
+
+##### **9./10. April 2022**
+
+* Musikgeschichten „Die Werkstatt der Schmetterlinge“, Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-die-werkstatt-der-schmetterlinge/
 * Anna Gschwend, Sopran
 * Sonja Leutwyler, Mezzosopran  
 
-##### 13. März 2022
-
-* Frühlingskonzert, Kirche St. Peter Zürich, 17.00 Uhr
-* Oratorienchor Zürich
-* Leitung, Stephan Fuchs
-* www.oratorienchor-zuerich.ch/konzert
-
-##### **11. März 2022**
+##### **11. März 2022 (Abgesagt)**
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
 * Oratorienchor Zürich
@@ -53,7 +72,7 @@ tags:
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
 * Ulla Westvik, Sopran
 
-##### 1. Januar 2022
+##### 1. Januar 2022 (Abgesagt)
 
 * Liederabend im Sonnengarten, 15 Uhr
 * Melanie Forgeron, Mezzosopran
