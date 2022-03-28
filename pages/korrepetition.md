@@ -19,8 +19,6 @@ tags:
 * 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * F. Lehar: 'Die lustige Witwe', Produktion Operettenbühe Hombrechtikon 
 
-
-
 #### 2021
 
 * Musikgeschichten 'Die (Opern-)tode meiner Mutter', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
