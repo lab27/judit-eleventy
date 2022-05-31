@@ -28,8 +28,9 @@ tags:
 * Liederabend, Musik- und Kulturraum Zwicky Süd, 19 Uhr
 * Sela Bieri, Sopran
 * Lieder von A. Berg, A. Schönberg, R. Wagner 
-*
-* ##### 2. Juli 2022
+
+##### 2. Juli 2022
+
 * Chorkonzert mit dem Psychor, Bäckeranlage Zürich, 17 Uhr
 * Caspar Dechmann, Leitung
 * Haydn Vokal-Quartette
