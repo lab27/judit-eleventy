@@ -7,33 +7,39 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 10./11./17./18. Dezember 2022 
+##### 10./11./17./18. Dezember 2022
 
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * Mélanie Adami, Sopran
 
-##### 30. Oktober 2022 
+##### 30. Oktober 2022
 
 * Liederabend, Museum Rosenegg Kreuzlingen, 19 Uhr
 * Alexa Vogel, Sopran
 
-##### 17. September 2022 
+##### 17. September 2022
 
 * Liederabend im Sonnengarten, 19 Uhr
 * Melanie Forgeron, Mezzosopran
 * Lieder von F. Schubert, R. Strauss, E. Grieg, M. v. Castelberg
 
-##### 16. September 2022 
+##### 16. September 2022
 
 * Liederabend, Musik- und Kulturraum Zwicky Süd, 19 Uhr
 * Sela Bieri, Sopran
-* Lieder von A. Berg, A. Schönberg
+* Lieder von A. Berg, A. Schönberg, R. Wagner 
+*
+* ##### 2. Juli 2022
+* Chorkonzert mit dem Psychor, Bäckeranlage Zürich, 17 Uhr
+* Caspar Dechmann, Leitung
+* Haydn Vokal-Quartette
 
 ##### 26. Juni 2022
 
 * Liederabend im Kulturzentrum La Prairie Bellmund, Concert Excellence, 17 Uhr 
 * Marysol Schalit, Sopran
 * Äneas Humm, Bariton
+* Lieder von Fanny & Felix Mendelssohn, Clara & Robert Schumann, Alma & Gustav Mahler
 
 ##### 11./12. Juni 2022
 
@@ -53,6 +59,7 @@ tags:
 * Tonart Zürich
 * Joachim Schwander, Leitung
 * Sela Bieri, Sopran 
+* Lieder von G. Fauré, R. Hahn, C. Debussy
 
 ##### **9./10. April 2022**
 
