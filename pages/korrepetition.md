@@ -17,7 +17,8 @@ tags:
 * C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See 
 * 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
-* F. Lehar: 'Die lustige Witwe', Produktion Operettenbühe Hombrechtikon 
+* F. Lehar: 'Die lustige Witwe', Produktion Operettenbühne Hombrechtikon 
+* 'Così fan tutte', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
 #### 2021
 
