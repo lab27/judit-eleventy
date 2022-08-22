@@ -12,6 +12,11 @@ tags:
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * Mélanie Adami, Sopran
 
+##### 26./27. November 2022
+
+* K. Weill: "Die Dreigroschenoper", ein soziokulturelles Bühnenprojekt des Musiktheater Seefeld
+* musiktheater-seefeld.ch
+
 ##### 30. Oktober 2022
 
 * Liederabend, Museum Rosenegg Kreuzlingen, 19 Uhr
@@ -21,7 +26,7 @@ tags:
 
 * Liederabend im Sonnengarten, 19 Uhr
 * Melanie Forgeron, Mezzosopran
-* Lieder von F. Schubert, R. Strauss, E. Grieg, M. v. Castelberg
+* Lieder von C. Schumann, R. Schumann, A. Mahler
 
 ##### 16. September 2022
 
