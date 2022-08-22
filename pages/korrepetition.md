@@ -19,6 +19,7 @@ tags:
 * 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * F. Lehar: 'Die lustige Witwe', Produktion Operettenbühne Hombrechtikon 
 * 'Così fan tutte', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+* K. Weill: 'Die Dreigroschenoper', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 
 #### 2021
 
