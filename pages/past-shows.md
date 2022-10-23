@@ -17,10 +17,11 @@ tags:
 * K. Weill: "Die Dreigroschenoper", ein soziokulturelles Bühnenprojekt des Musiktheater Seefeld
 * musiktheater-seefeld.ch
 
-##### 30. Oktober 2022
+##### **22./23./27./28./29. Oktober 2022**
 
-* Liederabend, Museum Rosenegg Kreuzlingen, 19 Uhr
-* Alexa Vogel, Sopran
+* S. Mercadante: „Amleto“, Theater Stok, 20 Uhr
+* Produktion Oper im Knopfloch
+* www.operimknopfloch.ch
 
 ##### 17. September 2022
 
