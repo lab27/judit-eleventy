@@ -7,6 +7,27 @@ bodyClass: agenda
 tags:
   - nav
 ---
+
+
+##### **5. März 2023** 
+
+* Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
+* H. Huber, S. Strohbach, A. Dvorak
+* Oratorienchor Zürich
+* Leitung, Stefan Fuchs
+* www.oratorienchor-zuerich.ch/konzert
+
+##### 14./15. Januar 2023
+
+* Märchen auf dem Klangteppich „Tomte Tummetott“
+* www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
+* Ulla Westvik, Sopran
+* Christoph Betulius, Schauspiel
+
+
+
+### 2022 (Auswahl)
+
 ##### 10./11./17./18. Dezember 2022
 
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
