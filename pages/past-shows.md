@@ -64,7 +64,7 @@ tags:
 * Frühlingskonzert, Kirche St. Peter Zürich, 17 Uhr
 * H. Huber, S. Strohbach, A. Dvorak
 * Oratorienchor Zürich
-* Leitung, Stefan Fuchs
+* Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
 
 ##### 14./15. Januar 2023
@@ -73,8 +73,6 @@ tags:
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
 * Ulla Westvik, Sopran
 * Christoph Betulius, Schauspiel
-
-
 
 ### 2022 (Auswahl)
 
@@ -150,7 +148,7 @@ tags:
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
 * Oratorienchor Zürich
-* Leitung, Stefan Fuchs
+* Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
 
 ##### **5./6. März 2022**
