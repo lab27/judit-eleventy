@@ -7,9 +7,9 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### **30. Juli 2023**
+##### **30. Juni 2023**
 
-* Liederabend, Musikfest Unerhörtes Mitteldeutschland, 19.30
+* Liederabend, Musikfest Unerhörtes Mitteldeutschland, Laurentiuskirche, 19.30 Uhr
 * Bastian Kohl, Bass
 * Lieder von J. Brahms, C. Loewe und H. Wolf
 
