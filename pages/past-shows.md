@@ -9,7 +9,7 @@ tags:
 ---
 ##### **30. Juli 2023**
 
-* Liederabend, Musikfest Unerhörtes Mitteldeutschland
+* Liederabend, Musikfest Unerhörtes Mitteldeutschland, 19.30
 * Bastian Kohl, Bass
 * Lieder von J. Brahms, C. Loewe und H. Wolf
 
