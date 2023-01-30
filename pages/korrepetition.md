@@ -11,6 +11,13 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
+#### 2023
+
+* Pauline Viardot: 'Le dernier sorcier', Produktion Oper im Knopfloch
+* J. Offenbach: 'Orpheus in der Unterwelt', Produktion Operettenbühne Hombrechtikon 
+* H. Purcell: 'Fairy queen', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
+* 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+
 #### 2022
 
 * S. Mercadante: 'Amleto', Produktion Oper im Knopfloch
