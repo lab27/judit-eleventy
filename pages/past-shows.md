@@ -7,6 +7,12 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### **25./26./27./28./29./30. Juli**
+
+* Pauline Viardot: „Le dernier sorcier“, Kultursommer Arosa
+* Produktion Oper im Knopfloch
+* www.operimknopfloch.ch
+
 ##### **30. Juni 2023**
 
 * Liederabend, Musikfest Unerhörtes Mitteldeutschland, Laurentiuskirche, 19.30 Uhr
@@ -48,6 +54,8 @@ tags:
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
 * Ulla Westvik, Sopran
 * Christoph Betulius, Schauspiel
+
+
 
 ### 2022 (Auswahl)
 
