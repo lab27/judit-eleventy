@@ -7,7 +7,26 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### **25./26./27./28./29./30. Juli**
+##### **25./26./27./28./29. September 2023**
+
+* Pauline Viardot: „Le dernier sorcier“, Theater Stok Zürich, 19.30 Uhr
+* Produktion Oper im Knopfloch
+* www.operimknopfloch.ch
+
+##### **10. September 2023**
+
+* Liederabend in Sennwald, ref. Kirche Sennwald SG, 19 Uhr
+* Äneas Humm, Bariton
+* Lieder von F. Liszt, E. Grieg und H. Wolf
+
+##### **9. September 2023**
+
+* Liederabend, Musik- und Kulturraum Zwicky Süd, 19 Uhr
+* Sela Bieri, Sopran
+* Eva Polgar, Klarinette
+* Lieder von A. Berg, A. Schönberg
+
+##### **25./26./27./28./29./30. Juli 2023**
 
 * Pauline Viardot: „Le dernier sorcier“, Kultursommer Arosa
 * Produktion Oper im Knopfloch
