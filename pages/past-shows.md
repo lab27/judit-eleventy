@@ -7,11 +7,16 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### **19. März 2023**
 
+* Liedmatinee, Theater St. Gallen, 11 Uhr
+* Äneas Humm, Bariton
+* Lieder von Clara  und Robert Schumann, F. Liszt, B. Bartók, E. Grieg
+* www.theatersg.ch/de/programm/liedmatinee/2991
 
-##### **5. März 2023** 
+##### **5. März 2023**
 
-* Frühlingskonzert, Kirche St. Peter Zürich, 19.30 Uhr
+* Frühlingskonzert, Kirche St. Peter Zürich, 17 Uhr
 * H. Huber, S. Strohbach, A. Dvorak
 * Oratorienchor Zürich
 * Leitung, Stefan Fuchs
@@ -23,8 +28,6 @@ tags:
 * www.opernhaus.ch/spielplan/kalendarium/maerchen-auf-dem-klangteppich-tomte-tummetott
 * Ulla Westvik, Sopran
 * Christoph Betulius, Schauspiel
-
-
 
 ### 2022 (Auswahl)
 
