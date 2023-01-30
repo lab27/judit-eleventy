@@ -7,6 +7,20 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### **4. Juni 2023**
+
+* Liederabend, SonntagsKonzert, Alter Stadthaussaal Winterthur, 17 Uhr
+* Mélanie Adami, Sopran
+* Dimitri Ashkenazy, Klarinette
+* Lieder von J. Brahms und G. Mahler
+* www.sonntagskonzert.ch
+
+##### **26. März 2023**
+
+* Liederabend, Elgg, 19 Uhr
+* Mélanie Adami, Sopran
+* Lieder von Willy Heinz Müller und Franz Ries
+
 ##### **19. März 2023**
 
 * Liedmatinee, Theater St. Gallen, 11 Uhr
