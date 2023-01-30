@@ -7,6 +7,12 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### **30. Juli 2023**
+
+* Liederabend, Musikfest Unerhörtes Mitteldeutschland
+* Bastian Kohl, Bass
+* Lieder von J. Brahms, C. Loewe und H. Wolf
+
 ##### **4. Juni 2023**
 
 * Liederabend, SonntagsKonzert, Alter Stadthaussaal Winterthur, 17 Uhr
