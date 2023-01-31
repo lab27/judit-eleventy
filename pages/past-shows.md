@@ -62,7 +62,7 @@ tags:
 ##### **5. März 2023**
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 17 Uhr
-* H. Huber, S. Strohbach, A. Dvorak
+* H. Huber, S. Strohbach, A. Dvorak vierhändig mit Satoko Kato
 * Oratorienchor Zürich
 * Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
