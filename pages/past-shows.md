@@ -24,7 +24,7 @@ tags:
 * Liederabend, Musik- und Kulturraum Zwicky Süd, 19 Uhr
 * Sela Bieri, Sopran
 * Eva Polgar, Klarinette
-* Lieder von A. Berg, A. Schönberg
+* Lieder von A. Berg, A. Schönberg, G. Mahler
 
 ##### **25./26./27./28./29./30. Juli 2023**
 
@@ -48,7 +48,7 @@ tags:
 
 ##### **26. März 2023**
 
-* Liederabend, Elgg, 19 Uhr
+* Liederabend, reformierte Kirche Elgg, 19 Uhr
 * Mélanie Adami, Sopran
 * Lieder von Willy Heinz Müller und Franz Ries
 
@@ -56,13 +56,13 @@ tags:
 
 * Liedmatinee, Theater St. Gallen, 11 Uhr
 * Äneas Humm, Bariton
-* Lieder von Clara  und Robert Schumann, F. Liszt, B. Bartók, E. Grieg
+* Lieder von Clara und Robert Schumann, F. Liszt, B. Bartók, E. Grieg
 * www.theatersg.ch/de/programm/liedmatinee/2991
 
 ##### **5. März 2023**
 
 * Frühlingskonzert, Kirche St. Peter Zürich, 17 Uhr
-* H. Huber, S. Strohbach, A. Dvorak vierhändig mit Satoko Kato
+* H. Huber, S. Strohbach, A. Dvorak, R. Schumann, vierhändig mit Satoko Kato
 * Oratorienchor Zürich
 * Leitung, Stephan Fuchs
 * www.oratorienchor-zuerich.ch/konzert
