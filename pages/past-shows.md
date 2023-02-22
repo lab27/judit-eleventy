@@ -7,11 +7,17 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### **25./26./27./28./29. September 2023**
+##### **25./26./27./28./29. Oktober 2023**
 
 * Pauline Viardot: „Le dernier sorcier“, Theater Stok Zürich, 19.30 Uhr
 * Produktion Oper im Knopfloch
 * www.operimknopfloch.ch
+
+##### **5. Oktober 2023**
+
+* Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 20 Uhr
+* Soon-Kee Woo, Bariton
+* Liederkreis op. 39 von R. Schumann
 
 ##### **10. September 2023**
 
