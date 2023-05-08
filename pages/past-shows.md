@@ -38,18 +38,18 @@ tags:
 * Produktion Oper im Knopfloch
 * www.operimknopfloch.ch
 
-##### **30. Juni 2023**
+##### **1. Juli 2023**
 
-* Liederabend, Musikfest Unerhörtes Mitteldeutschland, Laurentiuskirche, 19.30 Uhr
-* Bastian Kohl, Bass
-* Lieder von J. Brahms, C. Loewe und H. Wolf
+* Chorkonzert, Bäckeranlage Zürich, 17 Uhr 
+* Leitung, Caspar Dechmann
+* J. Haydn, H. Huber, A. Dvorak, vierhändig mit Satoko Kato
 
 ##### **4. Juni 2023**
 
-* Liederabend, SonntagsKonzert, Alter Stadthaussaal Winterthur, 17 Uhr
+* Liederabend, SonntagsKonzert, ref. Kirchgemeindesaal, Winterthur, 17 Uhr
 * Mélanie Adami, Sopran
 * Dimitri Ashkenazy, Klarinette
-* Lieder von J. Brahms und G. Mahler
+* Werke von J. Brahms und G. Mahler
 * www.sonntagskonzert.ch
 
 ##### **26. März 2023**
