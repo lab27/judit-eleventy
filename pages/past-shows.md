@@ -38,7 +38,7 @@ tags:
 * Eva Polgar, Klarinette
 * Lieder von A. Berg, A. Schönberg, G. Mahler
 
-##### **25./26./27./28./29./30. Juli 2023**
+##### **27./29./30. Juli 2023**
 
 * Pauline Viardot: „Le dernier sorcier“, Kultursommer Arosa
 * Produktion Oper im Knopfloch
