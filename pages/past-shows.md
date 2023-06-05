@@ -19,6 +19,12 @@ tags:
 * Soon-Kee Woo, Bariton
 * Liederkreis op. 39 von R. Schumann
 
+30. September
+
+* Liederabend, Kluskapelle, 19.30 Uhr
+* Zürcher Vokalquartett
+* Lieder von J. Brahms und R. Schumann, vierhändig mit Annkatrin Isaacs
+
 ##### **10. September 2023**
 
 * Liederabend in Sennwald, ref. Kirche Sennwald SG, 19 Uhr
