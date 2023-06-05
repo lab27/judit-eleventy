@@ -44,14 +44,6 @@ tags:
 * Leitung, Caspar Dechmann
 * J. Haydn, H. Huber, A. Dvorak, vierhändig mit Satoko Kato
 
-##### **4. Juni 2023**
-
-* Liederabend, SonntagsKonzert, ref. Kirchgemeindesaal, Winterthur, 17 Uhr
-* Mélanie Adami, Sopran
-* Dimitri Ashkenazy, Klarinette
-* Werke von J. Brahms und G. Mahler
-* www.sonntagskonzert.ch
-
 ##### **26. März 2023**
 
 * Liederabend, reformierte Kirche Elgg, 19 Uhr
