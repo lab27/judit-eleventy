@@ -19,7 +19,7 @@ tags:
 * Soon-Kee Woo, Bariton
 * Liederkreis op. 39 von R. Schumann
 
-30. September
+**30. September 2023**
 
 * Liederabend, Kluskapelle, 19.30 Uhr
 * Zürcher Vokalquartett
