@@ -15,7 +15,7 @@ tags:
 
 ##### **5. Oktober 2023**
 
-* Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 20 Uhr
+* Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 19.30 Uhr
 * Soon-Kee Woo, Bariton
 * Liederkreis op. 39 von R. Schumann
 
