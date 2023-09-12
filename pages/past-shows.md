@@ -7,6 +7,23 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### **21./22./23. Dezember 2023**
+
+* Winterfestival Zauberwald Lenzerheide
+* Nora Bertogg, Sopran
+
+##### **18./19. November 2023**
+
+* “Ein Sommernachtstraum“, GZ Riesbach
+* Produktion Musiktheater Seefeld
+* www.musiktheater-seefeld.ch
+
+##### **4./5. November 2023**
+
+* Familienworkshop „Jim Knopf und Lukas der Lokomotivführer“ 
+* Produktion Opernhaus Zürich 
+* www.opernhaus.ch/spielplan/kalendarium/familienworkshop-jim-knopf-und-lukas-der-lokomotivfuehrer/2023-2024
+
 ##### **25./26./27./28./29. Oktober 2023**
 
 * Pauline Viardot: „Le dernier sorcier“, Theater Stok Zürich, 19.30 Uhr
@@ -17,6 +34,7 @@ tags:
 
 * Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 19.30 Uhr
 * Soon-Kee Woo, Bariton
+* Dorothee Roth, Rezitation
 * Liederkreis op. 39 von R. Schumann
 
 **30. September 2023**
