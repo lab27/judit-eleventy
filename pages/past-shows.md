@@ -43,6 +43,11 @@ tags:
 * Zürcher Vokalquartett
 * Lieder von J. Brahms und R. Schumann, vierhändig mit Annkatrin Isaacs
 
+##### **15. September 2023**
+
+* Eröffnungsfest Opernhaus Zürich, „Auf in die Drachenhöhle!“, Workshop ab 10.30 Uhr 
+* https://www.opernhaus.ch/spielplan/kalendarium-eroeffnungsfest/
+
 ##### **10. September 2023**
 
 * Liederabend in Sennwald, ref. Kirche Sennwald SG, 19 Uhr
