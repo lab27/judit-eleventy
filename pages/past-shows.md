@@ -14,7 +14,8 @@ tags:
 
 ##### **18./19. November 2023**
 
-* “Ein Sommernachtstraum“, GZ Riesbach
+* “Ein Sommernachtstraum“ frei nach W. Shakespeare, GZ Riesbach, 17 Uhr
+* Mit Musik von H. Purcell, C. Porter, J. Farrar, I. Berlin, S. Sondheim, R. Rogers 
 * Produktion Musiktheater Seefeld
 * www.musiktheater-seefeld.ch
 
