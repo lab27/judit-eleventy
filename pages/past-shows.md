@@ -34,7 +34,7 @@ tags:
 ##### **5. Oktober 2023**
 
 * Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 19.30 Uhr
-* Soon-Kee Woo, Bariton
+* Leila Pfister, Mezzosopran
 * Dorothee Roth, Rezitation
 * Liederkreis op. 39 von R. Schumann
 
@@ -53,7 +53,7 @@ tags:
 
 * Liederabend in Sennwald, ref. Kirche Sennwald SG, 19 Uhr
 * Äneas Humm, Bariton
-* Lieder von F. Liszt, E. Grieg und H. Wolf
+* Lieder von R. und C. Schumann, F. Liszt, E. Grieg
 
 ##### **9. September 2023**
 
