@@ -33,14 +33,14 @@ tags:
 
 ##### **5. Oktober 2023**
 
-* Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 19.30 Uhr
+* „Schläft ein Lied in allen Dingen“, Liederabend mit Lesung, reformiertes Kirchgemeindehaus Kilchberg, 19.30 Uhr
 * Leila Pfister, Mezzosopran
 * Dorothee Roth, Rezitation
 * Liederkreis op. 39 von R. Schumann
 
 ##### **30. September 2023**
 
-* Liederabend, Kluskapelle, 19.30 Uhr
+* Liederabend, Kluskapelle, 19.00 Uhr
 * Zürcher Vokalquartett
 * Lieder von J. Brahms und R. Schumann, vierhändig mit Annkatrin Isaacs
 
