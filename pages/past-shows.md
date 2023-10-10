@@ -49,6 +49,7 @@ tags:
 ##### **15. September 2023**
 
 * Eröffnungsfest Opernhaus Zürich, „Auf in die Drachenhöhle!“, Workshop ab 10.30 Uhr 
+* Anna Gitschtaler, Sopran, Chasper-Curò Mani, Bariton
 * https://www.opernhaus.ch/spielplan/kalendarium-eroeffnungsfest/
 
 ##### **10. September 2023**
