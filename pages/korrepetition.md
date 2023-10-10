@@ -71,4 +71,4 @@ tags:
 
 ### Korrepetition von Chören:
 
-* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Kinderchor Kilchberg
+* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Gewobag Konzertchor
