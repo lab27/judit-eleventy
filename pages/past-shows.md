@@ -12,7 +12,7 @@ tags:
 ##### **21./22./23. Dezember 2023**
 
 * Winterfestival Zauberwald Lenzerheide
-* Nora Bertogg, Sopran
+* Nora Bertogg, Sopran, Mkhanyiseli Mlombi, Bariton
 
 ##### **18./19. November 2023**
 
