@@ -15,7 +15,7 @@ tags:
 
 * Pauline Viardot: 'Le dernier sorcier', Produktion Oper im Knopfloch
 * J. Offenbach: 'Orpheus in der Unterwelt', Produktion Operettenbühne Hombrechtikon 
-* E. Kálmán: 'Herzogin von Chicago', Stadttheater Sursee
+* E. Kálmán: 'Die Herzogin von Chicago', Stadttheater Sursee
 * H. Purcell: 'Fairy queen', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 * 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
