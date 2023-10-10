@@ -15,6 +15,7 @@ tags:
 
 * Pauline Viardot: 'Le dernier sorcier', Produktion Oper im Knopfloch
 * J. Offenbach: 'Orpheus in der Unterwelt', Produktion Operettenbühne Hombrechtikon 
+* E. Kálmán: 'Herzogin von Chicago', Stadttheater Sursee
 * H. Purcell: 'Fairy queen', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 * 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 
@@ -24,8 +25,8 @@ tags:
 * C. Millöcker: 'Der Bettelstudent', Produktion Theatergesellschaft Beinwil am See 
 * 'Tomte Tummetott', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * 'Die Werkstatt der Schmetterlinge', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
-* F. Lehar: 'Die lustige Witwe', Produktion Operettenbühne Hombrechtikon 
-* 'Così fan tutte', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
+* F. Lehár: 'Die lustige Witwe', Produktion Operettenbühne Hombrechtikon 
+* W. A. Mozart: 'Così fan tutte', Produktion Opernhaus Zürich, www.kulturvermittlung-zh.ch
 * K. Weill: 'Die Dreigroschenoper', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 
 #### 2021
