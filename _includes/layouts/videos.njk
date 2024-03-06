@@ -11,10 +11,9 @@ layout: layouts/base.njk
     <div class="video-gallery">
         {% set videolist = collections.videos | reverse %}
         {% for vid in videolist %}
-        <!-- <div class="vidteast"> -->
-            <!-- Copy & Pasted from YouTube -->
-            <iframe src="https://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-          <!-- </div> -->
+        <div class="fitVids-wrapper">
+          <iframe src="https://www.youtube.com/embed/{{vid.data.id}}?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+        </div>
         {%endfor%}
     </div> 
     
