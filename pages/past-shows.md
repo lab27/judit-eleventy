@@ -7,12 +7,70 @@ bodyClass: agenda
 tags:
   - nav
 ---
+### **2024 (Auswahl)**
+
+##### 23./24 November 2024
+
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* Mélanie Adami, Sopran
+
+##### **17. November 2024**
+
+* "Englische Romantik", Ars Cantata, Predigerkirche Zürich, 17 Uhr
+* Philipp Mestrinel, Leitung
+* Werke von E. Elgar, C. V. Stanford, R. V. Williams, R. L. Pearsall
+
+##### **9. November 2024**
+
+* "Englische Romantik", Ars Cantata, reformierte Kirche Enge, 19.15 Uhr
+* Philipp Mestrinel, Leitung
+* Werke von E. Elgar, C. V. Stanford, R. V. Williams, R. L. Pearsall
+
+##### **27. Oktober 2024**
+
+* Vergessene Lieder, vergessene Lieb', Kammermusiksaal Kultur Kulinarik Vietznau
+* Mélanie Adami, Sopran; Äneas Humm, Bariton
+
+##### **8. September 2024**
+
+* "Freundschaft und Liebe", Konzertsaal Liebestrasse Winterthur, 17 Uhr
+* Mélanie Adami, Sopran; Silke Gäng, Alt; Luca Bernard, Tenor; Ruben Drole, Bass
+* Lieder von J. Brahms und H. Hubert, vierhändig mit Annkatrin Isaacs
+
+##### **16. August 2024**
+
+* Kulturpreisfeier der Stadt Chur, Theater Chur, 17.30
+* Nora Bertogg, Sopran
+
+##### **4. August 2024**
+
+* "Wald-Küre", Kurkonzerte St. Moritz, 17 Uhr 
+* Yvonne Naef, Sopran; Raimund Wiederkehr, Tenor; Michael Raschle, Bariton
+
+##### **14. Juni 2024**
+
+* "Vergessene Lieder, vergessene Lieb'", Kultbau St. Gallen, 19 Uhr 
+* Mélanie Adami, Sopran
+* Lieder von W. H. Müller, E. von Dohnányi, F. Ries, F. Lehár, F. Tischhauser, G. Mahler
+
+##### **13. Juni 2024**
+
+* "Vergessene Lieder, vergessene Lieb'", Alter Stadthaussaal Winterthur, 19 Uhr 
+* Mélanie Adami, Sopran
+* Lieder von W. H. Müller, E. von Dohnányi, , F. Ries, F. Lehár, F. Tischhauser, G. Mahler
+
+##### **2. Juni 2024**
+
+* "Lieblingsliederabend", Konzertsaal Liebestrasse Winterthur, 17 Uhr 
+* Benjamin Berweger, Tenor; Mélanie Adami, Sopran
+* Lieder von F: Schubert, F. Mendelssohn, J. Brahms, R. Schumann, R. Strauss, H. Wolf, O. Schoeck, L. Bernstein, F. Poulenc, C. Ives
+
 ### **2023 (Auswahl)**
 
 ##### **21./22./23. Dezember 2023**
 
 * Winterfestival Zauberwald Lenzerheide, Classic Corner
-* Nora Bertogg, Sopran, Mkhanyiseli Mlombi, Bariton
+* Nora Bertogg, Sopran, Sophia Seemann, Sopran
 
 ##### **18./19. November 2023**
 
