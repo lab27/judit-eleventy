@@ -11,6 +11,11 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
+#### 2024
+
+* L. Bernstein: 'West Side Story', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
+* F. Lehár: 'Die lustige Witwe', Produktion Zürcher Singstudenten
+
 #### 2023
 
 * Pauline Viardot: 'Le dernier sorcier', Produktion Oper im Knopfloch
