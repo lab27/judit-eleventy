@@ -28,7 +28,7 @@ tags:
 
 ##### **27. Oktober 2024**
 
-* Vergessene Lieder, vergessene Lieb', Kammermusiksaal Kultur Kulinarik Vietznau
+* "Vergessene Lieder, vergessene Lieb'", Kammermusiksaal Kultur Kulinarik Vietznau, 19 Uhr
 * Mélanie Adami, Sopran; Äneas Humm, Bariton
 
 ##### **8. September 2024**
