@@ -9,10 +9,15 @@ tags:
 ---
 ### **2024 (Auswahl)**
 
-##### 23./24 November 2024
+##### 24. November 2024
 
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * Mélanie Adami, Sopran
+
+##### **23. November 2024**
+
+* "Wenn die Nachtigall stirbt", Produktion Musiktheater Seefeld, 19.30 Uhr
+* L. Bernstein: West Side Story
 
 ##### **17. November 2024**
 
@@ -70,7 +75,7 @@ tags:
 ##### **21./22./23. Dezember 2023**
 
 * Winterfestival Zauberwald Lenzerheide, Classic Corner
-* Nora Bertogg, Sopran, Sophia Seemann, Sopran
+* Nora Bertogg, Sopran; Sophia Seemann, Sopran
 
 ##### **18./19. November 2023**
 
