@@ -13,6 +13,8 @@ tags:
 >
 > Die am Piano überaus feinfühlig agierende Judit Polgar ist gleichsam die Seele des löblichen Unternehmens**.** *www.klassik-heute.de, Juni 2024*
 >
+> Das Duo erschuf hier mit seiner grossen klanglichen Vielfalt in den Piano- und Pianissimo-Nuancen, welche sowohl die Pianistin an ihrem Instrument als auch Humm mit seiner enorm flexiblen Stimme zum Ausdruck brachten, eine tief berührende Atmosphäre, welche das Publikum atemlos und totenstill auch noch über das Ende des Liedes gebannt lauschen liess. *www.wundo.ch, September 2023*
+>
 > In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert**.** *[ Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
 >
 > Ebben természetesen szerepe volt a nagyszerű zongorakísérőnek is, mivel Polgar Judit egyenrangú partnerként vett részt a dalok interpretálásában. \[Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.]
