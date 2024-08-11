@@ -44,7 +44,7 @@ tags:
 
 ##### **16. August 2024**
 
-* Kulturpreisfeier der Stadt Chur, Theater Chur, 17.30
+* Kulturpreisfeier der Stadt Chur, Theater Chur, 17.30 Uhr
 * Nora Bertogg, Sopran
 
 ##### **4. August 2024**
