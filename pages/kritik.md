@@ -9,9 +9,11 @@ bodyClass: presse
 tags:
   - nav
 ---
-> Die Pianistin Judit Polgar zeichnet damit so griffig wie sensibel Emotion, Atmosphäre und Ausdrucksnuancen**.** *www.roccosound.ch, Juni 2024*
+
+
+> Die am Piano überaus feinfühlig agierende Judit Polgar ist gleichsam die Seele des löblichen Unternehmens. *www.klassik-heute.de, Juni 2024*
 >
-> Die am Piano überaus feinfühlig agierende Judit Polgar ist gleichsam die Seele des löblichen Unternehmens**.** *www.klassik-heute.de, Juni 2024*
+> Judit Polgar am Klavier erweist sich als sensible und hellwache Begleiterin, die den Sängern den perfekten Klangteppich für ihre emotionalen Exkursionen bereitet. Ihr Spiel ist nicht nur bloße Begleitung, sondern ein integraler Bestandteil des musikalischen Dialogs \[...]. *www.orchestergraben.com, August 2024* 
 >
 > Das Duo erschuf hier mit seiner grossen klanglichen Vielfalt in den Piano- und Pianissimo-Nuancen, welche sowohl die Pianistin an ihrem Instrument als auch Humm mit seiner enorm flexiblen Stimme zum Ausdruck brachten, eine tief berührende Atmosphäre, welche das Publikum atemlos und totenstill auch noch über das Ende des Liedes gebannt lauschen liess. *www.wundo.ch, September 2023*
 >
