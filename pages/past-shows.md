@@ -12,7 +12,9 @@ tags:
 ##### 24. November 2024
 
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/
 * Mélanie Adami, Sopran
+* Roger Lämmli, Konzept, Musikauswahl, Umsetzung, Bühne 
 
 ##### **23. November 2024**
 
