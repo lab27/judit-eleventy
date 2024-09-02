@@ -14,7 +14,8 @@ tags:
 * Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
 * https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/
 * Mélanie Adami, Sopran
-* Roger Lämmli, Konzept, Musikauswahl, Umsetzung, Bühne 
+* Andrea Adamina, Schauspiel
+* Roger Lämmli, Konzept
 
 ##### **23. November 2024**
 
@@ -42,7 +43,7 @@ tags:
 
 * "Freundschaft und Liebe", Konzertsaal Liebestrasse Winterthur, 17 Uhr
 * Mélanie Adami, Sopran; Silke Gäng, Alt; Luca Bernard, Tenor; Ruben Drole, Bass
-* Lieder von J. Brahms und H. Hubert, vierhändig mit Annkatrin Isaacs
+* Lieder von J. Brahms und H. Huber, vierhändig mit Annkatrin Isaacs
 
 ##### **16. August 2024**
 
