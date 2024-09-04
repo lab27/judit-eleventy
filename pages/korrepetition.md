@@ -15,6 +15,7 @@ tags:
 
 * L. Bernstein: 'West Side Story', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 * F. Lehár: 'Die lustige Witwe', Produktion Zürcher Singstudenten
+* Musikgeschichten 'Die (Opern-)tode meiner Mutter', Produktion Opernhaus Zürich
 
 #### 2023
 
