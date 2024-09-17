@@ -36,8 +36,9 @@ tags:
 
 ##### **27. Oktober 2024**
 
-* "Vergessene Lieder, vergessene Lieb'", Kammermusiksaal Kultur Kulinarik Vietznau, 19 Uhr
-* Mélanie Adami, Sopran; Äneas Humm, Bariton
+* "Vergessene Lieder, vergessene Lieb'",  opus278 St.Gallen, 18.30 Uhr
+* Mélanie Adami, Sopran
+* Lieder von W. H. Müller, E. von Dohnányi, F. Ries, F. Lehár, F. Tischhauser, G. Mahler
 
 ##### **8. September 2024**
 
