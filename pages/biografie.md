@@ -11,7 +11,7 @@ Judit Polgar, geboren in Budapest, studierte Klavier an der Musikhochschule Zür
 
 Judit Polgar ist eine vielgefragte Liedbegleiterin, sie war an verschiedenen internationalen Festivals und Opernhäusern zu hören. Seit 2014 ist sie Dozentin für Korrepetition mit Schwerpunkt Gesang an der Kalaidos Musikhochschule Zürich.
 
-Als Liedbegleiterin bestritt Judit Polgar wichtige internationale Wettbewerbe: ARD München, Hugo Wolf Stuttgart, Schubert und die Moderne Graz (Finale). 2009 erhielt sie den für Liedbegleiter ausgeschriebenen Nico Kaufmann-Preis des Kantons Zürich. 2010 wurde sie am Joseph Suder Liedwettbewerb Nürnberg mit dem Begleiterpreis ausgezeichnet.
+Als Liedbegleiterin bestritt Judit Polgar wichtige internationale Wettbewerbe: ARD München, Hugo Wolf Stuttgart, Schubert und die Moderne Graz (Finale). 2009 erhielt sie den für Liedbegleiter ausgeschriebenen Nico Kaufmann-Preis der Stadt Zürich. 2010 wurde sie am Joseph Suder Liedwettbewerb Nürnberg mit dem Begleiterpreis ausgezeichnet.
 
 Als Korrepetitorin wirkte sie bei diversen Produktionen mit (u.a. „Opernhaus Zürich“, "Free Opera Company", "Oper im Knopfloch", "Junges Musiktheater Zürich", "Volksoper Zürich", "Theatergesellschaft Beinwil", "Operettenbühne Hombrechtikon", "Operton", "Akademie für Musik und Theater").
 
