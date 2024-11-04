@@ -24,7 +24,7 @@ tags:
 
 ##### **17. November 2024**
 
-* "Englische Romantik", Ars Cantata, Predigerkirche Zürich, 17 Uhr
+* "The lake lay blue", Chorwerke der englischen Romantik, Ars Cantata, Predigerkirche Zürich, 17 Uhr
 * Philipp Mestrinel, Leitung
 * Werke von E. Elgar, C. V. Stanford, R. V. Williams, R. L. Pearsall
 
