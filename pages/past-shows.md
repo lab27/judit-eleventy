@@ -7,6 +7,12 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 16. Januar 2025
+
+* "Abel steh auf!" Geschichten und Lieder über Krieg und Frieden, Theater Stok Zürich, 20 Uhr
+* Bettina Dieterle, Konzept, Schauspiel, Regie
+* Jardena Flückiger, Sopran
+
 ### **2024 (Auswahl)**
 
 ##### 24. November 2024
@@ -36,7 +42,7 @@ tags:
 
 ##### **27. Oktober 2024**
 
-* "Vergessene Lieder, vergessene Lieb'",  opus278 St.Gallen, 18.30 Uhr
+* "Vergessene Lieder, vergessene Lieb'",  opus278 St. Gallen, 18.30 Uhr
 * Mélanie Adami, Sopran
 * Lieder von W. H. Müller, E. von Dohnányi, F. Ries, F. Lehár, F. Tischhauser, G. Mahler
 
