@@ -30,7 +30,7 @@ tags:
 
 ##### **9. November 2024**
 
-* "Englische Romantik", Ars Cantata, reformierte Kirche Enge, 19.15 Uhr
+* "The lake lay blue", Chorwerke der englischen Romantik, reformierte Kirche Enge, 19.15 Uhr
 * Philipp Mestrinel, Leitung
 * Werke von E. Elgar, C. V. Stanford, R. V. Williams, R. L. Pearsall
 
