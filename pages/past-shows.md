@@ -7,7 +7,7 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 19. Januar 2025
+##### 19. Januar 2025  
 
 * "Abel steh auf!" Geschichten und Lieder über Krieg und Frieden, Theater Stok Zürich, 18 Uhr 
 * Bettina Dieterle, Konzept, Regie, Schauspiel
