@@ -19,6 +19,6 @@ bodyClass: presse
 > <div class="fitVids-wrapper"><iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:e12f2900-1b2e-4d60-8c07-32ffc42081d5&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 </div>
 
-> **[Aus dem Dunkel ins Rampenlicht](http://www.nzz.ch/nachrichten/kultur/zuercher_kultur/aus_dem_dunkel_ins_rampenlicht_1.5216182.html)**
+> **[Aus dem Dunkel ins Rampenlicht](https://www.nzz.ch/aus_dem_dunkel_ins_rampenlicht-ld.883847)**
 > 
 > *Neue Zürcher Zeitung, 15. März 2010*
