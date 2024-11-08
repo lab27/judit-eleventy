@@ -21,6 +21,8 @@ tags:
 * Jardena Flückiger, Sopran
 * Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von Franz Schubert, Robert Schumann, Gustav Mahler, Hugo Wolf, Hanns Eisler, Benjamin Britten, Maurice Ravel, Alban Berg
 
+
+
 ### **2024 (Auswahl)**
 
 ##### 24. November 2024
