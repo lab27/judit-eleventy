@@ -12,14 +12,14 @@ tags:
 * "Abel steh auf!" Geschichten und Lieder über den Krieg, Theater Stok Zürich, 18 Uhr 
 * Bettina Dieterle, Konzept, Regie, Schauspiel
 * Jardena Flückiger, Sopran
-* Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von Franz Schubert, Robert Schumann, Gustav Mahler, Hugo Wolf, Hanns Eisler, Benjamin Britten, Maurice Ravel, Alban Berg
+* Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von F. Schubert, R. Schumann, G. Mahler, H. Wolf, H. Eisler, B. Britten, M. Ravel, A. Berg, O. Schoeck
 
 ##### **16./17./18. Januar 2025**
 
 * "Abel steh auf!" Geschichten und Lieder über den Krieg, Theater Stok Zürich, 20 Uhr
 * Bettina Dieterle, Konzept, Regie, Schauspiel
 * Jardena Flückiger, Sopran
-* Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von Franz Schubert, Robert Schumann, Gustav Mahler, Hugo Wolf, Hanns Eisler, Benjamin Britten, Maurice Ravel, Alban Berg
+* Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von F. Schubert, R. Schumann, G. Mahler, H. Wolf, H. Eisler, B. Britten, M. Ravel, A. Berg, O. Schoeck
 
 
 
