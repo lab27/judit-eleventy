@@ -10,18 +10,16 @@ tags:
 ##### 19. Januar 2025
 
 * "Abel steh auf!" Geschichten und Lieder über den Krieg, Theater Stok Zürich, 18 Uhr 
-* Bettina Dieterle, Konzept, Regie, Schauspiel
+* Bettina Dieterle, Konzept, Schauspiel
 * Jardena Flückiger, Sopran
 * Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von F. Schubert, R. Schumann, G. Mahler, H. Wolf, H. Eisler, B. Britten, M. Ravel, A. Berg, O. Schoeck
 
 ##### **16./17./18. Januar 2025**
 
 * "Abel steh auf!" Geschichten und Lieder über den Krieg, Theater Stok Zürich, 20 Uhr
-* Bettina Dieterle, Konzept, Regie, Schauspiel
+* Bettina Dieterle, Konzept, Schauspiel
 * Jardena Flückiger, Sopran
 * Texte von Bertha von Suttner, Carolin Emcke, Erich Kästner, Bertold Brecht, Hilde Domin; Musik von F. Schubert, R. Schumann, G. Mahler, H. Wolf, H. Eisler, B. Britten, M. Ravel, A. Berg, O. Schoeck
-
-
 
 ### **2024 (Auswahl)**
 
@@ -36,7 +34,8 @@ tags:
 ##### **23. November 2024**
 
 * "Wenn die Nachtigall stirbt", Produktion Musiktheater Seefeld, 19.30 Uhr
-* L. Bernstein: West Side Story
+* Ein tragisches Gesangsspiel über verbotene Liebe 
+* Musik aus ‚West Side Story‘ von L. Bernstein
 
 ##### **17. November 2024**
 
