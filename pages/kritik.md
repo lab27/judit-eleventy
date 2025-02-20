@@ -1,21 +1,17 @@
 ---
 section: kritik
 layout: layouts/presse.njk
-title: Presse
 date: 2019-05-04
 permalink: /kritik/index.html
 navtitle: Presse
 bodyClass: presse
+title: Presse
 tags:
   - nav
 ---
-
-
 > Die am Piano überaus feinfühlig agierende Judit Polgar ist gleichsam die Seele des löblichen Unternehmens. *www.klassik-heute.de, Juni 2024*
 >
-> Judit Polgar am Klavier erweist sich als sensible und hellwache Begleiterin, die den Sängern den perfekten Klangteppich für ihre emotionalen Exkursionen bereitet. Ihr Spiel ist nicht nur bloße Begleitung, sondern ein integraler Bestandteil des musikalischen Dialogs \[...]. *www.orchestergraben.com, August 2024* 
->
-> Das Duo erschuf hier mit seiner grossen klanglichen Vielfalt in den Piano- und Pianissimo-Nuancen, welche sowohl die Pianistin an ihrem Instrument als auch Humm mit seiner enorm flexiblen Stimme zum Ausdruck brachten, eine tief berührende Atmosphäre, welche das Publikum atemlos und totenstill auch noch über das Ende des Liedes gebannt lauschen liess. *www.wundo.ch, September 2023*
+> Judit Polgar am Klavier erweist sich als sensible und hellwache Begleiterin, die den Sängern den perfekten Klangteppich für ihre emotionalen Exkursionen bereitet. Ihr Spiel ist nicht nur bloße Begleitung, sondern ein integraler Bestandteil des musikalischen Dialogs \[...]. *www.orchestergraben.com, August 2024*
 >
 > In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert**.** *[ Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
 >
