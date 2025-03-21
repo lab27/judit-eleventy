@@ -7,6 +7,36 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 26./27./28./29. Juni
+
+* Musik-Kurswochen Arosa mit Valérie Arias
+* Schubertiade in Arosa - Kunstlied von Franz Schubert
+* https://musikkurswochen.ch/de/kurse/schubertiade-in-arosa-kunstlied-von-franz-schubert
+
+##### 21. Juni 2025
+
+* Konzert im C. F. Meyer-Haus Kilchberg, 17 Uhr
+* Lara Salamon, Flöte
+
+##### 13. Mai 2025
+
+* Liederabend im Lyceum-Club St. Gallen, 15 Uhr
+* Mélanie Adami, Sopran
+
+
+
+##### 26./27. Aprilb2025
+
+* Projekt mit KlangLab Ensemble und Patrick Frank, Projektraum M54 Basel, 20 Uhr
+* https://klanglab-ensemble.ch
+
+
+
+##### 15./16./17. März 2025
+
+* "Wandel und Erneuerung" Liedfestival Zürich
+* www.liedrezital.ch
+
 ##### 19. Januar 2025
 
 * "Abel steh auf!" Geschichten und Lieder über den Krieg, Theater Stok Zürich, 18 Uhr 
