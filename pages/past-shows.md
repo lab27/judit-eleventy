@@ -25,7 +25,7 @@ tags:
 
 
 
-##### 26./27. Aprilb2025
+##### 26./27. April 2025
 
 * Projekt mit KlangLab Ensemble und Patrick Frank, Projektraum M54 Basel, 20 Uhr
 * https://klanglab-ensemble.ch
@@ -36,6 +36,7 @@ tags:
 
 * "Wandel und Erneuerung" Liedfestival Zürich
 * www.liedrezital.ch
+* Mit 
 
 ##### 19. Januar 2025
 
