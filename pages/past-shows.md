@@ -32,10 +32,9 @@ tags:
 
 ##### 15./16./17. März 2025
 
-* "Wandel und Erneuerung" Liedfestival Zürich
+* "Wandel und Erneuerung I" Liedfestival Zürich
 * www.liedrezital.ch
-
-
+*  Judit Polgar, Festivalleitung
 
 ##### 19. Januar 2025
 
