@@ -15,7 +15,7 @@ tags:
 
 ##### 21. Juni 2025
 
-* Konzert im C. F. Meyer-Haus Kilchberg, 17 Uhr
+* Kammermusik im C. F. Meyer-Haus Kilchberg, Kulturkafi, 17 Uhr
 * Lara Salamon, Flöte
 
 ##### 13. Mai 2025
@@ -27,8 +27,6 @@ tags:
 
 * Projekt mit KlangLab Ensemble und Patrick Frank, Projektraum M54 Basel, 20 Uhr
 * https://klanglab-ensemble.ch
-
-
 
 ##### 15./16./17. März 2025
 
