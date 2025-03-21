@@ -23,8 +23,6 @@ tags:
 * Liederabend im Lyceum-Club St. Gallen, 15 Uhr
 * Mélanie Adami, Sopran
 
-
-
 ##### 26./27. April 2025
 
 * Projekt mit KlangLab Ensemble und Patrick Frank, Projektraum M54 Basel, 20 Uhr
@@ -36,7 +34,8 @@ tags:
 
 * "Wandel und Erneuerung" Liedfestival Zürich
 * www.liedrezital.ch
-* Mit 
+
+
 
 ##### 19. Januar 2025
 
