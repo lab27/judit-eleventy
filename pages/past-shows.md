@@ -13,7 +13,7 @@ tags:
 
 * Konzert zur Sonnenwende, Musik und Poesie im C. F. Meyer-Haus Kilchberg, 15 Uhr
 * Lara Salamon, Querflöte
-* Regine Käge, Sprecherin
+* Regine Kägi, Sprecherin
 
 ##### 13. Mai 2025
 
