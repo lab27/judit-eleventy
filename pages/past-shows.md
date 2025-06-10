@@ -7,7 +7,11 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 20./21./22. September 2025
 
+* "Wandel und Erneuerung II" Liedfestival Zürich
+* www.liedrezital.ch
+* Judit Polgar, Festivalleitung
 
 ##### 21. Juni 2025
 
