@@ -7,16 +7,13 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 26./27./28./29. Juni
 
-* Musik-Kurswochen Arosa mit Valérie Arias
-* Schubertiade in Arosa - Kunstlied von Franz Schubert
-* https://musikkurswochen.ch/de/kurse/schubertiade-in-arosa-kunstlied-von-franz-schubert
 
 ##### 21. Juni 2025
 
-* Kammermusik im C. F. Meyer-Haus Kilchberg, Kulturkafi, 17 Uhr
+* Konzert zur Sonnenwende, Musik und Poesie im C. F. Meyer-Haus Kilchberg, 15 Uhr
 * Lara Salamon, Flöte
+* Regine Käge, Sprecherin
 
 ##### 13. Mai 2025
 
@@ -32,7 +29,7 @@ tags:
 
 * "Wandel und Erneuerung I" Liedfestival Zürich
 * www.liedrezital.ch
-*  Judit Polgar, Festivalleitung
+* Judit Polgar, Festivalleitung
 * Mit Julian Prégardien, Anna Gebhardt, Siena Licht Miller, Simone Keller, Remy Burnens, Clémence Hirt, Malte Scholz, Rita Bänziger, Ilse Berner, Detlev Müller-Siemens, Anna Kardos, Katalin Müller-Siemens, Prof. Sylvia Sasse, Prof. Fabian Goppelsröder, Jürg Halter, Patrick Frank
 
 ##### 19. Januar 2025
