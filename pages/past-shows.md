@@ -7,6 +7,34 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 29./30. November
+
+* "Die Odyssee", Produktion Musiktheater Seefeld, 19.30 Uhr
+* Ein stürmisches Gesangsspiel inspiriert von Homers Odyssee 
+
+##### 8./9. November 2025
+
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/2025-2026/
+* Mélanie Adami, Sopran
+* Andrea Adamina, Schauspiel
+* Roger Lämmli, Konzept
+
+##### 2. November 2025
+
+* Schubertiade im Hotel Hammer
+* https://www.hotel-hammer.ch/de/kultur/kulturagenda.html
+* Klavierduo mit Satoko Kato
+* Werke von Franz Schubert, A. Dvorak und Gy. Kurtág
+
+##### 27./28. September 2025
+
+* Musikgeschichten "(Die Opern-)Tode meiner Mutter", Opernhaus Zürich, Studiobühne, 15.30 Uhr
+* https://www.opernhaus.ch/spielplan/kalendarium/musikgeschichten-763/2025-2026/
+* Mélanie Adami, Sopran
+* Andrea Adamina, Schauspiel
+* Roger Lämmli, Konzept
+
 ##### 20./21./22. September 2025
 
 * "Wandel und Erneuerung II" Liedfestival Zürich
