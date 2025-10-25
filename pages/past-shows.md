@@ -7,7 +7,27 @@ bodyClass: agenda
 tags:
   - nav
 ---
-##### 29./30. November
+##### 3. Januar 2026
+
+* "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Andematt, Konzerthalle, 17 Uhr
+* Lena-Lisa Wüstendörfer, Leitung 
+* Reto Bieri, Klarinette
+
+##### 2. Januar 2026
+
+* "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Kunsthaus (Chipperfield-Bau, Festsaal), 17 Uhr
+* Lena-Lisa Wüstendörfer, Leitung 
+* Reto Bieri, Klarinette
+
+##### 1. Januar 2026
+
+* "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Langenthal Stadttheater, 17 Uhr
+* Lena-Lisa Wüstendörfer, Leitung 
+* Reto Bieri, Klarinette
+
+
+
+##### 29./30. November 2025
 
 * "Die Odyssee", Produktion Musiktheater Seefeld, 19.30 Uhr
 * Ein stürmisches Gesangsspiel inspiriert von Homers Odyssee 
@@ -25,7 +45,7 @@ tags:
 * Schubertiade im Hotel Hammer
 * https://www.hotel-hammer.ch/de/kultur/kulturagenda.html
 * Klavierduo mit Satoko Kato
-* Werke von Franz Schubert, A. Dvorak und Gy. Kurtág
+* Werke von F. Schubert, A. Dvorak und Gy. Kurtág
 
 ##### 27./28. September 2025
 
