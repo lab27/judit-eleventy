@@ -18,6 +18,7 @@ tags:
 #### 2025
 
 * Musikgeschichten 'Die (Opern-)tode meiner Mutter', Produktion Opernhaus Zürich
+* 'Die Odyssee', Ein stürmisches Gesangsspiel inspireiert von Homers Odyssee, Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
 
 #### 2024
 
