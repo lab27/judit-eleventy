@@ -11,6 +11,14 @@ tags:
 
 ### Korrepetition bei Opernproduktionen:
 
+#### **2026**
+
+* F. Lehár: 'Die lustige Witwe', Produktion Theatergesellschaft Beinwil am See 
+
+#### 2025
+
+* Musikgeschichten 'Die (Opern-)tode meiner Mutter', Produktion Opernhaus Zürich
+
 #### 2024
 
 * L. Bernstein: 'West Side Story', Produktion Musiktheater Seefeld, musiktheater-seefeld.ch
