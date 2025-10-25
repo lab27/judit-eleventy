@@ -7,7 +7,9 @@ section: interview
 permalink: /interview/index.html
 bodyClass: presse
 ---
-https://www.srf.ch/audio/diskothek/bela-bartok-klavierkonzert-nr-2-g-dur-sz-95?id=AUDI20250616_NR_0002
+**SRF Diskothek, Montag, 16. Juni 2025** 
+
+**https://www.srf.ch/audio/diskothek/bela-bartok-klavierkonzert-nr-2-g-dur-sz-95?id=AUDI20250616_NR_0002**
 
 **[Diskothek: Mel (Mélanie) Bonis: Femmes de légende](https://www.srf.ch/audio/diskothek/mel-bonis-femmes-de-legende?id=12519671)**
 
