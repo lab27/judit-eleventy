@@ -9,7 +9,7 @@ tags:
 ---
 ### Korrepetition mit Schwerpunkt Gesang an der Musikhochschule Kalaidos
 
-### Korrepetition bei Opernproduktionen:
+### Korrepetition bei Bühnenproduktionen:
 
 #### **2026**
 
