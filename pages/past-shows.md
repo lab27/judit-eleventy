@@ -12,18 +12,21 @@ tags:
 * "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Andermatt, Konzerthalle, 17 Uhr
 * Lena-Lisa Wüstendörfer, Leitung 
 * Reto Bieri, Klarinette
+* https://swissorchestra.ch/swiss-connections/
 
 ##### 2. Januar 2026
 
 * "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Kunsthaus (Chipperfield-Bau, Festsaal), 17 Uhr
 * Lena-Lisa Wüstendörfer, Leitung 
 * Reto Bieri, Klarinette
+* https://swissorchestra.ch/swiss-connections/
 
 ##### 1. Januar 2026
 
 * "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Langenthal Stadttheater, 17 Uhr
 * Lena-Lisa Wüstendörfer, Leitung 
 * Reto Bieri, Klarinette
+* https://swissorchestra.ch/swiss-connections/
 
 
 
