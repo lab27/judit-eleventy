@@ -28,8 +28,6 @@ tags:
 * Reto Bieri, Klarinette
 * https://swissorchestra.ch/swiss-connections/
 
-
-
 ##### 29./30. November 2025
 
 * "Die Odyssee", Produktion Musiktheater Seefeld, 19.30 Uhr
@@ -61,8 +59,7 @@ tags:
 ##### 20./21./22. September 2025
 
 * "Wandel und Erneuerung II" Liedfestival Zürich
-* www.liedrezital.ch
-* Judit Polgar, Festivalleitung
+* www.liedfest.ch
 
 ##### 21. Juni 2025
 
@@ -84,8 +81,6 @@ tags:
 
 * "Wandel und Erneuerung I" Liedfestival Zürich
 * www.liedrezital.ch
-* Judit Polgar, Festivalleitung
-* Mit Julian Prégardien, Anna Gebhardt, Siena Licht Miller, Simone Keller, Remy Burnens, Clémence Hirt, Malte Scholz, Rita Bänziger, Ilse Berner, Detlev Müller-Siemens, Anna Kardos, Katalin Müller-Siemens, Prof. Sylvia Sasse, Prof. Fabian Goppelsröder, Jürg Halter, Patrick Frank
 
 ##### 19. Januar 2025
 
