@@ -7,9 +7,9 @@ bodyClass: korrepetition
 tags:
   - nav
 ---
-### Vokal-Korrepetition an der Musikhochschule Kalaidos
+### Dozentin für Vokal-Korrepetition an der Musikhochschule Kalaidos
 
-### Korrepetition bei Bühnenproduktionen:
+### Bühnenproduktionen:
 
 #### **2026**
 
