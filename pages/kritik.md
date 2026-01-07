@@ -1,11 +1,11 @@
 ---
 section: kritik
 layout: layouts/presse.njk
+title: Presse
 date: 2019-05-04
 permalink: /kritik/index.html
 navtitle: Presse
 bodyClass: presse
-title: Presse
 tags:
   - nav
 ---
@@ -30,17 +30,14 @@ tags:
 > Judit Polgar bewältigt die anspruchsvollen, nicht leicht schön zu spielenden Begleitpartien und Nachspiele bei Mahler und Stauss mit Bravour, oft ist sie die treibende Kraft. 
 > *Tagesanzeiger, 26. Jan 2010*
 >
-> Polgar Judit perfekt módon, tökéletes anyag- és műismerettel zongorázott. Mindvégig remekül alkalmazkodott és a szóló szakaszok adta lehetőségekkel is kitűnően élt. \[Judit Polgar spielte perfekt, ihr Spiel zeugte von volltrefflichen Fach- und Materialkenntnissen. Sie passte sich durchwegs dem Gesang an, nutzte aber auch die Möglichkeiten, die sich in den Solostellen ergeben hatten]. 
+> Polgar Judit perfekt módon, tökéletes anyag- és műismerettel zongorázott. Mindvégig remekül alkalmazkodott és a szóló szakaszok adta lehetőségekkel is kitűnően élt. \[Judit Polgar spielte perfekt, ihr Spiel zeugte von volltrefflichen Material- und Werkkenntnissen. Sie passte sich durchwegs dem Gesang an und nutzte auch die sich in den Solostellen ergebenden Möglichkeiten.]
 > *[debRecenzio](http://debrecenzio.wordpress.com), November 2009*
 >
 > Judit Polgar, die mit Jenny seit einiger Zeit ein Lied-Duo bildet, begleitete sehr einfühlsam. Achtsam reagierte sie auf die Tempomodifikationen und die Phrasierungen des Sängers und steuerte, insbesondere in den Vor- und Nachspielen, eine eigene interpretatorische Schicht bei.
 > *Neue Zürcher Zeitung, 24. November 2009*
 >
-> Az is bizonyos, hogy partnere, Polgar Juditis tudatos, bámulatosan koncentrált és differenciált, finom eszközökkel élő művész. \[Seine Partnerin, Judit Polgar ist eine wohl überlegte, konzentrierte Künstlerin, die über differenzierte, feine Mittel verfügt.] 
+> Az is bizonyos, hogy partnere, Polgar Juditis tudatos, bámulatosan koncentrált és differenciált, finom eszközökkel élő művész. \[Seine Partnerin, Judit Polgar, ist eine bewusste, ausserordentlich konzentrierte und differenzierte Künstlerin, die über feine Ausdrucksmittel verfügt.] 
 > *Internationales Opernfestival Miskolc, Juni 2009*
->
-> Es war eine spannende, überraschende Begegnung, hervorragend und sensibel begleitet durch die begabte Pianistin.
-> *Zollikerbote, Mai 2009*
 >
 > Jenny und Polgar erwiesen sich als hervorragend aufeinander reagierendes und 
 > bestens eingespieltes Lied-Duo. Sie erarbeiteten die tiefsinnige klangliche Psychologie, die sich in der Schubert´schen Komposition findet, mit erstaunlicher Reife und fanden auch immer wieder zu einer einfachen Klarheit in der musikalischen Aussage. 
