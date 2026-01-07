@@ -76,7 +76,7 @@ tags:
 
 * F. von Flotow: 'Martha', Produktion Volksoper Zürich
 
-#### 2006-2010
+#### Weitere Produktionen:
 
 * J. Offenbach: 'Die Banditen', Produktion Theater Neumarkt Zürich
 * Opernprojekt „Halle 109“, Produktion Operton
@@ -86,4 +86,4 @@ tags:
 
 ### Korrepetition von Chören:
 
-* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Gewobag Konzertchor
+* Oratorienchor Zürich, Paulus-Chor Zürich, Messias-Chor Zürich, Konzertchor Harmonie Zürich, Laudate Chor Zürich, Chorus Turicum
