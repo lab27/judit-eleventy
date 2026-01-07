@@ -7,7 +7,7 @@ bodyClass: korrepetition
 tags:
   - nav
 ---
-### Korrepetition mit Schwerpunkt Gesang an der Musikhochschule Kalaidos
+### Vokal-Korrepetition an der Musikhochschule Kalaidos
 
 ### Korrepetition bei Bühnenproduktionen:
 
