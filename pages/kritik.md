@@ -13,7 +13,7 @@ tags:
 >
 > Judit Polgar am Klavier erweist sich als sensible und hellwache Begleiterin, die den Sängern den perfekten Klangteppich für ihre emotionalen Exkursionen bereitet. Ihr Spiel ist nicht nur bloße Begleitung, sondern ein integraler Bestandteil des musikalischen Dialogs \[...]. *www.orchestergraben.com, August 2024*
 >
-> In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert**.** *[ Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
+> In Judit Polgar fand Humm eine sensible Klavierbegleiterin, die sich den Jugendliedern kongenial annähert**.***[ Neue Zürcher Zeitung](https://www.nzz.ch/feuilleton/aeneas-humm-die-hohe-kunst-gehoert-zu-werden-ld.1444712), Dezember 2018*
 >
 > Ebben természetesen szerepe volt a nagyszerű zongorakísérőnek is, mivel Polgar Judit egyenrangú partnerként vett részt a dalok interpretálásában. \[Darin spielte natürlich auch die grossartige Klavierbegleiterin eine Rolle, denn Judit Polgar nahm als gleichrangige Partnerin an der Interpretation der Lieder teil.]
 > *[Opera-Világ](http://operavilag.net/kiemelt/magasugras), Oktober 2016*
