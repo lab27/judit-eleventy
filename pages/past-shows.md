@@ -16,7 +16,7 @@ tags:
 
 ##### 12. April 2026
 
-* Konzert mit ars cantata zürich, Predigerkirche, Zürich, 19 Uhr
+* Konzert mit ars cantata zürich, Predigerkirche, Zürich, 17 Uhr
 * Leitung, Philipp Mestrinel
 * Werke von Ola Gjeilo, Morten Lauridsen, Eric Whitacre, Dan Forrest, Robert Sieving
 
