@@ -7,6 +7,25 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 30. Mai 2026
+
+* Liederabend, Musik- und Kulturzentrum Don Bosco, Paul Sacher Saal, 20 Uhr
+* Jonathan McGovern, Bariton
+* Lieder von David Philip Hefti (UA), G. Mahler, A. Zemlinsky, A. Schönberg 
+* www.liedbasel.ch
+
+##### 12. April 2026
+
+* Konzert mit ars cantata zürich, Predigerkirche, Zürich, 19 Uhr
+* Leitung, Philipp Mestrinel
+* Werke von Ola Gjeilo, Morten Lauridsen, Eric Whitacre, Dan Forrest, Robert Sieving
+
+##### 11. April 2026
+
+* Konzert mit ars cantata zürich, Kirche Neumüster, Zürich, 19 Uhr
+* Leitung, Philipp Mestrinel
+* Werke von Ola Gjeilo, Morten Lauridsen, Eric Whitacre, Dan Forrest, Robert Sieving
+
 ##### 3. Januar 2026
 
 * "Swiss Connections", Neujahrskonzert mit dem Swiss Orchestra, Andermatt, Konzerthalle, 17 Uhr
@@ -27,6 +46,8 @@ tags:
 * Lena-Lisa Wüstendörfer, Leitung 
 * Reto Bieri, Klarinette
 * https://swissorchestra.ch/swiss-connections/
+
+### 2025 (Auswahl)
 
 ##### 29./30. November 2025
 
