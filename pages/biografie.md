@@ -9,7 +9,7 @@ tags:
 ---
 Judit Polgar, geboren in Budapest, hat sich als vielseitige und gefragte Liedbegleiterin sowie Korrepetitorin etabliert. Sie studierte Klavier an der Musikhochschule Zürich bei Hadassa Schwimmer und Homero Francesch (Konzertdiplom) sowie Liedgestaltung an den Musikhochschulen Zürich und Karlsruhe bei Irwin Gage und Hartmut Höll (MAS mit Auszeichnung). Weiterführende Studien absolvierte sie bei Florian Ziemen an der Hochschule der Künste Bern (DAS Orchesterdirigieren) sowie an der Universität Luzern (Master in Kulturwissenschaften).
 
-Neben ihrer Konzerttätigkeit auf internationalen Bühnen und Festivals wirkt Judit Polgar an Musiktheater- und Musikvermittlungsproduktionen mit. Seit 2014 ist sie Dozentin für Korrepetition mit Schwerpunkt Gesang an der Kalaidos Musikhochschule Zürich. Seit 2025 leitet sie zusammen mit Patrick Frank und Emil Kauth das *Liedfest Zürich*. 
+Neben ihrer Konzerttätigkeit auf internationalen Bühnen und Festivals wirkt Judit Polgar an Musiktheater- und Musikvermittlungsproduktionen mit. Seit 2014 ist sie Dozentin für Korrepetition mit Schwerpunkt Gesang an der Kalaidos Musikhochschule Zürich. 2024 übernahm sie die kuratorische künstlerische Leitung von Liedrezital Zürich. Seit 2025 leitet sie zusammen mit Patrick Frank und Emil Kauth das *Liedfest Zürich*. 
 
 Als Liedbegleiterin bestritt Judit Polgar wichtige internationale Wettbewerbe: ARD München, Hugo Wolf Stuttgart, Schubert und die Moderne Graz (Finale). Für ihr Schaffen als Liedbegleiterin wurde sie 2009 mit dem Nico Kaufmann-Preis der Stadt Zürich ausgezeichnet. 2010 erhielt den Begleiterpreis am Joseph Suder Liedwettbewerb Nürnberg.
 
