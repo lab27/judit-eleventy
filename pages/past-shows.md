@@ -14,16 +14,24 @@ tags:
 * Lieder von David Philip Hefti (UA), G. Mahler, A. Zemlinsky, A. Schönberg 
 * www.liedbasel.ch
 
+##### 18. April 2026
+
+* Bröhan Museum Berlin, 15 Uhr
+* Valérie Arias, Mezzosopran
+* Poulenc: La voix humaine
+
 ##### 12. April 2026
 
-* Konzert mit ars cantata zürich, Predigerkirche, Zürich, 17 Uhr
+* "This Shining Night", Konzert mit Ars Cantata Zürich, Predigerkirche, Zürich, 17 Uhr
 * Philipp Mestrinel, Leitung
+* Ronny Spiegel und Eszter Major, Violinen, Dominique Polich, Viola, Sabine Bärtschi, Cello
 * Werke von Ola Gjeilo, Morten Lauridsen, Eric Whitacre, Dan Forrest, Robert Sieving
 
 ##### 11. April 2026
 
-* Konzert mit ars cantata zürich, Kirche Neumüster, Zürich, 19 Uhr
+* "This Shining Night", Konzert mit Ars Cantata Zürich, Kirche Neumüster, Zürich, 19 Uhr
 * Philipp Mestrinel, Leitung
+* Ronny Spiegel und Eszter Major, Violinen, Dominique Polich, Viola, Sabine Bärtschi, Cello
 * Werke von Ola Gjeilo, Morten Lauridsen, Eric Whitacre, Dan Forrest, Robert Sieving
 
 ##### 3. Januar 2026
