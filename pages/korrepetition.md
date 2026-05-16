@@ -13,6 +13,7 @@ tags:
 
 #### **2026**
 
+* K. Weill: 'Die Dreigroschenoper', Produktion Schauspielhaus Zürich
 * F. Lehár: 'Die lustige Witwe', Produktion Theatergesellschaft Beinwil am See 
 
 #### 2025
