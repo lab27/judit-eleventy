@@ -9,9 +9,9 @@ tags:
 ---
 ##### 30. Mai 2026
 
-* Liederabend, Musik- und Kulturzentrum Don Bosco, Paul Sacher Saal, 20 Uhr
+* "Welt ist nur in Traum schön", Liederabend, Musik- und Kulturzentrum Don Bosco, Paul Sacher Saal, 20 Uhr
 * Jonathan McGovern, Bariton
-* Lieder von David Philip Hefti (UA), G. Mahler, A. Zemlinsky, A. Schönberg 
+* Lieder von David Philip Hefti (UA), G. Mahler, A. Zemlinsky, A. Schönberg, R. Strauss, B. Britten, R. Clarke, A. Beach, L. Lehmann, N. Muhly 
 * www.liedbasel.ch
 
 ##### 18. April 2026
