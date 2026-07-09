@@ -7,6 +7,16 @@ bodyClass: agenda
 tags:
   - nav
 ---
+##### 10./11./12./13. Dezember
+
+* Liedfest Zürich, www.liedfest.ch
+
+##### 27. September
+
+* Konzertreihe Predigerkirche "Interkontinentale Horizonte: Dialoge zwischen Klavier und Orgel", Predigerkirche Zürich, 20 Uhr
+* Philipp Mestrinel, Orgel/Klavier
+* Werke von J. S. Bach, F. Schubert, S. Karg-Elert 
+
 ##### 30. Mai 2026
 
 * "Welt ist nur in Traum schön", Liederabend, Musik- und Kulturzentrum Don Bosco, Paul Sacher Saal, 20 Uhr
