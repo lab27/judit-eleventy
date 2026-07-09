@@ -7,15 +7,13 @@ bodyClass: agenda
 tags:
   - nav
 ---
-### 2027 
+### 2027
 
 **28. Februar 2027**
 
 * Liederabend, Kunst Gesellschaft Greifensee, 17 Uhr
 * Ana Maria Labin, Sopran, Äneas Humm, Bariton
 * https://www.kg-greifensee.ch
-
-
 
 ##### 10./11./12./13. Dezember 2026
 
@@ -24,7 +22,7 @@ tags:
 
 ##### 27. September 2026
 
-* Konzertreihe Predigerkirche "Interkontinentale Horizonte: Dialoge zwischen Klavier und Orgel", Predigerkirche Zürich, 20 Uhr
+* Konzertreihe Predigerkirche "Interkontinentale Horizonte: Dialoge zwischen Klavier und Orgel", Predigerkirche Zürich, 17 Uhr
 * Philipp Mestrinel, Orgel/Klavier
 * Werke von J. S. Bach, F. Schubert, S. Karg-Elert 
 
