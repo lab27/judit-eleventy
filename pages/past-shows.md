@@ -9,7 +9,7 @@ tags:
 ---
 ##### 10./11./12./13. Dezember
 
-* Liedfest Zürich, www.liedfest.ch
+* Liedfest Zürich 2026: Sturm und Zwang, www.liedfest.ch
 
 ##### 27. September
 
