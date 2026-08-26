@@ -9,7 +9,7 @@ tags:
 ---
 ### 2027
 
-**28. Februar 2027**
+##### 28. Februar 2027
 
 * Liederabend, Kunst Gesellschaft Greifensee, 17 Uhr
 * Ana Maria Labin, Sopran, Äneas Humm, Bariton
