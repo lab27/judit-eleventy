@@ -20,6 +20,11 @@ tags:
 * Liedfest Zürich 2026: Sturm und Zwang
 * www.liedfest.ch
 
+##### 31. Oktober / 1. November 2026
+
+* Familienworkshop "Alice im Wunderland" von Pierangelo Valtinoni
+* https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/2026-2027
+
 ##### 27. September 2026
 
 * Konzertreihe Predigerkirche "Interkontinentale Horizonte: Dialoge zwischen Klavier und Orgel", Predigerkirche Zürich, 17 Uhr
