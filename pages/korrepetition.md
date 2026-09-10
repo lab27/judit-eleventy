@@ -14,9 +14,9 @@ tags:
 #### **2026**
 
 * B. Brecht/K. Weill: 'Die Dreigroschenoper', Produktion Schauspielhaus Zürich https://www.schauspielhaus.ch/de/kalender/38184/die-dreigroschenoper
-* Alice im Wunderland
+* P. Valtinoni: 'Alice im Wunderland', Workshop für Familien,Produktion Opernhaus Zürich, https://www.opernhaus.ch/spielplan/kalendarium/familien-workshop-alice-im-wunderland/2026-2027/
 * F. Lehár: 'Die lustige Witwe', Produktion Theatergesellschaft Beinwil am See https://www.operette-beinwil.ch
-* Alice im Wunderland - Ein verdrehtes Gesangsspiel frei nach Lewis Caroll, mit Musik von Händel, Mozart, Rossini, Satie, Sondheim, Schwartz und Cole, Produktion Musiktheater Seefeld                                                                                                              https://musiktheater-seefeld.ch/alice/
+* 'Alice im Wunderland' - Ein verdrehtes Gesangsspiel frei nach Lewis Caroll, mit Musik von Händel, Mozart, Rossini, Satie, Sondheim, Schwartz und Cole, Produktion Musiktheater Seefeld                                                                                                              https://musiktheater-seefeld.ch/alice/
 
 #### 2025
 
