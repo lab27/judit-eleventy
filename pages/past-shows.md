@@ -9,10 +9,19 @@ tags:
 ---
 ### 2027
 
+
+
+##### **16./17. April 2017**
+
+* Vokalensemble Ars Canora
+* Leitung: Stephan Fuchs
+* Klavierduo mit Satoko Kato
+* Brahms: Liebeslieder-Walzer op. 52, Neue Liebeslieder-Walzer op. 65
+
 ##### 28. Februar 2027
 
 * Liederabend, Kunst Gesellschaft Greifensee, 17 Uhr
-* Ana Maria Labin, Sopran, Äneas Humm, Bariton
+* Ana Maria Labin, Sopran; Äneas Humm, Bariton
 * https://www.kg-greifensee.ch
 
 ##### 10./11./12./13. Dezember 2026
@@ -29,7 +38,12 @@ tags:
 
 * Konzertreihe Predigerkirche "Interkontinentale Horizonte: Dialoge zwischen Klavier und Orgel", Predigerkirche Zürich, 17 Uhr
 * Philipp Mestrinel, Orgel/Klavier
-* Werke von J. S. Bach, F. Schubert, S. Karg-Elert 
+* Werke von J. S. Bach und F. Schubert
+
+##### 19. September 2026
+
+* Eröffnungsfest Opernhaus Zürich, https://www.opernhaus.ch/spielplan/eroeffnungsfest-2026-27
+* „Papageno, Pamina & Co. – Opernhits zum Mitsingen“, Familienworkshop
 
 ##### 30. Mai 2026
 
